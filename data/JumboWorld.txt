@@ -1,0 +1,3001 @@
+Family	Hotel	Park	Day
+Smith	Tusk Hotel	Jumbo Kingdom	Friday
+Smith	Tusk Hotel	Jumbo Kingdom	Saturday
+Smith	Tusk Hotel	World's Fair	Sunday
+Johnson	Mammoth Motel	Jumbo Studios	Friday
+Johnson	Mammoth Motel	Jumbo Kingdom	Saturday
+Johnson	Mammoth Motel	Jumbo Kingdom	Sunday
+Williams	Mammoth Motel	Animal Planet Zoo	Friday
+Williams	Mammoth Motel	Trunk Water Park	Saturday
+Williams	Mammoth Motel	Jumbo Kingdom	Sunday
+Jones	Elephant Lodge	Jumbo Studios	Friday
+Jones	Elephant Lodge	Jumbo Kingdom	Saturday
+Jones	Elephant Lodge	Jumbo Kingdom	Sunday
+Brown	Trunk Inn	Jumbo Kingdom	Friday
+Brown	Trunk Inn	Animal Planet Zoo	Saturday
+Brown	Trunk Inn	World's Fair	Sunday
+Davis	Trunk Inn	Jumbo Kingdom	Friday
+Davis	Trunk Inn	Jumbo Kingdom	Saturday
+Davis	Trunk Inn	Trunk Water Park	Sunday
+Miller	Loxodon Lodge	Jumbo Studios	Friday
+Miller	Loxodon Lodge	Trunk Water Park	Saturday
+Miller	Loxodon Lodge	World's Fair	Sunday
+Wilson	Pachyderm Suites	Jumbo Studios	Friday
+Wilson	Pachyderm Suites	World's Fair	Saturday
+Wilson	Pachyderm Suites	Jumbo Kingdom	Sunday
+Moore	Loxodon Lodge	Animal Planet Zoo	Friday
+Moore	Loxodon Lodge	Animal Planet Zoo	Saturday
+Moore	Loxodon Lodge	Jumbo Golf Course	Sunday
+Taylor	Mouse Resort	Jumbo Kingdom	Friday
+Taylor	Mouse Resort	Jumbo Studios	Saturday
+Taylor	Mouse Resort	Animal Planet Zoo	Sunday
+Anderson	Tusk Hotel	Jumbo Kingdom	Friday
+Anderson	Tusk Hotel	Jumbo Kingdom	Saturday
+Anderson	Tusk Hotel	Jumbo Studios	Sunday
+Thomas	Mouse Resort	Animal Planet Zoo	Friday
+Thomas	Mouse Resort	Jumbo Golf Course	Saturday
+Thomas	Mouse Resort	Jumbo Kingdom	Sunday
+Jackson	Oliphant Camp	Jumbo Studios	Friday
+Jackson	Oliphant Camp	World's Fair	Saturday
+Jackson	Oliphant Camp	Trunk Water Park	Sunday
+White	Loxodon Lodge	World's Fair	Friday
+White	Loxodon Lodge	Jumbo Kingdom	Saturday
+White	Loxodon Lodge	Jumbo Studios	Sunday
+Harris	Mouse Resort	Jumbo Kingdom	Friday
+Harris	Mouse Resort	Jumbo Golf Course	Saturday
+Harris	Mouse Resort	World's Fair	Sunday
+Martin	Mammoth Motel	World's Fair	Friday
+Martin	Mammoth Motel	Trunk Water Park	Saturday
+Martin	Mammoth Motel	Jumbo Studios	Sunday
+Thompson	Oliphant Camp	World's Fair	Friday
+Thompson	Oliphant Camp	Jumbo Studios	Saturday
+Thompson	Oliphant Camp	Trunk Water Park	Sunday
+Garcia	Trunk Inn	Jumbo Kingdom	Friday
+Garcia	Trunk Inn	Jumbo Kingdom	Saturday
+Garcia	Trunk Inn	Jumbo Kingdom	Sunday
+Martinez	Tusk Hotel	World's Fair	Friday
+Martinez	Tusk Hotel	Jumbo Golf Course	Saturday
+Martinez	Tusk Hotel	Jumbo Kingdom	Sunday
+Robinson	Trunk Inn	Jumbo Kingdom	Friday
+Robinson	Trunk Inn	Jumbo Kingdom	Saturday
+Robinson	Trunk Inn	Jumbo Kingdom	Sunday
+Clark	Mammoth Motel	World's Fair	Friday
+Clark	Mammoth Motel	Jumbo Kingdom	Saturday
+Clark	Mammoth Motel	Jumbo Studios	Sunday
+Rodriguez	Tusk Hotel	Jumbo Studios	Friday
+Rodriguez	Tusk Hotel	World's Fair	Saturday
+Rodriguez	Tusk Hotel	Jumbo Kingdom	Sunday
+Lewis	Elephant Lodge	World's Fair	Friday
+Lewis	Elephant Lodge	Animal Planet Zoo	Saturday
+Lewis	Elephant Lodge	Jumbo Studios	Sunday
+Lee	Tusk Hotel	Jumbo Kingdom	Friday
+Lee	Tusk Hotel	World's Fair	Saturday
+Lee	Tusk Hotel	Animal Planet Zoo	Sunday
+Walker	Mammoth Motel	Jumbo Golf Course	Friday
+Walker	Mammoth Motel	World's Fair	Saturday
+Walker	Mammoth Motel	Jumbo Studios	Sunday
+Hall	Trunk Inn	Jumbo Kingdom	Friday
+Hall	Trunk Inn	Jumbo Studios	Saturday
+Hall	Trunk Inn	Jumbo Studios	Sunday
+Allen	Trunk Inn	Jumbo Kingdom	Friday
+Allen	Trunk Inn	Jumbo Studios	Saturday
+Allen	Trunk Inn	Trunk Water Park	Sunday
+Young	Tusk Hotel	World's Fair	Friday
+Young	Tusk Hotel	Jumbo Studios	Saturday
+Young	Tusk Hotel	Jumbo Kingdom	Sunday
+Hernandez	Tusk Hotel	Jumbo Kingdom	Friday
+Hernandez	Tusk Hotel	Jumbo Studios	Saturday
+Hernandez	Tusk Hotel	World's Fair	Sunday
+King	Tusk Hotel	Jumbo Kingdom	Friday
+King	Tusk Hotel	Jumbo Kingdom	Saturday
+King	Tusk Hotel	Jumbo Kingdom	Sunday
+Wright	Mouse Resort	Animal Planet Zoo	Friday
+Wright	Mouse Resort	Jumbo Studios	Saturday
+Wright	Mouse Resort	World's Fair	Sunday
+Lopez	Mammoth Motel	Jumbo Studios	Friday
+Lopez	Mammoth Motel	World's Fair	Saturday
+Lopez	Mammoth Motel	Jumbo Golf Course	Sunday
+Hill	Tusk Hotel	Jumbo Kingdom	Friday
+Hill	Tusk Hotel	Trunk Water Park	Saturday
+Hill	Tusk Hotel	Jumbo Studios	Sunday
+Scott	Trunk Inn	World's Fair	Friday
+Scott	Trunk Inn	Jumbo Kingdom	Saturday
+Scott	Trunk Inn	Animal Planet Zoo	Sunday
+Green	Mammoth Motel	Jumbo Kingdom	Friday
+Green	Mammoth Motel	Jumbo Studios	Saturday
+Green	Mammoth Motel	World's Fair	Sunday
+Adams	Loxodon Lodge	Jumbo Studios	Friday
+Adams	Loxodon Lodge	Jumbo Kingdom	Saturday
+Adams	Loxodon Lodge	World's Fair	Sunday
+Baker	Trunk Inn	Trunk Water Park	Friday
+Baker	Trunk Inn	Jumbo Kingdom	Saturday
+Baker	Trunk Inn	Animal Planet Zoo	Sunday
+Gonzalez	Trunk Inn	World's Fair	Friday
+Gonzalez	Trunk Inn	World's Fair	Saturday
+Gonzalez	Trunk Inn	Animal Planet Zoo	Sunday
+Nelson	Trunk Inn	World's Fair	Friday
+Nelson	Trunk Inn	World's Fair	Saturday
+Nelson	Trunk Inn	Jumbo Kingdom	Sunday
+Carter	Mammoth Motel	World's Fair	Friday
+Carter	Mammoth Motel	Jumbo Studios	Saturday
+Carter	Mammoth Motel	Jumbo Kingdom	Sunday
+Mitchell	Trunk Inn	Jumbo Kingdom	Friday
+Mitchell	Trunk Inn	Jumbo Kingdom	Saturday
+Mitchell	Trunk Inn	Jumbo Kingdom	Sunday
+Perez	Mouse Resort	Jumbo Golf Course	Friday
+Perez	Mouse Resort	Jumbo Studios	Saturday
+Perez	Mouse Resort	Jumbo Studios	Sunday
+Roberts	Pachyderm Suites	Jumbo Golf Course	Friday
+Roberts	Pachyderm Suites	Jumbo Studios	Saturday
+Roberts	Pachyderm Suites	Jumbo Kingdom	Sunday
+Turner	Mouse Resort	Jumbo Golf Course	Friday
+Turner	Mouse Resort	Jumbo Studios	Saturday
+Turner	Mouse Resort	World's Fair	Sunday
+Phillips	Elephant Lodge	Animal Planet Zoo	Friday
+Phillips	Elephant Lodge	Trunk Water Park	Saturday
+Phillips	Elephant Lodge	Jumbo Kingdom	Sunday
+Campbell	Mammoth Motel	Trunk Water Park	Friday
+Campbell	Mammoth Motel	Jumbo Studios	Saturday
+Campbell	Mammoth Motel	Animal Planet Zoo	Sunday
+Parker	Mouse Resort	Jumbo Golf Course	Friday
+Parker	Mouse Resort	Jumbo Kingdom	Saturday
+Parker	Mouse Resort	Trunk Water Park	Sunday
+Evans	Oliphant Camp	World's Fair	Friday
+Evans	Oliphant Camp	Jumbo Golf Course	Saturday
+Evans	Oliphant Camp	Trunk Water Park	Sunday
+Edwards	Elephant Lodge	Animal Planet Zoo	Friday
+Edwards	Elephant Lodge	Trunk Water Park	Saturday
+Edwards	Elephant Lodge	Jumbo Kingdom	Sunday
+Collins	Pachyderm Suites	Animal Planet Zoo	Friday
+Collins	Pachyderm Suites	Jumbo Kingdom	Saturday
+Collins	Pachyderm Suites	Jumbo Studios	Sunday
+Stewart	Pachyderm Suites	Jumbo Studios	Friday
+Stewart	Pachyderm Suites	Jumbo Kingdom	Saturday
+Stewart	Pachyderm Suites	World's Fair	Sunday
+Sanchez	Pachyderm Suites	World's Fair	Friday
+Sanchez	Pachyderm Suites	Jumbo Kingdom	Saturday
+Sanchez	Pachyderm Suites	Animal Planet Zoo	Sunday
+Morris	Loxodon Lodge	Jumbo Studios	Friday
+Morris	Loxodon Lodge	Trunk Water Park	Saturday
+Morris	Loxodon Lodge	Animal Planet Zoo	Sunday
+Rogers	Loxodon Lodge	Jumbo Golf Course	Friday
+Rogers	Loxodon Lodge	Jumbo Golf Course	Saturday
+Rogers	Loxodon Lodge	World's Fair	Sunday
+Reed	Pachyderm Suites	Jumbo Kingdom	Friday
+Reed	Pachyderm Suites	World's Fair	Saturday
+Reed	Pachyderm Suites	Trunk Water Park	Sunday
+Cook	Loxodon Lodge	World's Fair	Friday
+Cook	Loxodon Lodge	Jumbo Studios	Saturday
+Cook	Loxodon Lodge	Trunk Water Park	Sunday
+Morgan	Pachyderm Suites	Animal Planet Zoo	Friday
+Morgan	Pachyderm Suites	Animal Planet Zoo	Saturday
+Morgan	Pachyderm Suites	Jumbo Studios	Sunday
+Bell	Mammoth Motel	Jumbo Kingdom	Friday
+Bell	Mammoth Motel	Jumbo Studios	Saturday
+Bell	Mammoth Motel	World's Fair	Sunday
+Murphy	Oliphant Camp	World's Fair	Friday
+Murphy	Oliphant Camp	Jumbo Kingdom	Saturday
+Murphy	Oliphant Camp	Trunk Water Park	Sunday
+Bailey	Trunk Inn	Jumbo Kingdom	Friday
+Bailey	Trunk Inn	Trunk Water Park	Saturday
+Bailey	Trunk Inn	Animal Planet Zoo	Sunday
+Rivera	Loxodon Lodge	World's Fair	Friday
+Rivera	Loxodon Lodge	World's Fair	Saturday
+Rivera	Loxodon Lodge	Jumbo Kingdom	Sunday
+Cooper	Trunk Inn	Jumbo Kingdom	Friday
+Cooper	Trunk Inn	World's Fair	Saturday
+Cooper	Trunk Inn	World's Fair	Sunday
+Richardson	Tusk Hotel	Jumbo Kingdom	Friday
+Richardson	Tusk Hotel	World's Fair	Saturday
+Richardson	Tusk Hotel	Jumbo Studios	Sunday
+Cox	Loxodon Lodge	World's Fair	Friday
+Cox	Loxodon Lodge	Jumbo Kingdom	Saturday
+Cox	Loxodon Lodge	Jumbo Studios	Sunday
+Howard	Trunk Inn	World's Fair	Friday
+Howard	Trunk Inn	Jumbo Kingdom	Saturday
+Howard	Trunk Inn	Animal Planet Zoo	Sunday
+Ward	Pachyderm Suites	World's Fair	Friday
+Ward	Pachyderm Suites	Jumbo Studios	Saturday
+Ward	Pachyderm Suites	Jumbo Kingdom	Sunday
+Torres	Loxodon Lodge	Jumbo Kingdom	Friday
+Torres	Loxodon Lodge	Jumbo Kingdom	Saturday
+Torres	Loxodon Lodge	Jumbo Studios	Sunday
+Peterson	Oliphant Camp	World's Fair	Friday
+Peterson	Oliphant Camp	Jumbo Golf Course	Saturday
+Peterson	Oliphant Camp	Jumbo Golf Course	Sunday
+Gray	Mammoth Motel	Animal Planet Zoo	Friday
+Gray	Mammoth Motel	Trunk Water Park	Saturday
+Gray	Mammoth Motel	Jumbo Studios	Sunday
+Ramirez	Oliphant Camp	World's Fair	Friday
+Ramirez	Oliphant Camp	Animal Planet Zoo	Saturday
+Ramirez	Oliphant Camp	Jumbo Kingdom	Sunday
+James	Pachyderm Suites	World's Fair	Friday
+James	Pachyderm Suites	Jumbo Studios	Saturday
+James	Pachyderm Suites	Jumbo Golf Course	Sunday
+Watson	Pachyderm Suites	Jumbo Golf Course	Friday
+Watson	Pachyderm Suites	Jumbo Golf Course	Saturday
+Watson	Pachyderm Suites	Jumbo Studios	Sunday
+Brooks	Mammoth Motel	Trunk Water Park	Friday
+Brooks	Mammoth Motel	Jumbo Studios	Saturday
+Brooks	Mammoth Motel	World's Fair	Sunday
+Kelly	Trunk Inn	Trunk Water Park	Friday
+Kelly	Trunk Inn	Trunk Water Park	Saturday
+Kelly	Trunk Inn	Jumbo Kingdom	Sunday
+Sanders	Elephant Lodge	Jumbo Kingdom	Friday
+Sanders	Elephant Lodge	Animal Planet Zoo	Saturday
+Sanders	Elephant Lodge	Animal Planet Zoo	Sunday
+Price	Loxodon Lodge	Jumbo Golf Course	Friday
+Price	Loxodon Lodge	Jumbo Studios	Saturday
+Price	Loxodon Lodge	Jumbo Kingdom	Sunday
+Bennett	Mammoth Motel	Jumbo Studios	Friday
+Bennett	Mammoth Motel	Jumbo Studios	Saturday
+Bennett	Mammoth Motel	Jumbo Studios	Sunday
+Wood	Trunk Inn	World's Fair	Friday
+Wood	Trunk Inn	Jumbo Studios	Saturday
+Wood	Trunk Inn	Jumbo Golf Course	Sunday
+Barnes	Pachyderm Suites	Jumbo Kingdom	Friday
+Barnes	Pachyderm Suites	World's Fair	Saturday
+Barnes	Pachyderm Suites	Jumbo Studios	Sunday
+Ross	Trunk Inn	Jumbo Kingdom	Friday
+Ross	Trunk Inn	Trunk Water Park	Saturday
+Ross	Trunk Inn	Animal Planet Zoo	Sunday
+Henderson	Trunk Inn	Jumbo Kingdom	Friday
+Henderson	Trunk Inn	Animal Planet Zoo	Saturday
+Henderson	Trunk Inn	Jumbo Studios	Sunday
+Coleman	Loxodon Lodge	Jumbo Studios	Friday
+Coleman	Loxodon Lodge	Jumbo Kingdom	Saturday
+Coleman	Loxodon Lodge	Animal Planet Zoo	Sunday
+Jenkins	Mouse Resort	Jumbo Studios	Friday
+Jenkins	Mouse Resort	Jumbo Golf Course	Saturday
+Jenkins	Mouse Resort	World's Fair	Sunday
+Perry	Oliphant Camp	Jumbo Kingdom	Friday
+Perry	Oliphant Camp	Jumbo Kingdom	Saturday
+Perry	Oliphant Camp	World's Fair	Sunday
+Powell	Trunk Inn	Jumbo Kingdom	Friday
+Powell	Trunk Inn	Jumbo Studios	Saturday
+Powell	Trunk Inn	World's Fair	Sunday
+Long	Loxodon Lodge	Jumbo Studios	Friday
+Long	Loxodon Lodge	World's Fair	Saturday
+Long	Loxodon Lodge	World's Fair	Sunday
+Patterson	Pachyderm Suites	Jumbo Studios	Friday
+Patterson	Pachyderm Suites	World's Fair	Saturday
+Patterson	Pachyderm Suites	World's Fair	Sunday
+Hughes	Mammoth Motel	World's Fair	Friday
+Hughes	Mammoth Motel	Jumbo Studios	Saturday
+Hughes	Mammoth Motel	Trunk Water Park	Sunday
+Flores	Pachyderm Suites	World's Fair	Friday
+Flores	Pachyderm Suites	Jumbo Studios	Saturday
+Flores	Pachyderm Suites	Jumbo Kingdom	Sunday
+Washington	Mammoth Motel	World's Fair	Friday
+Washington	Mammoth Motel	Jumbo Studios	Saturday
+Washington	Mammoth Motel	Animal Planet Zoo	Sunday
+Butler	Trunk Inn	Jumbo Kingdom	Friday
+Butler	Trunk Inn	Jumbo Studios	Saturday
+Butler	Trunk Inn	World's Fair	Sunday
+Simmons	Mammoth Motel	Trunk Water Park	Friday
+Simmons	Mammoth Motel	Jumbo Studios	Saturday
+Simmons	Mammoth Motel	Animal Planet Zoo	Sunday
+Foster	Loxodon Lodge	Jumbo Golf Course	Friday
+Foster	Loxodon Lodge	Jumbo Kingdom	Saturday
+Foster	Loxodon Lodge	Jumbo Studios	Sunday
+Gonzales	Trunk Inn	Jumbo Kingdom	Friday
+Gonzales	Trunk Inn	World's Fair	Saturday
+Gonzales	Trunk Inn	Jumbo Studios	Sunday
+Bryant	Tusk Hotel	Jumbo Kingdom	Friday
+Bryant	Tusk Hotel	World's Fair	Saturday
+Bryant	Tusk Hotel	Jumbo Studios	Sunday
+Alexander	Mammoth Motel	Trunk Water Park	Friday
+Alexander	Mammoth Motel	World's Fair	Saturday
+Alexander	Mammoth Motel	Jumbo Studios	Sunday
+Russell	Tusk Hotel	Jumbo Kingdom	Friday
+Russell	Tusk Hotel	Jumbo Kingdom	Saturday
+Russell	Tusk Hotel	Animal Planet Zoo	Sunday
+Griffin	Tusk Hotel	Jumbo Kingdom	Friday
+Griffin	Tusk Hotel	Jumbo Studios	Saturday
+Griffin	Tusk Hotel	Jumbo Golf Course	Sunday
+Diaz	Oliphant Camp	Animal Planet Zoo	Friday
+Diaz	Oliphant Camp	Jumbo Kingdom	Saturday
+Diaz	Oliphant Camp	Trunk Water Park	Sunday
+Hayes	Pachyderm Suites	Jumbo Studios	Friday
+Hayes	Pachyderm Suites	Jumbo Golf Course	Saturday
+Hayes	Pachyderm Suites	Jumbo Kingdom	Sunday
+Myers	Trunk Inn	Jumbo Kingdom	Friday
+Myers	Trunk Inn	Jumbo Kingdom	Saturday
+Myers	Trunk Inn	Jumbo Studios	Sunday
+Ford	Mammoth Motel	World's Fair	Friday
+Ford	Mammoth Motel	World's Fair	Saturday
+Ford	Mammoth Motel	Jumbo Golf Course	Sunday
+Hamilton	Mammoth Motel	World's Fair	Friday
+Hamilton	Mammoth Motel	Jumbo Golf Course	Saturday
+Hamilton	Mammoth Motel	Trunk Water Park	Sunday
+Graham	Trunk Inn	Jumbo Studios	Friday
+Graham	Trunk Inn	Jumbo Kingdom	Saturday
+Graham	Trunk Inn	Animal Planet Zoo	Sunday
+Sullivan	Tusk Hotel	World's Fair	Friday
+Sullivan	Tusk Hotel	World's Fair	Saturday
+Sullivan	Tusk Hotel	Jumbo Kingdom	Sunday
+Wallace	Tusk Hotel	Jumbo Kingdom	Friday
+Wallace	Tusk Hotel	Jumbo Studios	Saturday
+Wallace	Tusk Hotel	World's Fair	Sunday
+Woods	Oliphant Camp	World's Fair	Friday
+Woods	Oliphant Camp	Jumbo Studios	Saturday
+Woods	Oliphant Camp	Jumbo Golf Course	Sunday
+Cole	Mammoth Motel	Jumbo Kingdom	Friday
+Cole	Mammoth Motel	Jumbo Kingdom	Saturday
+Cole	Mammoth Motel	Trunk Water Park	Sunday
+West	Oliphant Camp	Jumbo Studios	Friday
+West	Oliphant Camp	Jumbo Golf Course	Saturday
+West	Oliphant Camp	World's Fair	Sunday
+Jordan	Tusk Hotel	Jumbo Kingdom	Friday
+Jordan	Tusk Hotel	Jumbo Studios	Saturday
+Jordan	Tusk Hotel	Jumbo Studios	Sunday
+Owens	Loxodon Lodge	Animal Planet Zoo	Friday
+Owens	Loxodon Lodge	World's Fair	Saturday
+Owens	Loxodon Lodge	Jumbo Kingdom	Sunday
+Reynolds	Pachyderm Suites	World's Fair	Friday
+Reynolds	Pachyderm Suites	Trunk Water Park	Saturday
+Reynolds	Pachyderm Suites	Jumbo Kingdom	Sunday
+Fisher	Elephant Lodge	Trunk Water Park	Friday
+Fisher	Elephant Lodge	Animal Planet Zoo	Saturday
+Fisher	Elephant Lodge	World's Fair	Sunday
+Ellis	Mammoth Motel	Animal Planet Zoo	Friday
+Ellis	Mammoth Motel	Jumbo Studios	Saturday
+Ellis	Mammoth Motel	Trunk Water Park	Sunday
+Harrison	Oliphant Camp	Jumbo Studios	Friday
+Harrison	Oliphant Camp	Jumbo Studios	Saturday
+Harrison	Oliphant Camp	Animal Planet Zoo	Sunday
+Gibson	Tusk Hotel	Jumbo Kingdom	Friday
+Gibson	Tusk Hotel	Jumbo Kingdom	Saturday
+Gibson	Tusk Hotel	Animal Planet Zoo	Sunday
+Mcdonald	Tusk Hotel	Jumbo Kingdom	Friday
+Mcdonald	Tusk Hotel	Jumbo Golf Course	Saturday
+Mcdonald	Tusk Hotel	Animal Planet Zoo	Sunday
+Cruz	Mammoth Motel	Jumbo Studios	Friday
+Cruz	Mammoth Motel	World's Fair	Saturday
+Cruz	Mammoth Motel	Animal Planet Zoo	Sunday
+Marshall	Mammoth Motel	Jumbo Studios	Friday
+Marshall	Mammoth Motel	Jumbo Kingdom	Saturday
+Marshall	Mammoth Motel	World's Fair	Sunday
+Ortiz	Oliphant Camp	World's Fair	Friday
+Ortiz	Oliphant Camp	Animal Planet Zoo	Saturday
+Ortiz	Oliphant Camp	Jumbo Kingdom	Sunday
+Gomez	Mammoth Motel	Jumbo Golf Course	Friday
+Gomez	Mammoth Motel	Jumbo Studios	Saturday
+Gomez	Mammoth Motel	World's Fair	Sunday
+Murray	Mouse Resort	Jumbo Golf Course	Friday
+Murray	Mouse Resort	Animal Planet Zoo	Saturday
+Murray	Mouse Resort	Jumbo Studios	Sunday
+Freeman	Loxodon Lodge	World's Fair	Friday
+Freeman	Loxodon Lodge	Jumbo Studios	Saturday
+Freeman	Loxodon Lodge	Jumbo Studios	Sunday
+Wells	Elephant Lodge	Animal Planet Zoo	Friday
+Wells	Elephant Lodge	Animal Planet Zoo	Saturday
+Wells	Elephant Lodge	Jumbo Kingdom	Sunday
+Webb	Oliphant Camp	Jumbo Kingdom	Friday
+Webb	Oliphant Camp	World's Fair	Saturday
+Webb	Oliphant Camp	Jumbo Studios	Sunday
+Simpson	Oliphant Camp	Jumbo Studios	Friday
+Simpson	Oliphant Camp	Jumbo Kingdom	Saturday
+Simpson	Oliphant Camp	Jumbo Kingdom	Sunday
+Stevens	Tusk Hotel	Jumbo Kingdom	Friday
+Stevens	Tusk Hotel	Jumbo Kingdom	Saturday
+Stevens	Tusk Hotel	Jumbo Studios	Sunday
+Tucker	Mammoth Motel	Jumbo Kingdom	Friday
+Tucker	Mammoth Motel	Jumbo Studios	Saturday
+Tucker	Mammoth Motel	World's Fair	Sunday
+Porter	Mammoth Motel	Jumbo Kingdom	Friday
+Porter	Mammoth Motel	Jumbo Kingdom	Saturday
+Porter	Mammoth Motel	World's Fair	Sunday
+Hunter	Mouse Resort	Trunk Water Park	Friday
+Hunter	Mouse Resort	World's Fair	Saturday
+Hunter	Mouse Resort	Jumbo Kingdom	Sunday
+Hicks	Loxodon Lodge	World's Fair	Friday
+Hicks	Loxodon Lodge	Jumbo Kingdom	Saturday
+Hicks	Loxodon Lodge	Trunk Water Park	Sunday
+Crawford	Tusk Hotel	World's Fair	Friday
+Crawford	Tusk Hotel	Jumbo Kingdom	Saturday
+Crawford	Tusk Hotel	Animal Planet Zoo	Sunday
+Henry	Mouse Resort	World's Fair	Friday
+Henry	Mouse Resort	Jumbo Studios	Saturday
+Henry	Mouse Resort	Jumbo Golf Course	Sunday
+Boyd	Pachyderm Suites	Jumbo Kingdom	Friday
+Boyd	Pachyderm Suites	World's Fair	Saturday
+Boyd	Pachyderm Suites	Jumbo Studios	Sunday
+Mason	Trunk Inn	Jumbo Studios	Friday
+Mason	Trunk Inn	Jumbo Kingdom	Saturday
+Mason	Trunk Inn	Jumbo Kingdom	Sunday
+Morales	Loxodon Lodge	Jumbo Studios	Friday
+Morales	Loxodon Lodge	World's Fair	Saturday
+Morales	Loxodon Lodge	Jumbo Kingdom	Sunday
+Kennedy	Trunk Inn	Trunk Water Park	Friday
+Kennedy	Trunk Inn	World's Fair	Saturday
+Kennedy	Trunk Inn	Jumbo Golf Course	Sunday
+Warren	Pachyderm Suites	Jumbo Kingdom	Friday
+Warren	Pachyderm Suites	World's Fair	Saturday
+Warren	Pachyderm Suites	Animal Planet Zoo	Sunday
+Dixon	Pachyderm Suites	World's Fair	Friday
+Dixon	Pachyderm Suites	Trunk Water Park	Saturday
+Dixon	Pachyderm Suites	Jumbo Kingdom	Sunday
+Ramos	Trunk Inn	Jumbo Kingdom	Friday
+Ramos	Trunk Inn	Jumbo Studios	Saturday
+Ramos	Trunk Inn	Jumbo Studios	Sunday
+Reyes	Mammoth Motel	Jumbo Kingdom	Friday
+Reyes	Mammoth Motel	Jumbo Golf Course	Saturday
+Reyes	Mammoth Motel	Jumbo Studios	Sunday
+Burns	Mouse Resort	Jumbo Golf Course	Friday
+Burns	Mouse Resort	Jumbo Golf Course	Saturday
+Burns	Mouse Resort	Jumbo Studios	Sunday
+Gordon	Tusk Hotel	Jumbo Golf Course	Friday
+Gordon	Tusk Hotel	World's Fair	Saturday
+Gordon	Tusk Hotel	World's Fair	Sunday
+Shaw	Loxodon Lodge	Jumbo Kingdom	Friday
+Shaw	Loxodon Lodge	Jumbo Studios	Saturday
+Shaw	Loxodon Lodge	Trunk Water Park	Sunday
+Holmes	Elephant Lodge	World's Fair	Friday
+Holmes	Elephant Lodge	Trunk Water Park	Saturday
+Holmes	Elephant Lodge	Animal Planet Zoo	Sunday
+Rice	Mammoth Motel	World's Fair	Friday
+Rice	Mammoth Motel	Jumbo Studios	Saturday
+Rice	Mammoth Motel	Trunk Water Park	Sunday
+Robertson	Pachyderm Suites	Jumbo Studios	Friday
+Robertson	Pachyderm Suites	Jumbo Kingdom	Saturday
+Robertson	Pachyderm Suites	World's Fair	Sunday
+Hunt	Trunk Inn	Animal Planet Zoo	Friday
+Hunt	Trunk Inn	Trunk Water Park	Saturday
+Hunt	Trunk Inn	Jumbo Kingdom	Sunday
+Black	Oliphant Camp	Jumbo Studios	Friday
+Black	Oliphant Camp	Jumbo Kingdom	Saturday
+Black	Oliphant Camp	World's Fair	Sunday
+Daniels	Loxodon Lodge	Trunk Water Park	Friday
+Daniels	Loxodon Lodge	World's Fair	Saturday
+Daniels	Loxodon Lodge	Jumbo Kingdom	Sunday
+Palmer	Trunk Inn	Jumbo Kingdom	Friday
+Palmer	Trunk Inn	World's Fair	Saturday
+Palmer	Trunk Inn	Jumbo Studios	Sunday
+Mills	Trunk Inn	Jumbo Kingdom	Friday
+Mills	Trunk Inn	Jumbo Kingdom	Saturday
+Mills	Trunk Inn	Jumbo Studios	Sunday
+Nichols	Mouse Resort	Jumbo Golf Course	Friday
+Nichols	Mouse Resort	Jumbo Studios	Saturday
+Nichols	Mouse Resort	Jumbo Kingdom	Sunday
+Grant	Trunk Inn	Jumbo Kingdom	Friday
+Grant	Trunk Inn	World's Fair	Saturday
+Grant	Trunk Inn	Jumbo Studios	Sunday
+Knight	Mammoth Motel	Animal Planet Zoo	Friday
+Knight	Mammoth Motel	Jumbo Kingdom	Saturday
+Knight	Mammoth Motel	Jumbo Studios	Sunday
+Ferguson	Mammoth Motel	Jumbo Studios	Friday
+Ferguson	Mammoth Motel	World's Fair	Saturday
+Ferguson	Mammoth Motel	Trunk Water Park	Sunday
+Rose	Mouse Resort	Jumbo Kingdom	Friday
+Rose	Mouse Resort	Jumbo Studios	Saturday
+Rose	Mouse Resort	Jumbo Golf Course	Sunday
+Stone	Trunk Inn	World's Fair	Friday
+Stone	Trunk Inn	World's Fair	Saturday
+Stone	Trunk Inn	Jumbo Studios	Sunday
+Hawkins	Oliphant Camp	World's Fair	Friday
+Hawkins	Oliphant Camp	Jumbo Studios	Saturday
+Hawkins	Oliphant Camp	Jumbo Kingdom	Sunday
+Dunn	Mammoth Motel	Jumbo Golf Course	Friday
+Dunn	Mammoth Motel	Jumbo Kingdom	Saturday
+Dunn	Mammoth Motel	World's Fair	Sunday
+Perkins	Mouse Resort	World's Fair	Friday
+Perkins	Mouse Resort	World's Fair	Saturday
+Perkins	Mouse Resort	Jumbo Golf Course	Sunday
+Hudson	Tusk Hotel	Jumbo Golf Course	Friday
+Hudson	Tusk Hotel	Jumbo Kingdom	Saturday
+Hudson	Tusk Hotel	Jumbo Studios	Sunday
+Spencer	Loxodon Lodge	Jumbo Kingdom	Friday
+Spencer	Loxodon Lodge	Jumbo Studios	Saturday
+Spencer	Loxodon Lodge	Jumbo Studios	Sunday
+Gardner	Pachyderm Suites	Animal Planet Zoo	Friday
+Gardner	Pachyderm Suites	World's Fair	Saturday
+Gardner	Pachyderm Suites	Jumbo Kingdom	Sunday
+Stephens	Pachyderm Suites	World's Fair	Friday
+Stephens	Pachyderm Suites	Jumbo Studios	Saturday
+Stephens	Pachyderm Suites	Jumbo Studios	Sunday
+Payne	Trunk Inn	Jumbo Kingdom	Friday
+Payne	Trunk Inn	Jumbo Studios	Saturday
+Payne	Trunk Inn	Animal Planet Zoo	Sunday
+Pierce	Mouse Resort	Jumbo Golf Course	Friday
+Pierce	Mouse Resort	Jumbo Kingdom	Saturday
+Pierce	Mouse Resort	Trunk Water Park	Sunday
+Berry	Loxodon Lodge	Trunk Water Park	Friday
+Berry	Loxodon Lodge	Trunk Water Park	Saturday
+Berry	Loxodon Lodge	Trunk Water Park	Sunday
+Matthews	Tusk Hotel	Jumbo Kingdom	Friday
+Matthews	Tusk Hotel	World's Fair	Saturday
+Matthews	Tusk Hotel	Trunk Water Park	Sunday
+Arnold	Mammoth Motel	World's Fair	Friday
+Arnold	Mammoth Motel	World's Fair	Saturday
+Arnold	Mammoth Motel	Trunk Water Park	Sunday
+Wagner	Pachyderm Suites	Animal Planet Zoo	Friday
+Wagner	Pachyderm Suites	Animal Planet Zoo	Saturday
+Wagner	Pachyderm Suites	Animal Planet Zoo	Sunday
+Willis	Mammoth Motel	World's Fair	Friday
+Willis	Mammoth Motel	Jumbo Kingdom	Saturday
+Willis	Mammoth Motel	Jumbo Studios	Sunday
+Ray	Trunk Inn	Jumbo Kingdom	Friday
+Ray	Trunk Inn	Jumbo Studios	Saturday
+Ray	Trunk Inn	World's Fair	Sunday
+Watkins	Pachyderm Suites	Animal Planet Zoo	Friday
+Watkins	Pachyderm Suites	World's Fair	Saturday
+Watkins	Pachyderm Suites	Jumbo Studios	Sunday
+Olson	Mouse Resort	World's Fair	Friday
+Olson	Mouse Resort	Jumbo Studios	Saturday
+Olson	Mouse Resort	Jumbo Kingdom	Sunday
+Carroll	Loxodon Lodge	Jumbo Studios	Friday
+Carroll	Loxodon Lodge	World's Fair	Saturday
+Carroll	Loxodon Lodge	Trunk Water Park	Sunday
+Duncan	Mammoth Motel	World's Fair	Friday
+Duncan	Mammoth Motel	World's Fair	Saturday
+Duncan	Mammoth Motel	Jumbo Studios	Sunday
+Snyder	Mouse Resort	World's Fair	Friday
+Snyder	Mouse Resort	Jumbo Studios	Saturday
+Snyder	Mouse Resort	Jumbo Kingdom	Sunday
+Hart	Tusk Hotel	Jumbo Kingdom	Friday
+Hart	Tusk Hotel	Jumbo Kingdom	Saturday
+Hart	Tusk Hotel	Jumbo Studios	Sunday
+Cunningham	Oliphant Camp	World's Fair	Friday
+Cunningham	Oliphant Camp	Jumbo Golf Course	Saturday
+Cunningham	Oliphant Camp	Jumbo Kingdom	Sunday
+Bradley	Tusk Hotel	Jumbo Kingdom	Friday
+Bradley	Tusk Hotel	Jumbo Studios	Saturday
+Bradley	Tusk Hotel	World's Fair	Sunday
+Lane	Tusk Hotel	Jumbo Kingdom	Friday
+Lane	Tusk Hotel	World's Fair	Saturday
+Lane	Tusk Hotel	World's Fair	Sunday
+Andrews	Trunk Inn	Jumbo Kingdom	Friday
+Andrews	Trunk Inn	Jumbo Studios	Saturday
+Andrews	Trunk Inn	Trunk Water Park	Sunday
+Ruiz	Trunk Inn	Jumbo Golf Course	Friday
+Ruiz	Trunk Inn	Jumbo Kingdom	Saturday
+Ruiz	Trunk Inn	Jumbo Studios	Sunday
+Harper	Mammoth Motel	World's Fair	Friday
+Harper	Mammoth Motel	Jumbo Golf Course	Saturday
+Harper	Mammoth Motel	Jumbo Kingdom	Sunday
+Fox	Mammoth Motel	Jumbo Studios	Friday
+Fox	Mammoth Motel	Jumbo Kingdom	Saturday
+Fox	Mammoth Motel	Jumbo Kingdom	Sunday
+Riley	Trunk Inn	Animal Planet Zoo	Friday
+Riley	Trunk Inn	Jumbo Kingdom	Saturday
+Riley	Trunk Inn	World's Fair	Sunday
+Armstrong	Pachyderm Suites	World's Fair	Friday
+Armstrong	Pachyderm Suites	Jumbo Studios	Saturday
+Armstrong	Pachyderm Suites	Jumbo Studios	Sunday
+Carpenter	Pachyderm Suites	World's Fair	Friday
+Carpenter	Pachyderm Suites	Jumbo Kingdom	Saturday
+Carpenter	Pachyderm Suites	Jumbo Studios	Sunday
+Weaver	Elephant Lodge	Trunk Water Park	Friday
+Weaver	Elephant Lodge	Animal Planet Zoo	Saturday
+Weaver	Elephant Lodge	World's Fair	Sunday
+Greene	Mammoth Motel	World's Fair	Friday
+Greene	Mammoth Motel	Jumbo Kingdom	Saturday
+Greene	Mammoth Motel	Jumbo Studios	Sunday
+Lawrence	Oliphant Camp	World's Fair	Friday
+Lawrence	Oliphant Camp	Jumbo Kingdom	Saturday
+Lawrence	Oliphant Camp	Jumbo Studios	Sunday
+Elliott	Tusk Hotel	Jumbo Kingdom	Friday
+Elliott	Tusk Hotel	Jumbo Golf Course	Saturday
+Elliott	Tusk Hotel	Trunk Water Park	Sunday
+Chavez	Tusk Hotel	Jumbo Kingdom	Friday
+Chavez	Tusk Hotel	Jumbo Studios	Saturday
+Chavez	Tusk Hotel	Jumbo Golf Course	Sunday
+Sims	Oliphant Camp	World's Fair	Friday
+Sims	Oliphant Camp	Jumbo Kingdom	Saturday
+Sims	Oliphant Camp	Jumbo Studios	Sunday
+Austin	Oliphant Camp	World's Fair	Friday
+Austin	Oliphant Camp	World's Fair	Saturday
+Austin	Oliphant Camp	Jumbo Golf Course	Sunday
+Peters	Trunk Inn	Jumbo Kingdom	Friday
+Peters	Trunk Inn	Trunk Water Park	Saturday
+Peters	Trunk Inn	World's Fair	Sunday
+Kelley	Pachyderm Suites	Animal Planet Zoo	Friday
+Kelley	Pachyderm Suites	World's Fair	Saturday
+Kelley	Pachyderm Suites	Jumbo Kingdom	Sunday
+Franklin	Oliphant Camp	Jumbo Kingdom	Friday
+Franklin	Oliphant Camp	Jumbo Studios	Saturday
+Franklin	Oliphant Camp	Jumbo Golf Course	Sunday
+Lawson	Pachyderm Suites	World's Fair	Friday
+Lawson	Pachyderm Suites	Jumbo Kingdom	Saturday
+Lawson	Pachyderm Suites	Jumbo Studios	Sunday
+Fields	Mammoth Motel	World's Fair	Friday
+Fields	Mammoth Motel	World's Fair	Saturday
+Fields	Mammoth Motel	Jumbo Studios	Sunday
+Gutierrez	Oliphant Camp	Jumbo Studios	Friday
+Gutierrez	Oliphant Camp	World's Fair	Saturday
+Gutierrez	Oliphant Camp	Jumbo Golf Course	Sunday
+Ryan	Loxodon Lodge	World's Fair	Friday
+Ryan	Loxodon Lodge	Trunk Water Park	Saturday
+Ryan	Loxodon Lodge	Jumbo Studios	Sunday
+Schmidt	Mouse Resort	World's Fair	Friday
+Schmidt	Mouse Resort	Jumbo Golf Course	Saturday
+Schmidt	Mouse Resort	Jumbo Kingdom	Sunday
+Carr	Trunk Inn	Jumbo Kingdom	Friday
+Carr	Trunk Inn	World's Fair	Saturday
+Carr	Trunk Inn	World's Fair	Sunday
+Vasquez	Pachyderm Suites	Jumbo Kingdom	Friday
+Vasquez	Pachyderm Suites	World's Fair	Saturday
+Vasquez	Pachyderm Suites	World's Fair	Sunday
+Castillo	Trunk Inn	Jumbo Kingdom	Friday
+Castillo	Trunk Inn	Jumbo Studios	Saturday
+Castillo	Trunk Inn	Animal Planet Zoo	Sunday
+Wheeler	Mouse Resort	Jumbo Studios	Friday
+Wheeler	Mouse Resort	Jumbo Golf Course	Saturday
+Wheeler	Mouse Resort	World's Fair	Sunday
+Chapman	Mammoth Motel	Jumbo Studios	Friday
+Chapman	Mammoth Motel	Jumbo Studios	Saturday
+Chapman	Mammoth Motel	Jumbo Kingdom	Sunday
+Oliver	Mouse Resort	Animal Planet Zoo	Friday
+Oliver	Mouse Resort	Jumbo Golf Course	Saturday
+Oliver	Mouse Resort	Jumbo Golf Course	Sunday
+Montgomery	Mouse Resort	Trunk Water Park	Friday
+Montgomery	Mouse Resort	Trunk Water Park	Saturday
+Montgomery	Mouse Resort	Trunk Water Park	Sunday
+Richards	Loxodon Lodge	Trunk Water Park	Friday
+Richards	Loxodon Lodge	Jumbo Kingdom	Saturday
+Richards	Loxodon Lodge	World's Fair	Sunday
+Williamson	Trunk Inn	Jumbo Kingdom	Friday
+Williamson	Trunk Inn	Animal Planet Zoo	Saturday
+Williamson	Trunk Inn	World's Fair	Sunday
+Johnston	Trunk Inn	Jumbo Kingdom	Friday
+Johnston	Trunk Inn	Jumbo Kingdom	Saturday
+Johnston	Trunk Inn	Jumbo Studios	Sunday
+Banks	Tusk Hotel	Jumbo Kingdom	Friday
+Banks	Tusk Hotel	Jumbo Kingdom	Saturday
+Banks	Tusk Hotel	Animal Planet Zoo	Sunday
+Meyer	Mammoth Motel	Jumbo Studios	Friday
+Meyer	Mammoth Motel	Jumbo Studios	Saturday
+Meyer	Mammoth Motel	Trunk Water Park	Sunday
+Bishop	Elephant Lodge	Animal Planet Zoo	Friday
+Bishop	Elephant Lodge	Jumbo Studios	Saturday
+Bishop	Elephant Lodge	Trunk Water Park	Sunday
+Mccoy	Trunk Inn	World's Fair	Friday
+Mccoy	Trunk Inn	Jumbo Kingdom	Saturday
+Mccoy	Trunk Inn	Jumbo Studios	Sunday
+Howell	Tusk Hotel	Jumbo Kingdom	Friday
+Howell	Tusk Hotel	Animal Planet Zoo	Saturday
+Howell	Tusk Hotel	Animal Planet Zoo	Sunday
+Alvarez	Loxodon Lodge	Jumbo Studios	Friday
+Alvarez	Loxodon Lodge	Trunk Water Park	Saturday
+Alvarez	Loxodon Lodge	Jumbo Kingdom	Sunday
+Morrison	Tusk Hotel	Jumbo Kingdom	Friday
+Morrison	Tusk Hotel	World's Fair	Saturday
+Morrison	Tusk Hotel	World's Fair	Sunday
+Hansen	Trunk Inn	World's Fair	Friday
+Hansen	Trunk Inn	World's Fair	Saturday
+Hansen	Trunk Inn	Jumbo Kingdom	Sunday
+Fernandez	Pachyderm Suites	World's Fair	Friday
+Fernandez	Pachyderm Suites	World's Fair	Saturday
+Fernandez	Pachyderm Suites	Trunk Water Park	Sunday
+Garza	Pachyderm Suites	World's Fair	Friday
+Garza	Pachyderm Suites	Jumbo Kingdom	Saturday
+Garza	Pachyderm Suites	Animal Planet Zoo	Sunday
+Harvey	Loxodon Lodge	World's Fair	Friday
+Harvey	Loxodon Lodge	Jumbo Kingdom	Saturday
+Harvey	Loxodon Lodge	Jumbo Studios	Sunday
+Little	Trunk Inn	Jumbo Kingdom	Friday
+Little	Trunk Inn	Jumbo Studios	Saturday
+Little	Trunk Inn	Animal Planet Zoo	Sunday
+Burton	Tusk Hotel	World's Fair	Friday
+Burton	Tusk Hotel	World's Fair	Saturday
+Burton	Tusk Hotel	Jumbo Kingdom	Sunday
+Stanley	Loxodon Lodge	Jumbo Kingdom	Friday
+Stanley	Loxodon Lodge	Trunk Water Park	Saturday
+Stanley	Loxodon Lodge	World's Fair	Sunday
+Nguyen	Pachyderm Suites	World's Fair	Friday
+Nguyen	Pachyderm Suites	Animal Planet Zoo	Saturday
+Nguyen	Pachyderm Suites	Jumbo Kingdom	Sunday
+George	Loxodon Lodge	Jumbo Studios	Friday
+George	Loxodon Lodge	World's Fair	Saturday
+George	Loxodon Lodge	Trunk Water Park	Sunday
+Jacobs	Pachyderm Suites	Jumbo Kingdom	Friday
+Jacobs	Pachyderm Suites	World's Fair	Saturday
+Jacobs	Pachyderm Suites	Jumbo Studios	Sunday
+Reid	Mouse Resort	Jumbo Studios	Friday
+Reid	Mouse Resort	Jumbo Golf Course	Saturday
+Reid	Mouse Resort	Trunk Water Park	Sunday
+Kim	Oliphant Camp	World's Fair	Friday
+Kim	Oliphant Camp	Jumbo Studios	Saturday
+Kim	Oliphant Camp	Jumbo Kingdom	Sunday
+Fuller	Pachyderm Suites	Jumbo Kingdom	Friday
+Fuller	Pachyderm Suites	World's Fair	Saturday
+Fuller	Pachyderm Suites	Animal Planet Zoo	Sunday
+Lynch	Mammoth Motel	Jumbo Golf Course	Friday
+Lynch	Mammoth Motel	World's Fair	Saturday
+Lynch	Mammoth Motel	Animal Planet Zoo	Sunday
+Dean	Oliphant Camp	Animal Planet Zoo	Friday
+Dean	Oliphant Camp	World's Fair	Saturday
+Dean	Oliphant Camp	World's Fair	Sunday
+Gilbert	Tusk Hotel	Jumbo Kingdom	Friday
+Gilbert	Tusk Hotel	Jumbo Kingdom	Saturday
+Gilbert	Tusk Hotel	World's Fair	Sunday
+Garrett	Oliphant Camp	Jumbo Studios	Friday
+Garrett	Oliphant Camp	World's Fair	Saturday
+Garrett	Oliphant Camp	Trunk Water Park	Sunday
+Romero	Tusk Hotel	Jumbo Kingdom	Friday
+Romero	Tusk Hotel	Trunk Water Park	Saturday
+Romero	Tusk Hotel	Trunk Water Park	Sunday
+Welch	Mammoth Motel	World's Fair	Friday
+Welch	Mammoth Motel	Animal Planet Zoo	Saturday
+Welch	Mammoth Motel	Jumbo Studios	Sunday
+Larson	Trunk Inn	Jumbo Kingdom	Friday
+Larson	Trunk Inn	Jumbo Golf Course	Saturday
+Larson	Trunk Inn	World's Fair	Sunday
+Frazier	Oliphant Camp	World's Fair	Friday
+Frazier	Oliphant Camp	Trunk Water Park	Saturday
+Frazier	Oliphant Camp	Jumbo Golf Course	Sunday
+Burke	Loxodon Lodge	Jumbo Kingdom	Friday
+Burke	Loxodon Lodge	Jumbo Studios	Saturday
+Burke	Loxodon Lodge	World's Fair	Sunday
+Hanson	Pachyderm Suites	World's Fair	Friday
+Hanson	Pachyderm Suites	Jumbo Kingdom	Saturday
+Hanson	Pachyderm Suites	Jumbo Golf Course	Sunday
+Day	Mammoth Motel	Jumbo Kingdom	Friday
+Day	Mammoth Motel	Jumbo Studios	Saturday
+Day	Mammoth Motel	Animal Planet Zoo	Sunday
+Mendoza	Loxodon Lodge	Jumbo Studios	Friday
+Mendoza	Loxodon Lodge	Jumbo Studios	Saturday
+Mendoza	Loxodon Lodge	Jumbo Studios	Sunday
+Moreno	Tusk Hotel	Jumbo Kingdom	Friday
+Moreno	Tusk Hotel	Jumbo Studios	Saturday
+Moreno	Tusk Hotel	World's Fair	Sunday
+Bowman	Tusk Hotel	Trunk Water Park	Friday
+Bowman	Tusk Hotel	Animal Planet Zoo	Saturday
+Bowman	Tusk Hotel	Jumbo Kingdom	Sunday
+Medina	Mammoth Motel	Jumbo Studios	Friday
+Medina	Mammoth Motel	Animal Planet Zoo	Saturday
+Medina	Mammoth Motel	Trunk Water Park	Sunday
+Fowler	Elephant Lodge	Jumbo Kingdom	Friday
+Fowler	Elephant Lodge	Animal Planet Zoo	Saturday
+Fowler	Elephant Lodge	Jumbo Studios	Sunday
+Brewer	Loxodon Lodge	Jumbo Golf Course	Friday
+Brewer	Loxodon Lodge	World's Fair	Saturday
+Brewer	Loxodon Lodge	Jumbo Kingdom	Sunday
+Hoffman	Mammoth Motel	World's Fair	Friday
+Hoffman	Mammoth Motel	Jumbo Golf Course	Saturday
+Hoffman	Mammoth Motel	Jumbo Studios	Sunday
+Carlson	Loxodon Lodge	Jumbo Studios	Friday
+Carlson	Loxodon Lodge	World's Fair	Saturday
+Carlson	Loxodon Lodge	Jumbo Kingdom	Sunday
+Silva	Pachyderm Suites	World's Fair	Friday
+Silva	Pachyderm Suites	Jumbo Kingdom	Saturday
+Silva	Pachyderm Suites	Jumbo Studios	Sunday
+Pearson	Elephant Lodge	Jumbo Studios	Friday
+Pearson	Elephant Lodge	Trunk Water Park	Saturday
+Pearson	Elephant Lodge	Jumbo Kingdom	Sunday
+Holland	Loxodon Lodge	World's Fair	Friday
+Holland	Loxodon Lodge	Jumbo Studios	Saturday
+Holland	Loxodon Lodge	Animal Planet Zoo	Sunday
+Douglas	Mammoth Motel	World's Fair	Friday
+Douglas	Mammoth Motel	Jumbo Studios	Saturday
+Douglas	Mammoth Motel	Animal Planet Zoo	Sunday
+Fleming	Mouse Resort	Jumbo Golf Course	Friday
+Fleming	Mouse Resort	World's Fair	Saturday
+Fleming	Mouse Resort	Jumbo Studios	Sunday
+Jensen	Oliphant Camp	World's Fair	Friday
+Jensen	Oliphant Camp	Jumbo Kingdom	Saturday
+Jensen	Oliphant Camp	Jumbo Kingdom	Sunday
+Vargas	Trunk Inn	Animal Planet Zoo	Friday
+Vargas	Trunk Inn	Jumbo Kingdom	Saturday
+Vargas	Trunk Inn	World's Fair	Sunday
+Byrd	Pachyderm Suites	Jumbo Studios	Friday
+Byrd	Pachyderm Suites	Jumbo Studios	Saturday
+Byrd	Pachyderm Suites	Jumbo Kingdom	Sunday
+Davidson	Oliphant Camp	World's Fair	Friday
+Davidson	Oliphant Camp	Jumbo Kingdom	Saturday
+Davidson	Oliphant Camp	Trunk Water Park	Sunday
+Hopkins	Loxodon Lodge	World's Fair	Friday
+Hopkins	Loxodon Lodge	Jumbo Kingdom	Saturday
+Hopkins	Loxodon Lodge	Jumbo Studios	Sunday
+May	Loxodon Lodge	Jumbo Studios	Friday
+May	Loxodon Lodge	Jumbo Studios	Saturday
+May	Loxodon Lodge	Trunk Water Park	Sunday
+Terry	Tusk Hotel	Jumbo Kingdom	Friday
+Terry	Tusk Hotel	Jumbo Kingdom	Saturday
+Terry	Tusk Hotel	Jumbo Studios	Sunday
+Herrera	Mammoth Motel	Jumbo Kingdom	Friday
+Herrera	Mammoth Motel	Jumbo Studios	Saturday
+Herrera	Mammoth Motel	Jumbo Studios	Sunday
+Wade	Oliphant Camp	World's Fair	Friday
+Wade	Oliphant Camp	Trunk Water Park	Saturday
+Wade	Oliphant Camp	Jumbo Kingdom	Sunday
+Soto	Tusk Hotel	World's Fair	Friday
+Soto	Tusk Hotel	Jumbo Kingdom	Saturday
+Soto	Tusk Hotel	Jumbo Golf Course	Sunday
+Walters	Elephant Lodge	Trunk Water Park	Friday
+Walters	Elephant Lodge	Jumbo Studios	Saturday
+Walters	Elephant Lodge	Jumbo Kingdom	Sunday
+Curtis	Mouse Resort	World's Fair	Friday
+Curtis	Mouse Resort	Jumbo Golf Course	Saturday
+Curtis	Mouse Resort	Jumbo Kingdom	Sunday
+Neal	Trunk Inn	Jumbo Kingdom	Friday
+Neal	Trunk Inn	World's Fair	Saturday
+Neal	Trunk Inn	World's Fair	Sunday
+Caldwell	Tusk Hotel	Jumbo Studios	Friday
+Caldwell	Tusk Hotel	Jumbo Kingdom	Saturday
+Caldwell	Tusk Hotel	Animal Planet Zoo	Sunday
+Lowe	Mouse Resort	Jumbo Golf Course	Friday
+Lowe	Mouse Resort	Jumbo Kingdom	Saturday
+Lowe	Mouse Resort	Jumbo Kingdom	Sunday
+Jennings	Mouse Resort	World's Fair	Friday
+Jennings	Mouse Resort	Jumbo Kingdom	Saturday
+Jennings	Mouse Resort	Trunk Water Park	Sunday
+Barnett	Pachyderm Suites	Jumbo Studios	Friday
+Barnett	Pachyderm Suites	Trunk Water Park	Saturday
+Barnett	Pachyderm Suites	Animal Planet Zoo	Sunday
+Graves	Loxodon Lodge	Jumbo Kingdom	Friday
+Graves	Loxodon Lodge	World's Fair	Saturday
+Graves	Loxodon Lodge	Jumbo Studios	Sunday
+Jimenez	Tusk Hotel	Animal Planet Zoo	Friday
+Jimenez	Tusk Hotel	Jumbo Kingdom	Saturday
+Jimenez	Tusk Hotel	World's Fair	Sunday
+Horton	Tusk Hotel	Jumbo Kingdom	Friday
+Horton	Tusk Hotel	Jumbo Golf Course	Saturday
+Horton	Tusk Hotel	World's Fair	Sunday
+Shelton	Tusk Hotel	Jumbo Golf Course	Friday
+Shelton	Tusk Hotel	Jumbo Kingdom	Saturday
+Shelton	Tusk Hotel	Jumbo Kingdom	Sunday
+Barrett	Elephant Lodge	Trunk Water Park	Friday
+Barrett	Elephant Lodge	Trunk Water Park	Saturday
+Barrett	Elephant Lodge	Jumbo Studios	Sunday
+Obrien	Mouse Resort	Jumbo Golf Course	Friday
+Obrien	Mouse Resort	Jumbo Kingdom	Saturday
+Obrien	Mouse Resort	World's Fair	Sunday
+Castro	Loxodon Lodge	World's Fair	Friday
+Castro	Loxodon Lodge	World's Fair	Saturday
+Castro	Loxodon Lodge	Animal Planet Zoo	Sunday
+Sutton	Pachyderm Suites	Jumbo Kingdom	Friday
+Sutton	Pachyderm Suites	World's Fair	Saturday
+Sutton	Pachyderm Suites	Animal Planet Zoo	Sunday
+Gregory	Pachyderm Suites	Animal Planet Zoo	Friday
+Gregory	Pachyderm Suites	Jumbo Golf Course	Saturday
+Gregory	Pachyderm Suites	World's Fair	Sunday
+Mckinney	Mouse Resort	Animal Planet Zoo	Friday
+Mckinney	Mouse Resort	Jumbo Kingdom	Saturday
+Mckinney	Mouse Resort	Jumbo Studios	Sunday
+Lucas	Pachyderm Suites	World's Fair	Friday
+Lucas	Pachyderm Suites	Trunk Water Park	Saturday
+Lucas	Pachyderm Suites	Jumbo Kingdom	Sunday
+Miles	Mammoth Motel	Jumbo Golf Course	Friday
+Miles	Mammoth Motel	Jumbo Golf Course	Saturday
+Miles	Mammoth Motel	World's Fair	Sunday
+Craig	Trunk Inn	Jumbo Kingdom	Friday
+Craig	Trunk Inn	Jumbo Kingdom	Saturday
+Craig	Trunk Inn	Trunk Water Park	Sunday
+Rodriquez	Elephant Lodge	Animal Planet Zoo	Friday
+Rodriquez	Elephant Lodge	Trunk Water Park	Saturday
+Rodriquez	Elephant Lodge	Trunk Water Park	Sunday
+Chambers	Elephant Lodge	Animal Planet Zoo	Friday
+Chambers	Elephant Lodge	Animal Planet Zoo	Saturday
+Chambers	Elephant Lodge	Animal Planet Zoo	Sunday
+Holt	Pachyderm Suites	Jumbo Kingdom	Friday
+Holt	Pachyderm Suites	Jumbo Golf Course	Saturday
+Holt	Pachyderm Suites	Animal Planet Zoo	Sunday
+Lambert	Mammoth Motel	Animal Planet Zoo	Friday
+Lambert	Mammoth Motel	Trunk Water Park	Saturday
+Lambert	Mammoth Motel	Jumbo Kingdom	Sunday
+Fletcher	Pachyderm Suites	Jumbo Studios	Friday
+Fletcher	Pachyderm Suites	Jumbo Golf Course	Saturday
+Fletcher	Pachyderm Suites	World's Fair	Sunday
+Watts	Trunk Inn	World's Fair	Friday
+Watts	Trunk Inn	Jumbo Kingdom	Saturday
+Watts	Trunk Inn	Jumbo Studios	Sunday
+Bates	Loxodon Lodge	Animal Planet Zoo	Friday
+Bates	Loxodon Lodge	Animal Planet Zoo	Saturday
+Bates	Loxodon Lodge	World's Fair	Sunday
+Hale	Pachyderm Suites	Jumbo Kingdom	Friday
+Hale	Pachyderm Suites	World's Fair	Saturday
+Hale	Pachyderm Suites	Jumbo Golf Course	Sunday
+Rhodes	Loxodon Lodge	Jumbo Studios	Friday
+Rhodes	Loxodon Lodge	World's Fair	Saturday
+Rhodes	Loxodon Lodge	Jumbo Golf Course	Sunday
+Pena	Trunk Inn	Jumbo Studios	Friday
+Pena	Trunk Inn	Jumbo Kingdom	Saturday
+Pena	Trunk Inn	Trunk Water Park	Sunday
+Beck	Tusk Hotel	Jumbo Golf Course	Friday
+Beck	Tusk Hotel	Jumbo Kingdom	Saturday
+Beck	Tusk Hotel	Jumbo Studios	Sunday
+Newman	Tusk Hotel	Jumbo Studios	Friday
+Newman	Tusk Hotel	Jumbo Kingdom	Saturday
+Newman	Tusk Hotel	World's Fair	Sunday
+Haynes	Pachyderm Suites	World's Fair	Friday
+Haynes	Pachyderm Suites	Jumbo Golf Course	Saturday
+Haynes	Pachyderm Suites	Jumbo Kingdom	Sunday
+Mcdaniel	Elephant Lodge	Trunk Water Park	Friday
+Mcdaniel	Elephant Lodge	Jumbo Studios	Saturday
+Mcdaniel	Elephant Lodge	Jumbo Studios	Sunday
+Mendez	Mammoth Motel	Jumbo Studios	Friday
+Mendez	Mammoth Motel	Jumbo Kingdom	Saturday
+Mendez	Mammoth Motel	World's Fair	Sunday
+Bush	Mammoth Motel	Jumbo Studios	Friday
+Bush	Mammoth Motel	Jumbo Studios	Saturday
+Bush	Mammoth Motel	Jumbo Kingdom	Sunday
+Vaughn	Trunk Inn	Jumbo Kingdom	Friday
+Vaughn	Trunk Inn	World's Fair	Saturday
+Vaughn	Trunk Inn	Animal Planet Zoo	Sunday
+Parks	Trunk Inn	Jumbo Kingdom	Friday
+Parks	Trunk Inn	Animal Planet Zoo	Saturday
+Parks	Trunk Inn	Jumbo Studios	Sunday
+Dawson	Pachyderm Suites	Jumbo Studios	Friday
+Dawson	Pachyderm Suites	Jumbo Kingdom	Saturday
+Dawson	Pachyderm Suites	Jumbo Kingdom	Sunday
+Santiago	Trunk Inn	Jumbo Kingdom	Friday
+Santiago	Trunk Inn	Animal Planet Zoo	Saturday
+Santiago	Trunk Inn	Jumbo Studios	Sunday
+Norris	Mouse Resort	Animal Planet Zoo	Friday
+Norris	Mouse Resort	Animal Planet Zoo	Saturday
+Norris	Mouse Resort	Jumbo Kingdom	Sunday
+Hardy	Loxodon Lodge	Jumbo Studios	Friday
+Hardy	Loxodon Lodge	Jumbo Kingdom	Saturday
+Hardy	Loxodon Lodge	World's Fair	Sunday
+Love	Pachyderm Suites	Trunk Water Park	Friday
+Love	Pachyderm Suites	Jumbo Kingdom	Saturday
+Love	Pachyderm Suites	Jumbo Studios	Sunday
+Steele	Mouse Resort	Jumbo Kingdom	Friday
+Steele	Mouse Resort	Jumbo Kingdom	Saturday
+Steele	Mouse Resort	World's Fair	Sunday
+Curry	Tusk Hotel	Jumbo Kingdom	Friday
+Curry	Tusk Hotel	Trunk Water Park	Saturday
+Curry	Tusk Hotel	World's Fair	Sunday
+Powers	Mammoth Motel	World's Fair	Friday
+Powers	Mammoth Motel	Jumbo Studios	Saturday
+Powers	Mammoth Motel	Jumbo Kingdom	Sunday
+Schultz	Tusk Hotel	World's Fair	Friday
+Schultz	Tusk Hotel	World's Fair	Saturday
+Schultz	Tusk Hotel	World's Fair	Sunday
+Barker	Pachyderm Suites	Jumbo Studios	Friday
+Barker	Pachyderm Suites	Jumbo Studios	Saturday
+Barker	Pachyderm Suites	World's Fair	Sunday
+Guzman	Tusk Hotel	Animal Planet Zoo	Friday
+Guzman	Tusk Hotel	Jumbo Kingdom	Saturday
+Guzman	Tusk Hotel	Jumbo Golf Course	Sunday
+Page	Mouse Resort	Jumbo Studios	Friday
+Page	Mouse Resort	World's Fair	Saturday
+Page	Mouse Resort	Jumbo Golf Course	Sunday
+Munoz	Elephant Lodge	Jumbo Studios	Friday
+Munoz	Elephant Lodge	Trunk Water Park	Saturday
+Munoz	Elephant Lodge	Jumbo Kingdom	Sunday
+Ball	Mammoth Motel	Jumbo Kingdom	Friday
+Ball	Mammoth Motel	Jumbo Studios	Saturday
+Ball	Mammoth Motel	Animal Planet Zoo	Sunday
+Keller	Mammoth Motel	Jumbo Studios	Friday
+Keller	Mammoth Motel	Jumbo Kingdom	Saturday
+Keller	Mammoth Motel	Jumbo Kingdom	Sunday
+Chandler	Tusk Hotel	Jumbo Kingdom	Friday
+Chandler	Tusk Hotel	World's Fair	Saturday
+Chandler	Tusk Hotel	Animal Planet Zoo	Sunday
+Weber	Pachyderm Suites	World's Fair	Friday
+Weber	Pachyderm Suites	Jumbo Kingdom	Saturday
+Weber	Pachyderm Suites	Jumbo Studios	Sunday
+Leonard	Oliphant Camp	World's Fair	Friday
+Leonard	Oliphant Camp	Jumbo Kingdom	Saturday
+Leonard	Oliphant Camp	Jumbo Studios	Sunday
+Walsh	Tusk Hotel	Jumbo Kingdom	Friday
+Walsh	Tusk Hotel	World's Fair	Saturday
+Walsh	Tusk Hotel	Animal Planet Zoo	Sunday
+Lyons	Mammoth Motel	Jumbo Kingdom	Friday
+Lyons	Mammoth Motel	Jumbo Kingdom	Saturday
+Lyons	Mammoth Motel	Jumbo Kingdom	Sunday
+Ramsey	Trunk Inn	Animal Planet Zoo	Friday
+Ramsey	Trunk Inn	World's Fair	Saturday
+Ramsey	Trunk Inn	Jumbo Kingdom	Sunday
+Wolfe	Oliphant Camp	World's Fair	Friday
+Wolfe	Oliphant Camp	Trunk Water Park	Saturday
+Wolfe	Oliphant Camp	Trunk Water Park	Sunday
+Schneider	Loxodon Lodge	World's Fair	Friday
+Schneider	Loxodon Lodge	Jumbo Golf Course	Saturday
+Schneider	Loxodon Lodge	Trunk Water Park	Sunday
+Mullins	Tusk Hotel	Jumbo Kingdom	Friday
+Mullins	Tusk Hotel	Jumbo Studios	Saturday
+Mullins	Tusk Hotel	Animal Planet Zoo	Sunday
+Benson	Mammoth Motel	World's Fair	Friday
+Benson	Mammoth Motel	Jumbo Studios	Saturday
+Benson	Mammoth Motel	Jumbo Kingdom	Sunday
+Sharp	Trunk Inn	Jumbo Studios	Friday
+Sharp	Trunk Inn	Jumbo Kingdom	Saturday
+Sharp	Trunk Inn	Trunk Water Park	Sunday
+Bowen	Loxodon Lodge	World's Fair	Friday
+Bowen	Loxodon Lodge	Jumbo Studios	Saturday
+Bowen	Loxodon Lodge	Jumbo Kingdom	Sunday
+Daniel	Mouse Resort	Jumbo Studios	Friday
+Daniel	Mouse Resort	Trunk Water Park	Saturday
+Daniel	Mouse Resort	Trunk Water Park	Sunday
+Barber	Pachyderm Suites	Jumbo Golf Course	Friday
+Barber	Pachyderm Suites	Jumbo Kingdom	Saturday
+Barber	Pachyderm Suites	Jumbo Kingdom	Sunday
+Cummings	Loxodon Lodge	Trunk Water Park	Friday
+Cummings	Loxodon Lodge	Jumbo Studios	Saturday
+Cummings	Loxodon Lodge	World's Fair	Sunday
+Hines	Mammoth Motel	Animal Planet Zoo	Friday
+Hines	Mammoth Motel	Jumbo Studios	Saturday
+Hines	Mammoth Motel	Jumbo Kingdom	Sunday
+Baldwin	Loxodon Lodge	Jumbo Studios	Friday
+Baldwin	Loxodon Lodge	World's Fair	Saturday
+Baldwin	Loxodon Lodge	Jumbo Kingdom	Sunday
+Griffith	Tusk Hotel	World's Fair	Friday
+Griffith	Tusk Hotel	Jumbo Kingdom	Saturday
+Griffith	Tusk Hotel	Jumbo Kingdom	Sunday
+Valdez	Trunk Inn	Jumbo Kingdom	Friday
+Valdez	Trunk Inn	Jumbo Studios	Saturday
+Valdez	Trunk Inn	Trunk Water Park	Sunday
+Hubbard	Tusk Hotel	Jumbo Kingdom	Friday
+Hubbard	Tusk Hotel	World's Fair	Saturday
+Hubbard	Tusk Hotel	Animal Planet Zoo	Sunday
+Salazar	Oliphant Camp	Jumbo Studios	Friday
+Salazar	Oliphant Camp	Jumbo Golf Course	Saturday
+Salazar	Oliphant Camp	Animal Planet Zoo	Sunday
+Reeves	Mammoth Motel	Trunk Water Park	Friday
+Reeves	Mammoth Motel	Jumbo Studios	Saturday
+Reeves	Mammoth Motel	Animal Planet Zoo	Sunday
+Warner	Trunk Inn	Jumbo Kingdom	Friday
+Warner	Trunk Inn	Trunk Water Park	Saturday
+Warner	Trunk Inn	Jumbo Studios	Sunday
+Stevenson	Mammoth Motel	Animal Planet Zoo	Friday
+Stevenson	Mammoth Motel	Jumbo Kingdom	Saturday
+Stevenson	Mammoth Motel	Jumbo Kingdom	Sunday
+Burgess	Pachyderm Suites	Jumbo Kingdom	Friday
+Burgess	Pachyderm Suites	World's Fair	Saturday
+Burgess	Pachyderm Suites	World's Fair	Sunday
+Santos	Pachyderm Suites	World's Fair	Friday
+Santos	Pachyderm Suites	World's Fair	Saturday
+Santos	Pachyderm Suites	Jumbo Kingdom	Sunday
+Tate	Tusk Hotel	Jumbo Kingdom	Friday
+Tate	Tusk Hotel	Jumbo Golf Course	Saturday
+Tate	Tusk Hotel	Animal Planet Zoo	Sunday
+Cross	Pachyderm Suites	World's Fair	Friday
+Cross	Pachyderm Suites	Jumbo Studios	Saturday
+Cross	Pachyderm Suites	Jumbo Studios	Sunday
+Garner	Elephant Lodge	Jumbo Studios	Friday
+Garner	Elephant Lodge	Trunk Water Park	Saturday
+Garner	Elephant Lodge	Animal Planet Zoo	Sunday
+Mann	Mammoth Motel	Jumbo Studios	Friday
+Mann	Mammoth Motel	World's Fair	Saturday
+Mann	Mammoth Motel	World's Fair	Sunday
+Mack	Mammoth Motel	Jumbo Studios	Friday
+Mack	Mammoth Motel	Animal Planet Zoo	Saturday
+Mack	Mammoth Motel	World's Fair	Sunday
+Moss	Oliphant Camp	Jumbo Studios	Friday
+Moss	Oliphant Camp	World's Fair	Saturday
+Moss	Oliphant Camp	Jumbo Kingdom	Sunday
+Thornton	Tusk Hotel	Jumbo Kingdom	Friday
+Thornton	Tusk Hotel	Jumbo Studios	Saturday
+Thornton	Tusk Hotel	Trunk Water Park	Sunday
+Dennis	Oliphant Camp	Jumbo Golf Course	Friday
+Dennis	Oliphant Camp	Jumbo Golf Course	Saturday
+Dennis	Oliphant Camp	Jumbo Kingdom	Sunday
+Mcgee	Loxodon Lodge	Jumbo Studios	Friday
+Mcgee	Loxodon Lodge	Jumbo Studios	Saturday
+Mcgee	Loxodon Lodge	Animal Planet Zoo	Sunday
+Farmer	Trunk Inn	Jumbo Kingdom	Friday
+Farmer	Trunk Inn	Animal Planet Zoo	Saturday
+Farmer	Trunk Inn	Animal Planet Zoo	Sunday
+Delgado	Elephant Lodge	Jumbo Studios	Friday
+Delgado	Elephant Lodge	Animal Planet Zoo	Saturday
+Delgado	Elephant Lodge	Jumbo Kingdom	Sunday
+Aguilar	Trunk Inn	Jumbo Studios	Friday
+Aguilar	Trunk Inn	World's Fair	Saturday
+Aguilar	Trunk Inn	Jumbo Kingdom	Sunday
+Vega	Tusk Hotel	World's Fair	Friday
+Vega	Tusk Hotel	Jumbo Kingdom	Saturday
+Vega	Tusk Hotel	Trunk Water Park	Sunday
+Glover	Trunk Inn	Animal Planet Zoo	Friday
+Glover	Trunk Inn	Jumbo Kingdom	Saturday
+Glover	Trunk Inn	Jumbo Kingdom	Sunday
+Manning	Trunk Inn	Jumbo Kingdom	Friday
+Manning	Trunk Inn	Trunk Water Park	Saturday
+Manning	Trunk Inn	Jumbo Studios	Sunday
+Cohen	Mouse Resort	Jumbo Golf Course	Friday
+Cohen	Mouse Resort	Jumbo Kingdom	Saturday
+Cohen	Mouse Resort	Jumbo Studios	Sunday
+Harmon	Trunk Inn	Jumbo Kingdom	Friday
+Harmon	Trunk Inn	Jumbo Kingdom	Saturday
+Harmon	Trunk Inn	Jumbo Studios	Sunday
+Rodgers	Mammoth Motel	Animal Planet Zoo	Friday
+Rodgers	Mammoth Motel	Jumbo Studios	Saturday
+Rodgers	Mammoth Motel	Jumbo Kingdom	Sunday
+Robbins	Tusk Hotel	World's Fair	Friday
+Robbins	Tusk Hotel	Jumbo Kingdom	Saturday
+Robbins	Tusk Hotel	Jumbo Kingdom	Sunday
+Newton	Oliphant Camp	Jumbo Kingdom	Friday
+Newton	Oliphant Camp	World's Fair	Saturday
+Newton	Oliphant Camp	Jumbo Studios	Sunday
+Todd	Loxodon Lodge	Jumbo Studios	Friday
+Todd	Loxodon Lodge	Trunk Water Park	Saturday
+Todd	Loxodon Lodge	World's Fair	Sunday
+Blair	Mouse Resort	Jumbo Golf Course	Friday
+Blair	Mouse Resort	Jumbo Kingdom	Saturday
+Blair	Mouse Resort	Jumbo Kingdom	Sunday
+Higgins	Tusk Hotel	Jumbo Kingdom	Friday
+Higgins	Tusk Hotel	World's Fair	Saturday
+Higgins	Tusk Hotel	World's Fair	Sunday
+Ingram	Oliphant Camp	Jumbo Studios	Friday
+Ingram	Oliphant Camp	World's Fair	Saturday
+Ingram	Oliphant Camp	Animal Planet Zoo	Sunday
+Reese	Trunk Inn	Jumbo Kingdom	Friday
+Reese	Trunk Inn	Animal Planet Zoo	Saturday
+Reese	Trunk Inn	Trunk Water Park	Sunday
+Cannon	Mammoth Motel	Trunk Water Park	Friday
+Cannon	Mammoth Motel	Animal Planet Zoo	Saturday
+Cannon	Mammoth Motel	World's Fair	Sunday
+Strickland	Tusk Hotel	Jumbo Studios	Friday
+Strickland	Tusk Hotel	Jumbo Kingdom	Saturday
+Strickland	Tusk Hotel	Jumbo Kingdom	Sunday
+Townsend	Tusk Hotel	World's Fair	Friday
+Townsend	Tusk Hotel	Jumbo Studios	Saturday
+Townsend	Tusk Hotel	Trunk Water Park	Sunday
+Potter	Pachyderm Suites	Animal Planet Zoo	Friday
+Potter	Pachyderm Suites	Animal Planet Zoo	Saturday
+Potter	Pachyderm Suites	Jumbo Kingdom	Sunday
+Goodwin	Tusk Hotel	Trunk Water Park	Friday
+Goodwin	Tusk Hotel	Animal Planet Zoo	Saturday
+Goodwin	Tusk Hotel	Jumbo Kingdom	Sunday
+Walton	Tusk Hotel	World's Fair	Friday
+Walton	Tusk Hotel	Jumbo Kingdom	Saturday
+Walton	Tusk Hotel	Trunk Water Park	Sunday
+Rowe	Loxodon Lodge	Animal Planet Zoo	Friday
+Rowe	Loxodon Lodge	Jumbo Studios	Saturday
+Rowe	Loxodon Lodge	Trunk Water Park	Sunday
+Hampton	Tusk Hotel	Trunk Water Park	Friday
+Hampton	Tusk Hotel	World's Fair	Saturday
+Hampton	Tusk Hotel	Animal Planet Zoo	Sunday
+Ortega	Trunk Inn	Jumbo Kingdom	Friday
+Ortega	Trunk Inn	World's Fair	Saturday
+Ortega	Trunk Inn	Animal Planet Zoo	Sunday
+Patton	Pachyderm Suites	Jumbo Studios	Friday
+Patton	Pachyderm Suites	Jumbo Studios	Saturday
+Patton	Pachyderm Suites	World's Fair	Sunday
+Swanson	Trunk Inn	Trunk Water Park	Friday
+Swanson	Trunk Inn	Jumbo Kingdom	Saturday
+Swanson	Trunk Inn	Jumbo Studios	Sunday
+Joseph	Elephant Lodge	Trunk Water Park	Friday
+Joseph	Elephant Lodge	Jumbo Studios	Saturday
+Joseph	Elephant Lodge	Jumbo Studios	Sunday
+Francis	Trunk Inn	Jumbo Studios	Friday
+Francis	Trunk Inn	Jumbo Kingdom	Saturday
+Francis	Trunk Inn	World's Fair	Sunday
+Goodman	Trunk Inn	Jumbo Golf Course	Friday
+Goodman	Trunk Inn	Jumbo Kingdom	Saturday
+Goodman	Trunk Inn	Jumbo Studios	Sunday
+Maldonado	Oliphant Camp	Trunk Water Park	Friday
+Maldonado	Oliphant Camp	Trunk Water Park	Saturday
+Maldonado	Oliphant Camp	Jumbo Kingdom	Sunday
+Yates	Loxodon Lodge	World's Fair	Friday
+Yates	Loxodon Lodge	Trunk Water Park	Saturday
+Yates	Loxodon Lodge	Jumbo Studios	Sunday
+Becker	Trunk Inn	Trunk Water Park	Friday
+Becker	Trunk Inn	Jumbo Kingdom	Saturday
+Becker	Trunk Inn	Jumbo Kingdom	Sunday
+Erickson	Elephant Lodge	Jumbo Kingdom	Friday
+Erickson	Elephant Lodge	World's Fair	Saturday
+Erickson	Elephant Lodge	Trunk Water Park	Sunday
+Hodges	Mammoth Motel	Jumbo Studios	Friday
+Hodges	Mammoth Motel	Jumbo Kingdom	Saturday
+Hodges	Mammoth Motel	World's Fair	Sunday
+Rios	Tusk Hotel	Jumbo Kingdom	Friday
+Rios	Tusk Hotel	World's Fair	Saturday
+Rios	Tusk Hotel	Animal Planet Zoo	Sunday
+Conner	Oliphant Camp	World's Fair	Friday
+Conner	Oliphant Camp	Jumbo Golf Course	Saturday
+Conner	Oliphant Camp	Animal Planet Zoo	Sunday
+Adkins	Mammoth Motel	World's Fair	Friday
+Adkins	Mammoth Motel	Trunk Water Park	Saturday
+Adkins	Mammoth Motel	Jumbo Studios	Sunday
+Webster	Loxodon Lodge	Jumbo Studios	Friday
+Webster	Loxodon Lodge	Jumbo Studios	Saturday
+Webster	Loxodon Lodge	Jumbo Golf Course	Sunday
+Norman	Oliphant Camp	Jumbo Studios	Friday
+Norman	Oliphant Camp	Jumbo Kingdom	Saturday
+Norman	Oliphant Camp	World's Fair	Sunday
+Malone	Mammoth Motel	Jumbo Studios	Friday
+Malone	Mammoth Motel	Jumbo Studios	Saturday
+Malone	Mammoth Motel	World's Fair	Sunday
+Hammond	Tusk Hotel	Jumbo Kingdom	Friday
+Hammond	Tusk Hotel	World's Fair	Saturday
+Hammond	Tusk Hotel	Animal Planet Zoo	Sunday
+Flowers	Loxodon Lodge	Jumbo Studios	Friday
+Flowers	Loxodon Lodge	World's Fair	Saturday
+Flowers	Loxodon Lodge	Jumbo Golf Course	Sunday
+Cobb	Mammoth Motel	Jumbo Studios	Friday
+Cobb	Mammoth Motel	Animal Planet Zoo	Saturday
+Cobb	Mammoth Motel	World's Fair	Sunday
+Moody	Pachyderm Suites	World's Fair	Friday
+Moody	Pachyderm Suites	Jumbo Kingdom	Saturday
+Moody	Pachyderm Suites	Animal Planet Zoo	Sunday
+Quinn	Tusk Hotel	Jumbo Studios	Friday
+Quinn	Tusk Hotel	Jumbo Studios	Saturday
+Quinn	Tusk Hotel	World's Fair	Sunday
+Blake	Mammoth Motel	World's Fair	Friday
+Blake	Mammoth Motel	Jumbo Kingdom	Saturday
+Blake	Mammoth Motel	Trunk Water Park	Sunday
+Maxwell	Mouse Resort	Trunk Water Park	Friday
+Maxwell	Mouse Resort	Jumbo Studios	Saturday
+Maxwell	Mouse Resort	Jumbo Studios	Sunday
+Pope	Oliphant Camp	Trunk Water Park	Friday
+Pope	Oliphant Camp	Jumbo Kingdom	Saturday
+Pope	Oliphant Camp	Animal Planet Zoo	Sunday
+Floyd	Trunk Inn	Trunk Water Park	Friday
+Floyd	Trunk Inn	Jumbo Kingdom	Saturday
+Floyd	Trunk Inn	Jumbo Kingdom	Sunday
+Osborne	Elephant Lodge	Trunk Water Park	Friday
+Osborne	Elephant Lodge	Jumbo Studios	Saturday
+Osborne	Elephant Lodge	Jumbo Kingdom	Sunday
+Paul	Loxodon Lodge	Animal Planet Zoo	Friday
+Paul	Loxodon Lodge	Jumbo Kingdom	Saturday
+Paul	Loxodon Lodge	World's Fair	Sunday
+Mccarthy	Tusk Hotel	Animal Planet Zoo	Friday
+Mccarthy	Tusk Hotel	Jumbo Kingdom	Saturday
+Mccarthy	Tusk Hotel	Jumbo Kingdom	Sunday
+Guerrero	Trunk Inn	Jumbo Studios	Friday
+Guerrero	Trunk Inn	Jumbo Kingdom	Saturday
+Guerrero	Trunk Inn	World's Fair	Sunday
+Lindsey	Trunk Inn	World's Fair	Friday
+Lindsey	Trunk Inn	Jumbo Kingdom	Saturday
+Lindsey	Trunk Inn	Animal Planet Zoo	Sunday
+Estrada	Mammoth Motel	Jumbo Studios	Friday
+Estrada	Mammoth Motel	Jumbo Kingdom	Saturday
+Estrada	Mammoth Motel	World's Fair	Sunday
+Sandoval	Elephant Lodge	Trunk Water Park	Friday
+Sandoval	Elephant Lodge	Trunk Water Park	Saturday
+Sandoval	Elephant Lodge	Jumbo Kingdom	Sunday
+Gibbs	Tusk Hotel	Jumbo Kingdom	Friday
+Gibbs	Tusk Hotel	World's Fair	Saturday
+Gibbs	Tusk Hotel	Jumbo Golf Course	Sunday
+Tyler	Oliphant Camp	Jumbo Studios	Friday
+Tyler	Oliphant Camp	World's Fair	Saturday
+Tyler	Oliphant Camp	Jumbo Kingdom	Sunday
+Gross	Oliphant Camp	World's Fair	Friday
+Gross	Oliphant Camp	World's Fair	Saturday
+Gross	Oliphant Camp	World's Fair	Sunday
+Fitzgerald	Elephant Lodge	Trunk Water Park	Friday
+Fitzgerald	Elephant Lodge	Jumbo Kingdom	Saturday
+Fitzgerald	Elephant Lodge	Jumbo Kingdom	Sunday
+Stokes	Mouse Resort	Jumbo Studios	Friday
+Stokes	Mouse Resort	Trunk Water Park	Saturday
+Stokes	Mouse Resort	Jumbo Golf Course	Sunday
+Doyle	Tusk Hotel	Jumbo Kingdom	Friday
+Doyle	Tusk Hotel	Jumbo Studios	Saturday
+Doyle	Tusk Hotel	Animal Planet Zoo	Sunday
+Sherman	Elephant Lodge	Trunk Water Park	Friday
+Sherman	Elephant Lodge	Jumbo Studios	Saturday
+Sherman	Elephant Lodge	Animal Planet Zoo	Sunday
+Saunders	Trunk Inn	Jumbo Kingdom	Friday
+Saunders	Trunk Inn	World's Fair	Saturday
+Saunders	Trunk Inn	World's Fair	Sunday
+Wise	Pachyderm Suites	World's Fair	Friday
+Wise	Pachyderm Suites	Jumbo Kingdom	Saturday
+Wise	Pachyderm Suites	Jumbo Studios	Sunday
+Colon	Elephant Lodge	Jumbo Studios	Friday
+Colon	Elephant Lodge	Jumbo Studios	Saturday
+Colon	Elephant Lodge	World's Fair	Sunday
+Gill	Mammoth Motel	Jumbo Studios	Friday
+Gill	Mammoth Motel	Jumbo Kingdom	Saturday
+Gill	Mammoth Motel	Animal Planet Zoo	Sunday
+Alvarado	Tusk Hotel	Jumbo Kingdom	Friday
+Alvarado	Tusk Hotel	Animal Planet Zoo	Saturday
+Alvarado	Tusk Hotel	Animal Planet Zoo	Sunday
+Greer	Elephant Lodge	Trunk Water Park	Friday
+Greer	Elephant Lodge	Jumbo Golf Course	Saturday
+Greer	Elephant Lodge	Animal Planet Zoo	Sunday
+Padilla	Mammoth Motel	Trunk Water Park	Friday
+Padilla	Mammoth Motel	Jumbo Kingdom	Saturday
+Padilla	Mammoth Motel	Animal Planet Zoo	Sunday
+Simon	Loxodon Lodge	Jumbo Kingdom	Friday
+Simon	Loxodon Lodge	Animal Planet Zoo	Saturday
+Simon	Loxodon Lodge	Trunk Water Park	Sunday
+Waters	Trunk Inn	Jumbo Studios	Friday
+Waters	Trunk Inn	Jumbo Golf Course	Saturday
+Waters	Trunk Inn	Jumbo Kingdom	Sunday
+Nunez	Mouse Resort	Animal Planet Zoo	Friday
+Nunez	Mouse Resort	Jumbo Golf Course	Saturday
+Nunez	Mouse Resort	Jumbo Golf Course	Sunday
+Ballard	Oliphant Camp	Jumbo Kingdom	Friday
+Ballard	Oliphant Camp	World's Fair	Saturday
+Ballard	Oliphant Camp	Animal Planet Zoo	Sunday
+Schwartz	Oliphant Camp	Jumbo Studios	Friday
+Schwartz	Oliphant Camp	Jumbo Kingdom	Saturday
+Schwartz	Oliphant Camp	Jumbo Golf Course	Sunday
+Mcbride	Loxodon Lodge	Animal Planet Zoo	Friday
+Mcbride	Loxodon Lodge	Jumbo Studios	Saturday
+Mcbride	Loxodon Lodge	World's Fair	Sunday
+Houston	Mouse Resort	Jumbo Golf Course	Friday
+Houston	Mouse Resort	Animal Planet Zoo	Saturday
+Houston	Mouse Resort	Jumbo Kingdom	Sunday
+Christensen	Tusk Hotel	Jumbo Kingdom	Friday
+Christensen	Tusk Hotel	World's Fair	Saturday
+Christensen	Tusk Hotel	Jumbo Studios	Sunday
+Klein	Mammoth Motel	Jumbo Kingdom	Friday
+Klein	Mammoth Motel	Jumbo Studios	Saturday
+Klein	Mammoth Motel	Trunk Water Park	Sunday
+Pratt	Pachyderm Suites	Jumbo Studios	Friday
+Pratt	Pachyderm Suites	World's Fair	Saturday
+Pratt	Pachyderm Suites	Jumbo Kingdom	Sunday
+Briggs	Elephant Lodge	World's Fair	Friday
+Briggs	Elephant Lodge	Trunk Water Park	Saturday
+Briggs	Elephant Lodge	Trunk Water Park	Sunday
+Parsons	Trunk Inn	Jumbo Studios	Friday
+Parsons	Trunk Inn	Jumbo Kingdom	Saturday
+Parsons	Trunk Inn	Animal Planet Zoo	Sunday
+Mclaughlin	Mammoth Motel	World's Fair	Friday
+Mclaughlin	Mammoth Motel	Jumbo Studios	Saturday
+Mclaughlin	Mammoth Motel	Animal Planet Zoo	Sunday
+Zimmerman	Loxodon Lodge	World's Fair	Friday
+Zimmerman	Loxodon Lodge	Jumbo Studios	Saturday
+Zimmerman	Loxodon Lodge	Animal Planet Zoo	Sunday
+French	Mouse Resort	Jumbo Kingdom	Friday
+French	Mouse Resort	Jumbo Studios	Saturday
+French	Mouse Resort	Animal Planet Zoo	Sunday
+Buchanan	Loxodon Lodge	Animal Planet Zoo	Friday
+Buchanan	Loxodon Lodge	World's Fair	Saturday
+Buchanan	Loxodon Lodge	Jumbo Golf Course	Sunday
+Moran	Trunk Inn	Jumbo Kingdom	Friday
+Moran	Trunk Inn	Animal Planet Zoo	Saturday
+Moran	Trunk Inn	Trunk Water Park	Sunday
+Copeland	Tusk Hotel	World's Fair	Friday
+Copeland	Tusk Hotel	Jumbo Studios	Saturday
+Copeland	Tusk Hotel	Jumbo Kingdom	Sunday
+Roy	Trunk Inn	Jumbo Studios	Friday
+Roy	Trunk Inn	Jumbo Kingdom	Saturday
+Roy	Trunk Inn	Jumbo Golf Course	Sunday
+Pittman	Trunk Inn	Jumbo Studios	Friday
+Pittman	Trunk Inn	Trunk Water Park	Saturday
+Pittman	Trunk Inn	Jumbo Kingdom	Sunday
+Brady	Pachyderm Suites	Jumbo Studios	Friday
+Brady	Pachyderm Suites	World's Fair	Saturday
+Brady	Pachyderm Suites	World's Fair	Sunday
+Mccormick	Tusk Hotel	Animal Planet Zoo	Friday
+Mccormick	Tusk Hotel	Jumbo Studios	Saturday
+Mccormick	Tusk Hotel	Trunk Water Park	Sunday
+Holloway	Tusk Hotel	Jumbo Golf Course	Friday
+Holloway	Tusk Hotel	World's Fair	Saturday
+Holloway	Tusk Hotel	Trunk Water Park	Sunday
+Brock	Mammoth Motel	World's Fair	Friday
+Brock	Mammoth Motel	Jumbo Kingdom	Saturday
+Brock	Mammoth Motel	Animal Planet Zoo	Sunday
+Poole	Mouse Resort	Animal Planet Zoo	Friday
+Poole	Mouse Resort	Jumbo Kingdom	Saturday
+Poole	Mouse Resort	Jumbo Studios	Sunday
+Frank	Mouse Resort	Jumbo Golf Course	Friday
+Frank	Mouse Resort	Jumbo Golf Course	Saturday
+Frank	Mouse Resort	Animal Planet Zoo	Sunday
+Logan	Tusk Hotel	Trunk Water Park	Friday
+Logan	Tusk Hotel	World's Fair	Saturday
+Logan	Tusk Hotel	World's Fair	Sunday
+Owen	Mammoth Motel	Jumbo Studios	Friday
+Owen	Mammoth Motel	World's Fair	Saturday
+Owen	Mammoth Motel	Jumbo Golf Course	Sunday
+Bass	Tusk Hotel	Jumbo Kingdom	Friday
+Bass	Tusk Hotel	Trunk Water Park	Saturday
+Bass	Tusk Hotel	Trunk Water Park	Sunday
+Marsh	Mammoth Motel	Jumbo Studios	Friday
+Marsh	Mammoth Motel	Jumbo Kingdom	Saturday
+Marsh	Mammoth Motel	Trunk Water Park	Sunday
+Drake	Mammoth Motel	Jumbo Studios	Friday
+Drake	Mammoth Motel	Jumbo Studios	Saturday
+Drake	Mammoth Motel	Jumbo Golf Course	Sunday
+Wong	Loxodon Lodge	Trunk Water Park	Friday
+Wong	Loxodon Lodge	Jumbo Studios	Saturday
+Wong	Loxodon Lodge	Jumbo Kingdom	Sunday
+Jefferson	Oliphant Camp	Jumbo Kingdom	Friday
+Jefferson	Oliphant Camp	Jumbo Kingdom	Saturday
+Jefferson	Oliphant Camp	Jumbo Golf Course	Sunday
+Park	Elephant Lodge	Jumbo Studios	Friday
+Park	Elephant Lodge	World's Fair	Saturday
+Park	Elephant Lodge	Animal Planet Zoo	Sunday
+Morton	Trunk Inn	Jumbo Studios	Friday
+Morton	Trunk Inn	World's Fair	Saturday
+Morton	Trunk Inn	World's Fair	Sunday
+Abbott	Oliphant Camp	Jumbo Studios	Friday
+Abbott	Oliphant Camp	Jumbo Studios	Saturday
+Abbott	Oliphant Camp	Jumbo Studios	Sunday
+Sparks	Loxodon Lodge	Animal Planet Zoo	Friday
+Sparks	Loxodon Lodge	World's Fair	Saturday
+Sparks	Loxodon Lodge	World's Fair	Sunday
+Patrick	Oliphant Camp	Jumbo Kingdom	Friday
+Patrick	Oliphant Camp	Jumbo Kingdom	Saturday
+Patrick	Oliphant Camp	Jumbo Kingdom	Sunday
+Norton	Pachyderm Suites	World's Fair	Friday
+Norton	Pachyderm Suites	Trunk Water Park	Saturday
+Norton	Pachyderm Suites	Jumbo Kingdom	Sunday
+Huff	Trunk Inn	Animal Planet Zoo	Friday
+Huff	Trunk Inn	Jumbo Studios	Saturday
+Huff	Trunk Inn	Jumbo Studios	Sunday
+Clayton	Pachyderm Suites	Jumbo Studios	Friday
+Clayton	Pachyderm Suites	Animal Planet Zoo	Saturday
+Clayton	Pachyderm Suites	Animal Planet Zoo	Sunday
+Massey	Trunk Inn	Jumbo Kingdom	Friday
+Massey	Trunk Inn	Animal Planet Zoo	Saturday
+Massey	Trunk Inn	World's Fair	Sunday
+Lloyd	Oliphant Camp	Jumbo Golf Course	Friday
+Lloyd	Oliphant Camp	World's Fair	Saturday
+Lloyd	Oliphant Camp	Jumbo Kingdom	Sunday
+Figueroa	Mammoth Motel	Jumbo Studios	Friday
+Figueroa	Mammoth Motel	World's Fair	Saturday
+Figueroa	Mammoth Motel	World's Fair	Sunday
+Carson	Elephant Lodge	World's Fair	Friday
+Carson	Elephant Lodge	Trunk Water Park	Saturday
+Carson	Elephant Lodge	Jumbo Kingdom	Sunday
+Bowers	Mouse Resort	Jumbo Golf Course	Friday
+Bowers	Mouse Resort	Jumbo Golf Course	Saturday
+Bowers	Mouse Resort	World's Fair	Sunday
+Roberson	Mammoth Motel	World's Fair	Friday
+Roberson	Mammoth Motel	Trunk Water Park	Saturday
+Roberson	Mammoth Motel	Jumbo Studios	Sunday
+Barton	Trunk Inn	Jumbo Kingdom	Friday
+Barton	Trunk Inn	World's Fair	Saturday
+Barton	Trunk Inn	World's Fair	Sunday
+Tran	Tusk Hotel	Jumbo Kingdom	Friday
+Tran	Tusk Hotel	Jumbo Kingdom	Saturday
+Tran	Tusk Hotel	Jumbo Golf Course	Sunday
+Lamb	Pachyderm Suites	World's Fair	Friday
+Lamb	Pachyderm Suites	World's Fair	Saturday
+Lamb	Pachyderm Suites	Jumbo Kingdom	Sunday
+Harrington	Trunk Inn	Jumbo Kingdom	Friday
+Harrington	Trunk Inn	Jumbo Studios	Saturday
+Harrington	Trunk Inn	World's Fair	Sunday
+Casey	Pachyderm Suites	World's Fair	Friday
+Casey	Pachyderm Suites	Jumbo Kingdom	Saturday
+Casey	Pachyderm Suites	Jumbo Kingdom	Sunday
+Boone	Loxodon Lodge	World's Fair	Friday
+Boone	Loxodon Lodge	Animal Planet Zoo	Saturday
+Boone	Loxodon Lodge	Jumbo Studios	Sunday
+Cortez	Pachyderm Suites	Jumbo Studios	Friday
+Cortez	Pachyderm Suites	Jumbo Studios	Saturday
+Cortez	Pachyderm Suites	World's Fair	Sunday
+Clarke	Mammoth Motel	Jumbo Studios	Friday
+Clarke	Mammoth Motel	Jumbo Studios	Saturday
+Clarke	Mammoth Motel	Jumbo Studios	Sunday
+Mathis	Tusk Hotel	World's Fair	Friday
+Mathis	Tusk Hotel	World's Fair	Saturday
+Mathis	Tusk Hotel	Jumbo Kingdom	Sunday
+Singleton	Mammoth Motel	World's Fair	Friday
+Singleton	Mammoth Motel	Trunk Water Park	Saturday
+Singleton	Mammoth Motel	Jumbo Studios	Sunday
+Wilkins	Pachyderm Suites	World's Fair	Friday
+Wilkins	Pachyderm Suites	Jumbo Studios	Saturday
+Wilkins	Pachyderm Suites	Jumbo Kingdom	Sunday
+Cain	Mammoth Motel	World's Fair	Friday
+Cain	Mammoth Motel	Jumbo Studios	Saturday
+Cain	Mammoth Motel	Trunk Water Park	Sunday
+Bryan	Mouse Resort	World's Fair	Friday
+Bryan	Mouse Resort	World's Fair	Saturday
+Bryan	Mouse Resort	Jumbo Golf Course	Sunday
+Underwood	Trunk Inn	Animal Planet Zoo	Friday
+Underwood	Trunk Inn	Animal Planet Zoo	Saturday
+Underwood	Trunk Inn	Animal Planet Zoo	Sunday
+Hogan	Tusk Hotel	Jumbo Kingdom	Friday
+Hogan	Tusk Hotel	World's Fair	Saturday
+Hogan	Tusk Hotel	Animal Planet Zoo	Sunday
+Mckenzie	Pachyderm Suites	World's Fair	Friday
+Mckenzie	Pachyderm Suites	Trunk Water Park	Saturday
+Mckenzie	Pachyderm Suites	Jumbo Kingdom	Sunday
+Collier	Loxodon Lodge	Jumbo Studios	Friday
+Collier	Loxodon Lodge	World's Fair	Saturday
+Collier	Loxodon Lodge	Trunk Water Park	Sunday
+Luna	Mouse Resort	Jumbo Kingdom	Friday
+Luna	Mouse Resort	Jumbo Golf Course	Saturday
+Luna	Mouse Resort	Trunk Water Park	Sunday
+Phelps	Elephant Lodge	Jumbo Studios	Friday
+Phelps	Elephant Lodge	Animal Planet Zoo	Saturday
+Phelps	Elephant Lodge	Trunk Water Park	Sunday
+Mcguire	Trunk Inn	Animal Planet Zoo	Friday
+Mcguire	Trunk Inn	Jumbo Kingdom	Saturday
+Mcguire	Trunk Inn	Jumbo Studios	Sunday
+Allison	Loxodon Lodge	Jumbo Studios	Friday
+Allison	Loxodon Lodge	Trunk Water Park	Saturday
+Allison	Loxodon Lodge	Trunk Water Park	Sunday
+Bridges	Mouse Resort	World's Fair	Friday
+Bridges	Mouse Resort	World's Fair	Saturday
+Bridges	Mouse Resort	Jumbo Kingdom	Sunday
+Wilkerson	Pachyderm Suites	Jumbo Kingdom	Friday
+Wilkerson	Pachyderm Suites	World's Fair	Saturday
+Wilkerson	Pachyderm Suites	Jumbo Studios	Sunday
+Nash	Oliphant Camp	World's Fair	Friday
+Nash	Oliphant Camp	Jumbo Kingdom	Saturday
+Nash	Oliphant Camp	Trunk Water Park	Sunday
+Summers	Pachyderm Suites	Trunk Water Park	Friday
+Summers	Pachyderm Suites	Trunk Water Park	Saturday
+Summers	Pachyderm Suites	Jumbo Studios	Sunday
+Atkins	Trunk Inn	Jumbo Kingdom	Friday
+Atkins	Trunk Inn	Jumbo Studios	Saturday
+Atkins	Trunk Inn	World's Fair	Sunday
+Wilcox	Tusk Hotel	Jumbo Kingdom	Friday
+Wilcox	Tusk Hotel	Animal Planet Zoo	Saturday
+Wilcox	Tusk Hotel	Animal Planet Zoo	Sunday
+Pitts	Loxodon Lodge	World's Fair	Friday
+Pitts	Loxodon Lodge	Jumbo Kingdom	Saturday
+Pitts	Loxodon Lodge	Jumbo Kingdom	Sunday
+Conley	Pachyderm Suites	Jumbo Kingdom	Friday
+Conley	Pachyderm Suites	World's Fair	Saturday
+Conley	Pachyderm Suites	Trunk Water Park	Sunday
+Marquez	Pachyderm Suites	Jumbo Kingdom	Friday
+Marquez	Pachyderm Suites	Jumbo Kingdom	Saturday
+Marquez	Pachyderm Suites	World's Fair	Sunday
+Burnett	Loxodon Lodge	Jumbo Studios	Friday
+Burnett	Loxodon Lodge	World's Fair	Saturday
+Burnett	Loxodon Lodge	Animal Planet Zoo	Sunday
+Richard	Oliphant Camp	Jumbo Golf Course	Friday
+Richard	Oliphant Camp	World's Fair	Saturday
+Richard	Oliphant Camp	Jumbo Studios	Sunday
+Cochran	Oliphant Camp	Jumbo Golf Course	Friday
+Cochran	Oliphant Camp	World's Fair	Saturday
+Cochran	Oliphant Camp	World's Fair	Sunday
+Chase	Loxodon Lodge	Jumbo Studios	Friday
+Chase	Loxodon Lodge	Animal Planet Zoo	Saturday
+Chase	Loxodon Lodge	Jumbo Kingdom	Sunday
+Davenport	Oliphant Camp	Jumbo Kingdom	Friday
+Davenport	Oliphant Camp	Jumbo Studios	Saturday
+Davenport	Oliphant Camp	Jumbo Studios	Sunday
+Hood	Loxodon Lodge	Jumbo Studios	Friday
+Hood	Loxodon Lodge	World's Fair	Saturday
+Hood	Loxodon Lodge	Animal Planet Zoo	Sunday
+Gates	Pachyderm Suites	Jumbo Kingdom	Friday
+Gates	Pachyderm Suites	World's Fair	Saturday
+Gates	Pachyderm Suites	Jumbo Studios	Sunday
+Clay	Mouse Resort	Jumbo Golf Course	Friday
+Clay	Mouse Resort	Jumbo Kingdom	Saturday
+Clay	Mouse Resort	Jumbo Studios	Sunday
+Ayala	Elephant Lodge	Jumbo Kingdom	Friday
+Ayala	Elephant Lodge	Trunk Water Park	Saturday
+Ayala	Elephant Lodge	Jumbo Studios	Sunday
+Sawyer	Mouse Resort	World's Fair	Friday
+Sawyer	Mouse Resort	Jumbo Studios	Saturday
+Sawyer	Mouse Resort	Jumbo Kingdom	Sunday
+Roman	Tusk Hotel	Jumbo Studios	Friday
+Roman	Tusk Hotel	Jumbo Kingdom	Saturday
+Roman	Tusk Hotel	Jumbo Kingdom	Sunday
+Vazquez	Elephant Lodge	World's Fair	Friday
+Vazquez	Elephant Lodge	World's Fair	Saturday
+Vazquez	Elephant Lodge	World's Fair	Sunday
+Dickerson	Loxodon Lodge	Animal Planet Zoo	Friday
+Dickerson	Loxodon Lodge	Jumbo Kingdom	Saturday
+Dickerson	Loxodon Lodge	World's Fair	Sunday
+Hodge	Trunk Inn	World's Fair	Friday
+Hodge	Trunk Inn	Jumbo Kingdom	Saturday
+Hodge	Trunk Inn	Trunk Water Park	Sunday
+Acosta	Pachyderm Suites	Jumbo Studios	Friday
+Acosta	Pachyderm Suites	Animal Planet Zoo	Saturday
+Acosta	Pachyderm Suites	Animal Planet Zoo	Sunday
+Flynn	Trunk Inn	World's Fair	Friday
+Flynn	Trunk Inn	Jumbo Golf Course	Saturday
+Flynn	Trunk Inn	Jumbo Kingdom	Sunday
+Espinoza	Tusk Hotel	Jumbo Kingdom	Friday
+Espinoza	Tusk Hotel	World's Fair	Saturday
+Espinoza	Tusk Hotel	World's Fair	Sunday
+Nicholson	Loxodon Lodge	Jumbo Kingdom	Friday
+Nicholson	Loxodon Lodge	Jumbo Kingdom	Saturday
+Nicholson	Loxodon Lodge	Trunk Water Park	Sunday
+Monroe	Pachyderm Suites	Jumbo Studios	Friday
+Monroe	Pachyderm Suites	Jumbo Golf Course	Saturday
+Monroe	Pachyderm Suites	Jumbo Kingdom	Sunday
+Wolf	Oliphant Camp	Jumbo Kingdom	Friday
+Wolf	Oliphant Camp	World's Fair	Saturday
+Wolf	Oliphant Camp	Jumbo Studios	Sunday
+Morrow	Tusk Hotel	Jumbo Kingdom	Friday
+Morrow	Tusk Hotel	Jumbo Studios	Saturday
+Morrow	Tusk Hotel	Jumbo Studios	Sunday
+Kirk	Trunk Inn	Jumbo Kingdom	Friday
+Kirk	Trunk Inn	World's Fair	Saturday
+Kirk	Trunk Inn	Trunk Water Park	Sunday
+Randall	Pachyderm Suites	World's Fair	Friday
+Randall	Pachyderm Suites	World's Fair	Saturday
+Randall	Pachyderm Suites	World's Fair	Sunday
+Anthony	Tusk Hotel	Jumbo Studios	Friday
+Anthony	Tusk Hotel	Jumbo Studios	Saturday
+Anthony	Tusk Hotel	World's Fair	Sunday
+Whitaker	Trunk Inn	World's Fair	Friday
+Whitaker	Trunk Inn	Jumbo Kingdom	Saturday
+Whitaker	Trunk Inn	Trunk Water Park	Sunday
+Oconnor	Pachyderm Suites	Jumbo Kingdom	Friday
+Oconnor	Pachyderm Suites	World's Fair	Saturday
+Oconnor	Pachyderm Suites	Jumbo Studios	Sunday
+Skinner	Loxodon Lodge	Jumbo Studios	Friday
+Skinner	Loxodon Lodge	World's Fair	Saturday
+Skinner	Loxodon Lodge	World's Fair	Sunday
+Ware	Loxodon Lodge	Jumbo Golf Course	Friday
+Ware	Loxodon Lodge	Jumbo Studios	Saturday
+Ware	Loxodon Lodge	World's Fair	Sunday
+Molina	Mammoth Motel	Jumbo Kingdom	Friday
+Molina	Mammoth Motel	Jumbo Studios	Saturday
+Molina	Mammoth Motel	World's Fair	Sunday
+Kirby	Tusk Hotel	World's Fair	Friday
+Kirby	Tusk Hotel	Jumbo Kingdom	Saturday
+Kirby	Tusk Hotel	Jumbo Golf Course	Sunday
+Huffman	Trunk Inn	World's Fair	Friday
+Huffman	Trunk Inn	Jumbo Kingdom	Saturday
+Huffman	Trunk Inn	Jumbo Kingdom	Sunday
+Bradford	Pachyderm Suites	World's Fair	Friday
+Bradford	Pachyderm Suites	Jumbo Studios	Saturday
+Bradford	Pachyderm Suites	Jumbo Kingdom	Sunday
+Charles	Loxodon Lodge	Animal Planet Zoo	Friday
+Charles	Loxodon Lodge	Jumbo Studios	Saturday
+Charles	Loxodon Lodge	Jumbo Kingdom	Sunday
+Gilmore	Trunk Inn	Animal Planet Zoo	Friday
+Gilmore	Trunk Inn	Jumbo Kingdom	Saturday
+Gilmore	Trunk Inn	Jumbo Studios	Sunday
+Dominguez	Pachyderm Suites	Jumbo Kingdom	Friday
+Dominguez	Pachyderm Suites	Jumbo Kingdom	Saturday
+Dominguez	Pachyderm Suites	World's Fair	Sunday
+Oneal	Tusk Hotel	Trunk Water Park	Friday
+Oneal	Tusk Hotel	Jumbo Studios	Saturday
+Oneal	Tusk Hotel	Jumbo Studios	Sunday
+Bruce	Pachyderm Suites	Jumbo Studios	Friday
+Bruce	Pachyderm Suites	Jumbo Kingdom	Saturday
+Bruce	Pachyderm Suites	World's Fair	Sunday
+Lang	Pachyderm Suites	World's Fair	Friday
+Lang	Pachyderm Suites	Jumbo Kingdom	Saturday
+Lang	Pachyderm Suites	Jumbo Kingdom	Sunday
+Combs	Trunk Inn	Jumbo Studios	Friday
+Combs	Trunk Inn	Jumbo Kingdom	Saturday
+Combs	Trunk Inn	World's Fair	Sunday
+Kramer	Pachyderm Suites	World's Fair	Friday
+Kramer	Pachyderm Suites	Jumbo Kingdom	Saturday
+Kramer	Pachyderm Suites	Animal Planet Zoo	Sunday
+Heath	Elephant Lodge	Jumbo Studios	Friday
+Heath	Elephant Lodge	Jumbo Studios	Saturday
+Heath	Elephant Lodge	Trunk Water Park	Sunday
+Hancock	Loxodon Lodge	Jumbo Studios	Friday
+Hancock	Loxodon Lodge	World's Fair	Saturday
+Hancock	Loxodon Lodge	World's Fair	Sunday
+Gallagher	Loxodon Lodge	Jumbo Studios	Friday
+Gallagher	Loxodon Lodge	World's Fair	Saturday
+Gallagher	Loxodon Lodge	Jumbo Kingdom	Sunday
+Gaines	Pachyderm Suites	World's Fair	Friday
+Gaines	Pachyderm Suites	Trunk Water Park	Saturday
+Gaines	Pachyderm Suites	Animal Planet Zoo	Sunday
+Shaffer	Loxodon Lodge	Jumbo Studios	Friday
+Shaffer	Loxodon Lodge	World's Fair	Saturday
+Shaffer	Loxodon Lodge	Jumbo Kingdom	Sunday
+Short	Tusk Hotel	Jumbo Kingdom	Friday
+Short	Tusk Hotel	Jumbo Kingdom	Saturday
+Short	Tusk Hotel	Trunk Water Park	Sunday
+Wiggins	Elephant Lodge	Jumbo Studios	Friday
+Wiggins	Elephant Lodge	Animal Planet Zoo	Saturday
+Wiggins	Elephant Lodge	Trunk Water Park	Sunday
+Mathews	Loxodon Lodge	Jumbo Kingdom	Friday
+Mathews	Loxodon Lodge	Jumbo Studios	Saturday
+Mathews	Loxodon Lodge	World's Fair	Sunday
+Mcclain	Mouse Resort	Jumbo Golf Course	Friday
+Mcclain	Mouse Resort	Animal Planet Zoo	Saturday
+Mcclain	Mouse Resort	Jumbo Studios	Sunday
+Fischer	Pachyderm Suites	Animal Planet Zoo	Friday
+Fischer	Pachyderm Suites	Jumbo Kingdom	Saturday
+Fischer	Pachyderm Suites	Jumbo Kingdom	Sunday
+Wall	Tusk Hotel	Jumbo Golf Course	Friday
+Wall	Tusk Hotel	Jumbo Golf Course	Saturday
+Wall	Tusk Hotel	Jumbo Golf Course	Sunday
+Small	Tusk Hotel	Jumbo Kingdom	Friday
+Small	Tusk Hotel	Jumbo Kingdom	Saturday
+Small	Tusk Hotel	Jumbo Kingdom	Sunday
+Melton	Trunk Inn	Jumbo Golf Course	Friday
+Melton	Trunk Inn	Jumbo Kingdom	Saturday
+Melton	Trunk Inn	Jumbo Kingdom	Sunday
+Hensley	Pachyderm Suites	Jumbo Golf Course	Friday
+Hensley	Pachyderm Suites	Jumbo Studios	Saturday
+Hensley	Pachyderm Suites	Jumbo Studios	Sunday
+Bond	Loxodon Lodge	Jumbo Studios	Friday
+Bond	Loxodon Lodge	World's Fair	Saturday
+Bond	Loxodon Lodge	Trunk Water Park	Sunday
+Dyer	Elephant Lodge	Trunk Water Park	Friday
+Dyer	Elephant Lodge	World's Fair	Saturday
+Dyer	Elephant Lodge	Jumbo Golf Course	Sunday
+Cameron	Mammoth Motel	Jumbo Golf Course	Friday
+Cameron	Mammoth Motel	Jumbo Kingdom	Saturday
+Cameron	Mammoth Motel	Jumbo Studios	Sunday
+Grimes	Trunk Inn	Jumbo Kingdom	Friday
+Grimes	Trunk Inn	Jumbo Studios	Saturday
+Grimes	Trunk Inn	Animal Planet Zoo	Sunday
+Contreras	Oliphant Camp	World's Fair	Friday
+Contreras	Oliphant Camp	Jumbo Kingdom	Saturday
+Contreras	Oliphant Camp	Jumbo Golf Course	Sunday
+Christian	Pachyderm Suites	World's Fair	Friday
+Christian	Pachyderm Suites	World's Fair	Saturday
+Christian	Pachyderm Suites	Animal Planet Zoo	Sunday
+Wyatt	Loxodon Lodge	World's Fair	Friday
+Wyatt	Loxodon Lodge	Animal Planet Zoo	Saturday
+Wyatt	Loxodon Lodge	Jumbo Studios	Sunday
+Baxter	Oliphant Camp	Jumbo Kingdom	Friday
+Baxter	Oliphant Camp	Jumbo Kingdom	Saturday
+Baxter	Oliphant Camp	Jumbo Studios	Sunday
+Snow	Trunk Inn	Animal Planet Zoo	Friday
+Snow	Trunk Inn	Jumbo Kingdom	Saturday
+Snow	Trunk Inn	Jumbo Kingdom	Sunday
+Mosley	Oliphant Camp	Jumbo Kingdom	Friday
+Mosley	Oliphant Camp	World's Fair	Saturday
+Mosley	Oliphant Camp	World's Fair	Sunday
+Shepherd	Tusk Hotel	Jumbo Studios	Friday
+Shepherd	Tusk Hotel	Jumbo Kingdom	Saturday
+Shepherd	Tusk Hotel	World's Fair	Sunday
+Larsen	Pachyderm Suites	Jumbo Kingdom	Friday
+Larsen	Pachyderm Suites	Trunk Water Park	Saturday
+Larsen	Pachyderm Suites	Jumbo Studios	Sunday
+Hoover	Pachyderm Suites	World's Fair	Friday
+Hoover	Pachyderm Suites	World's Fair	Saturday
+Hoover	Pachyderm Suites	Animal Planet Zoo	Sunday
+Beasley	Loxodon Lodge	World's Fair	Friday
+Beasley	Loxodon Lodge	Animal Planet Zoo	Saturday
+Beasley	Loxodon Lodge	Animal Planet Zoo	Sunday
+Glenn	Tusk Hotel	Animal Planet Zoo	Friday
+Glenn	Tusk Hotel	Animal Planet Zoo	Saturday
+Glenn	Tusk Hotel	World's Fair	Sunday
+Petersen	Mammoth Motel	Jumbo Golf Course	Friday
+Petersen	Mammoth Motel	Jumbo Kingdom	Saturday
+Petersen	Mammoth Motel	World's Fair	Sunday
+Whitehead	Elephant Lodge	Trunk Water Park	Friday
+Whitehead	Elephant Lodge	Jumbo Kingdom	Saturday
+Whitehead	Elephant Lodge	Animal Planet Zoo	Sunday
+Meyers	Pachyderm Suites	Jumbo Kingdom	Friday
+Meyers	Pachyderm Suites	Jumbo Kingdom	Saturday
+Meyers	Pachyderm Suites	World's Fair	Sunday
+Keith	Trunk Inn	Jumbo Kingdom	Friday
+Keith	Trunk Inn	Jumbo Studios	Saturday
+Keith	Trunk Inn	Jumbo Studios	Sunday
+Garrison	Loxodon Lodge	Jumbo Studios	Friday
+Garrison	Loxodon Lodge	World's Fair	Saturday
+Garrison	Loxodon Lodge	Jumbo Kingdom	Sunday
+Vincent	Loxodon Lodge	World's Fair	Friday
+Vincent	Loxodon Lodge	Jumbo Studios	Saturday
+Vincent	Loxodon Lodge	Animal Planet Zoo	Sunday
+Shields	Mammoth Motel	World's Fair	Friday
+Shields	Mammoth Motel	Jumbo Studios	Saturday
+Shields	Mammoth Motel	Jumbo Kingdom	Sunday
+Horn	Mammoth Motel	Jumbo Studios	Friday
+Horn	Mammoth Motel	Jumbo Studios	Saturday
+Horn	Mammoth Motel	Jumbo Kingdom	Sunday
+Savage	Tusk Hotel	Jumbo Studios	Friday
+Savage	Tusk Hotel	Jumbo Kingdom	Saturday
+Savage	Tusk Hotel	Animal Planet Zoo	Sunday
+Olsen	Pachyderm Suites	World's Fair	Friday
+Olsen	Pachyderm Suites	World's Fair	Saturday
+Olsen	Pachyderm Suites	Jumbo Studios	Sunday
+Schroeder	Pachyderm Suites	Jumbo Kingdom	Friday
+Schroeder	Pachyderm Suites	World's Fair	Saturday
+Schroeder	Pachyderm Suites	Animal Planet Zoo	Sunday
+Hartman	Trunk Inn	Jumbo Kingdom	Friday
+Hartman	Trunk Inn	World's Fair	Saturday
+Hartman	Trunk Inn	Animal Planet Zoo	Sunday
+Woodard	Mammoth Motel	Animal Planet Zoo	Friday
+Woodard	Mammoth Motel	Jumbo Studios	Saturday
+Woodard	Mammoth Motel	Jumbo Kingdom	Sunday
+Mueller	Loxodon Lodge	Jumbo Studios	Friday
+Mueller	Loxodon Lodge	Jumbo Kingdom	Saturday
+Mueller	Loxodon Lodge	Animal Planet Zoo	Sunday
+Kemp	Mammoth Motel	Trunk Water Park	Friday
+Kemp	Mammoth Motel	World's Fair	Saturday
+Kemp	Mammoth Motel	Jumbo Kingdom	Sunday
+Deleon	Pachyderm Suites	Jumbo Studios	Friday
+Deleon	Pachyderm Suites	World's Fair	Saturday
+Deleon	Pachyderm Suites	Jumbo Kingdom	Sunday
+Booth	Mammoth Motel	Jumbo Kingdom	Friday
+Booth	Mammoth Motel	Jumbo Studios	Saturday
+Booth	Mammoth Motel	Trunk Water Park	Sunday
+Patel	Mammoth Motel	Animal Planet Zoo	Friday
+Patel	Mammoth Motel	Animal Planet Zoo	Saturday
+Patel	Mammoth Motel	Jumbo Studios	Sunday
+Calhoun	Trunk Inn	World's Fair	Friday
+Calhoun	Trunk Inn	Jumbo Studios	Saturday
+Calhoun	Trunk Inn	Jumbo Studios	Sunday
+Wiley	Elephant Lodge	Animal Planet Zoo	Friday
+Wiley	Elephant Lodge	Jumbo Kingdom	Saturday
+Wiley	Elephant Lodge	Trunk Water Park	Sunday
+Eaton	Mouse Resort	Jumbo Golf Course	Friday
+Eaton	Mouse Resort	World's Fair	Saturday
+Eaton	Mouse Resort	Jumbo Studios	Sunday
+Cline	Mouse Resort	Jumbo Golf Course	Friday
+Cline	Mouse Resort	Jumbo Kingdom	Saturday
+Cline	Mouse Resort	World's Fair	Sunday
+Navarro	Trunk Inn	Animal Planet Zoo	Friday
+Navarro	Trunk Inn	Jumbo Kingdom	Saturday
+Navarro	Trunk Inn	World's Fair	Sunday
+Harrell	Oliphant Camp	Jumbo Studios	Friday
+Harrell	Oliphant Camp	Jumbo Kingdom	Saturday
+Harrell	Oliphant Camp	Jumbo Golf Course	Sunday
+Lester	Tusk Hotel	Jumbo Kingdom	Friday
+Lester	Tusk Hotel	World's Fair	Saturday
+Lester	Tusk Hotel	World's Fair	Sunday
+Humphrey	Pachyderm Suites	World's Fair	Friday
+Humphrey	Pachyderm Suites	Jumbo Kingdom	Saturday
+Humphrey	Pachyderm Suites	Jumbo Kingdom	Sunday
+Parrish	Tusk Hotel	Jumbo Kingdom	Friday
+Parrish	Tusk Hotel	World's Fair	Saturday
+Parrish	Tusk Hotel	Trunk Water Park	Sunday
+Duran	Mammoth Motel	Jumbo Kingdom	Friday
+Duran	Mammoth Motel	Jumbo Studios	Saturday
+Duran	Mammoth Motel	World's Fair	Sunday
+Hutchinson	Mammoth Motel	Jumbo Kingdom	Friday
+Hutchinson	Mammoth Motel	World's Fair	Saturday
+Hutchinson	Mammoth Motel	Animal Planet Zoo	Sunday
+Hess	Mammoth Motel	World's Fair	Friday
+Hess	Mammoth Motel	Jumbo Kingdom	Saturday
+Hess	Mammoth Motel	Jumbo Kingdom	Sunday
+Dorsey	Pachyderm Suites	Jumbo Studios	Friday
+Dorsey	Pachyderm Suites	Jumbo Kingdom	Saturday
+Dorsey	Pachyderm Suites	World's Fair	Sunday
+Bullock	Loxodon Lodge	Jumbo Studios	Friday
+Bullock	Loxodon Lodge	World's Fair	Saturday
+Bullock	Loxodon Lodge	Animal Planet Zoo	Sunday
+Robles	Trunk Inn	Jumbo Studios	Friday
+Robles	Trunk Inn	Jumbo Kingdom	Saturday
+Robles	Trunk Inn	World's Fair	Sunday
+Beard	Mammoth Motel	Jumbo Studios	Friday
+Beard	Mammoth Motel	World's Fair	Saturday
+Beard	Mammoth Motel	Jumbo Kingdom	Sunday
+Dalton	Mouse Resort	World's Fair	Friday
+Dalton	Mouse Resort	Jumbo Kingdom	Saturday
+Dalton	Mouse Resort	Jumbo Golf Course	Sunday
+Avila	Pachyderm Suites	World's Fair	Friday
+Avila	Pachyderm Suites	Animal Planet Zoo	Saturday
+Avila	Pachyderm Suites	Trunk Water Park	Sunday
+Vance	Trunk Inn	Jumbo Kingdom	Friday
+Vance	Trunk Inn	Animal Planet Zoo	Saturday
+Vance	Trunk Inn	Animal Planet Zoo	Sunday
+Rich	Pachyderm Suites	World's Fair	Friday
+Rich	Pachyderm Suites	Jumbo Kingdom	Saturday
+Rich	Pachyderm Suites	Jumbo Studios	Sunday
+Blackwell	Pachyderm Suites	World's Fair	Friday
+Blackwell	Pachyderm Suites	Jumbo Studios	Saturday
+Blackwell	Pachyderm Suites	Jumbo Studios	Sunday
+York	Mammoth Motel	Jumbo Studios	Friday
+York	Mammoth Motel	Jumbo Kingdom	Saturday
+York	Mammoth Motel	Jumbo Kingdom	Sunday
+Johns	Mouse Resort	Animal Planet Zoo	Friday
+Johns	Mouse Resort	Jumbo Kingdom	Saturday
+Johns	Mouse Resort	Trunk Water Park	Sunday
+Blankenship	Trunk Inn	Jumbo Studios	Friday
+Blankenship	Trunk Inn	Jumbo Kingdom	Saturday
+Blankenship	Trunk Inn	World's Fair	Sunday
+Trevino	Loxodon Lodge	Jumbo Kingdom	Friday
+Trevino	Loxodon Lodge	Jumbo Studios	Saturday
+Trevino	Loxodon Lodge	World's Fair	Sunday
+Salinas	Pachyderm Suites	Jumbo Kingdom	Friday
+Salinas	Pachyderm Suites	Jumbo Kingdom	Saturday
+Salinas	Pachyderm Suites	Jumbo Kingdom	Sunday
+Campos	Oliphant Camp	Jumbo Kingdom	Friday
+Campos	Oliphant Camp	Jumbo Studios	Saturday
+Campos	Oliphant Camp	Animal Planet Zoo	Sunday
+Pruitt	Mammoth Motel	Animal Planet Zoo	Friday
+Pruitt	Mammoth Motel	Trunk Water Park	Saturday
+Pruitt	Mammoth Motel	Trunk Water Park	Sunday
+Moses	Trunk Inn	Jumbo Studios	Friday
+Moses	Trunk Inn	Jumbo Kingdom	Saturday
+Moses	Trunk Inn	Jumbo Golf Course	Sunday
+Callahan	Loxodon Lodge	Jumbo Studios	Friday
+Callahan	Loxodon Lodge	Jumbo Studios	Saturday
+Callahan	Loxodon Lodge	World's Fair	Sunday
+Golden	Loxodon Lodge	World's Fair	Friday
+Golden	Loxodon Lodge	Jumbo Kingdom	Saturday
+Golden	Loxodon Lodge	Animal Planet Zoo	Sunday
+Montoya	Elephant Lodge	Trunk Water Park	Friday
+Montoya	Elephant Lodge	Animal Planet Zoo	Saturday
+Montoya	Elephant Lodge	World's Fair	Sunday
+Hardin	Loxodon Lodge	World's Fair	Friday
+Hardin	Loxodon Lodge	Jumbo Studios	Saturday
+Hardin	Loxodon Lodge	Jumbo Studios	Sunday
+Guerra	Loxodon Lodge	Animal Planet Zoo	Friday
+Guerra	Loxodon Lodge	Jumbo Studios	Saturday
+Guerra	Loxodon Lodge	Trunk Water Park	Sunday
+Mcdowell	Trunk Inn	Jumbo Kingdom	Friday
+Mcdowell	Trunk Inn	Jumbo Studios	Saturday
+Mcdowell	Trunk Inn	Animal Planet Zoo	Sunday
+Carey	Elephant Lodge	Jumbo Studios	Friday
+Carey	Elephant Lodge	Animal Planet Zoo	Saturday
+Carey	Elephant Lodge	Trunk Water Park	Sunday
+Stafford	Pachyderm Suites	Jumbo Kingdom	Friday
+Stafford	Pachyderm Suites	Jumbo Kingdom	Saturday
+Stafford	Pachyderm Suites	Trunk Water Park	Sunday
+Gallegos	Pachyderm Suites	Jumbo Kingdom	Friday
+Gallegos	Pachyderm Suites	Jumbo Kingdom	Saturday
+Gallegos	Pachyderm Suites	Jumbo Kingdom	Sunday
+Henson	Mouse Resort	World's Fair	Friday
+Henson	Mouse Resort	Animal Planet Zoo	Saturday
+Henson	Mouse Resort	Jumbo Studios	Sunday
+Wilkinson	Pachyderm Suites	Jumbo Kingdom	Friday
+Wilkinson	Pachyderm Suites	World's Fair	Saturday
+Wilkinson	Pachyderm Suites	Animal Planet Zoo	Sunday
+Booker	Loxodon Lodge	World's Fair	Friday
+Booker	Loxodon Lodge	Jumbo Kingdom	Saturday
+Booker	Loxodon Lodge	Jumbo Kingdom	Sunday
+Merritt	Loxodon Lodge	Jumbo Studios	Friday
+Merritt	Loxodon Lodge	Jumbo Kingdom	Saturday
+Merritt	Loxodon Lodge	World's Fair	Sunday
+Miranda	Mouse Resort	Jumbo Golf Course	Friday
+Miranda	Mouse Resort	Animal Planet Zoo	Saturday
+Miranda	Mouse Resort	Animal Planet Zoo	Sunday
+Atkinson	Mammoth Motel	Animal Planet Zoo	Friday
+Atkinson	Mammoth Motel	Jumbo Studios	Saturday
+Atkinson	Mammoth Motel	World's Fair	Sunday
+Orr	Pachyderm Suites	World's Fair	Friday
+Orr	Pachyderm Suites	World's Fair	Saturday
+Orr	Pachyderm Suites	Trunk Water Park	Sunday
+Decker	Trunk Inn	Jumbo Golf Course	Friday
+Decker	Trunk Inn	Jumbo Golf Course	Saturday
+Decker	Trunk Inn	Trunk Water Park	Sunday
+Hobbs	Pachyderm Suites	Jumbo Kingdom	Friday
+Hobbs	Pachyderm Suites	Animal Planet Zoo	Saturday
+Hobbs	Pachyderm Suites	Jumbo Studios	Sunday
+Preston	Tusk Hotel	Jumbo Kingdom	Friday
+Preston	Tusk Hotel	Jumbo Kingdom	Saturday
+Preston	Tusk Hotel	Jumbo Studios	Sunday
+Tanner	Trunk Inn	Jumbo Studios	Friday
+Tanner	Trunk Inn	Jumbo Kingdom	Saturday
+Tanner	Trunk Inn	Jumbo Kingdom	Sunday
+Knox	Mouse Resort	Jumbo Kingdom	Friday
+Knox	Mouse Resort	Jumbo Golf Course	Saturday
+Knox	Mouse Resort	Animal Planet Zoo	Sunday
+Pacheco	Trunk Inn	Jumbo Studios	Friday
+Pacheco	Trunk Inn	World's Fair	Saturday
+Pacheco	Trunk Inn	Jumbo Kingdom	Sunday
+Stephenson	Trunk Inn	Jumbo Kingdom	Friday
+Stephenson	Trunk Inn	Animal Planet Zoo	Saturday
+Stephenson	Trunk Inn	Trunk Water Park	Sunday
+Glass	Pachyderm Suites	World's Fair	Friday
+Glass	Pachyderm Suites	Jumbo Studios	Saturday
+Glass	Pachyderm Suites	Jumbo Kingdom	Sunday
+Rojas	Mouse Resort	Animal Planet Zoo	Friday
+Rojas	Mouse Resort	World's Fair	Saturday
+Rojas	Mouse Resort	Jumbo Golf Course	Sunday
+Serrano	Trunk Inn	Animal Planet Zoo	Friday
+Serrano	Trunk Inn	Jumbo Kingdom	Saturday
+Serrano	Trunk Inn	Jumbo Studios	Sunday
+Marks	Loxodon Lodge	Jumbo Studios	Friday
+Marks	Loxodon Lodge	World's Fair	Saturday
+Marks	Loxodon Lodge	Trunk Water Park	Sunday
+Hickman	Tusk Hotel	Jumbo Kingdom	Friday
+Hickman	Tusk Hotel	Jumbo Kingdom	Saturday
+Hickman	Tusk Hotel	Jumbo Studios	Sunday
+English	Pachyderm Suites	Jumbo Studios	Friday
+English	Pachyderm Suites	Animal Planet Zoo	Saturday
+English	Pachyderm Suites	Jumbo Kingdom	Sunday
+Sweeney	Mouse Resort	Jumbo Golf Course	Friday
+Sweeney	Mouse Resort	Animal Planet Zoo	Saturday
+Sweeney	Mouse Resort	World's Fair	Sunday
+Strong	Pachyderm Suites	Animal Planet Zoo	Friday
+Strong	Pachyderm Suites	Jumbo Kingdom	Saturday
+Strong	Pachyderm Suites	World's Fair	Sunday
+Prince	Pachyderm Suites	World's Fair	Friday
+Prince	Pachyderm Suites	Jumbo Kingdom	Saturday
+Prince	Pachyderm Suites	Jumbo Studios	Sunday
+Mcclure	Loxodon Lodge	Jumbo Studios	Friday
+Mcclure	Loxodon Lodge	World's Fair	Saturday
+Mcclure	Loxodon Lodge	World's Fair	Sunday
+Conway	Tusk Hotel	Jumbo Kingdom	Friday
+Conway	Tusk Hotel	World's Fair	Saturday
+Conway	Tusk Hotel	Jumbo Studios	Sunday
+Walter	Pachyderm Suites	World's Fair	Friday
+Walter	Pachyderm Suites	Animal Planet Zoo	Saturday
+Walter	Pachyderm Suites	Jumbo Golf Course	Sunday
+Roth	Elephant Lodge	Jumbo Studios	Friday
+Roth	Elephant Lodge	Trunk Water Park	Saturday
+Roth	Elephant Lodge	Jumbo Kingdom	Sunday
+Maynard	Oliphant Camp	World's Fair	Friday
+Maynard	Oliphant Camp	Jumbo Studios	Saturday
+Maynard	Oliphant Camp	Jumbo Kingdom	Sunday
+Farrell	Trunk Inn	Jumbo Kingdom	Friday
+Farrell	Trunk Inn	World's Fair	Saturday
+Farrell	Trunk Inn	Animal Planet Zoo	Sunday
+Lowery	Pachyderm Suites	Jumbo Studios	Friday
+Lowery	Pachyderm Suites	World's Fair	Saturday
+Lowery	Pachyderm Suites	Animal Planet Zoo	Sunday
+Hurst	Trunk Inn	Jumbo Studios	Friday
+Hurst	Trunk Inn	Jumbo Kingdom	Saturday
+Hurst	Trunk Inn	World's Fair	Sunday
+Nixon	Pachyderm Suites	World's Fair	Friday
+Nixon	Pachyderm Suites	Jumbo Golf Course	Saturday
+Nixon	Pachyderm Suites	Jumbo Kingdom	Sunday
+Weiss	Oliphant Camp	Jumbo Kingdom	Friday
+Weiss	Oliphant Camp	Jumbo Studios	Saturday
+Weiss	Oliphant Camp	World's Fair	Sunday
+Trujillo	Pachyderm Suites	Jumbo Kingdom	Friday
+Trujillo	Pachyderm Suites	Jumbo Kingdom	Saturday
+Trujillo	Pachyderm Suites	World's Fair	Sunday
+Ellison	Oliphant Camp	Jumbo Kingdom	Friday
+Ellison	Oliphant Camp	World's Fair	Saturday
+Ellison	Oliphant Camp	World's Fair	Sunday
+Sloan	Oliphant Camp	World's Fair	Friday
+Sloan	Oliphant Camp	Animal Planet Zoo	Saturday
+Sloan	Oliphant Camp	Jumbo Kingdom	Sunday
+Juarez	Mouse Resort	Jumbo Studios	Friday
+Juarez	Mouse Resort	Jumbo Golf Course	Saturday
+Juarez	Mouse Resort	Jumbo Kingdom	Sunday
+Winters	Loxodon Lodge	Jumbo Golf Course	Friday
+Winters	Loxodon Lodge	Jumbo Kingdom	Saturday
+Winters	Loxodon Lodge	Animal Planet Zoo	Sunday
+Mclean	Trunk Inn	Trunk Water Park	Friday
+Mclean	Trunk Inn	Animal Planet Zoo	Saturday
+Mclean	Trunk Inn	Jumbo Kingdom	Sunday
+Randolph	Tusk Hotel	Trunk Water Park	Friday
+Randolph	Tusk Hotel	Jumbo Kingdom	Saturday
+Randolph	Tusk Hotel	Jumbo Kingdom	Sunday
+Leon	Mouse Resort	Jumbo Kingdom	Friday
+Leon	Mouse Resort	World's Fair	Saturday
+Leon	Mouse Resort	Animal Planet Zoo	Sunday
+Boyer	Loxodon Lodge	World's Fair	Friday
+Boyer	Loxodon Lodge	Animal Planet Zoo	Saturday
+Boyer	Loxodon Lodge	Jumbo Kingdom	Sunday
+Villarreal	Elephant Lodge	Jumbo Studios	Friday
+Villarreal	Elephant Lodge	Jumbo Studios	Saturday
+Villarreal	Elephant Lodge	Trunk Water Park	Sunday
+Mccall	Loxodon Lodge	Trunk Water Park	Friday
+Mccall	Loxodon Lodge	Trunk Water Park	Saturday
+Mccall	Loxodon Lodge	Animal Planet Zoo	Sunday
+Gentry	Elephant Lodge	Animal Planet Zoo	Friday
+Gentry	Elephant Lodge	Animal Planet Zoo	Saturday
+Gentry	Elephant Lodge	World's Fair	Sunday
+Carrillo	Loxodon Lodge	Jumbo Studios	Friday
+Carrillo	Loxodon Lodge	Animal Planet Zoo	Saturday
+Carrillo	Loxodon Lodge	Animal Planet Zoo	Sunday
+Kent	Mouse Resort	Jumbo Studios	Friday
+Kent	Mouse Resort	Jumbo Studios	Saturday
+Kent	Mouse Resort	Jumbo Kingdom	Sunday
+Ayers	Trunk Inn	Jumbo Kingdom	Friday
+Ayers	Trunk Inn	Jumbo Studios	Saturday
+Ayers	Trunk Inn	Trunk Water Park	Sunday
+Lara	Pachyderm Suites	Jumbo Studios	Friday
+Lara	Pachyderm Suites	World's Fair	Saturday
+Lara	Pachyderm Suites	Jumbo Kingdom	Sunday
+Shannon	Trunk Inn	Jumbo Kingdom	Friday
+Shannon	Trunk Inn	Jumbo Kingdom	Saturday
+Shannon	Trunk Inn	Animal Planet Zoo	Sunday
+Sexton	Loxodon Lodge	Jumbo Kingdom	Friday
+Sexton	Loxodon Lodge	Jumbo Kingdom	Saturday
+Sexton	Loxodon Lodge	Jumbo Kingdom	Sunday
+Pace	Trunk Inn	Jumbo Kingdom	Friday
+Pace	Trunk Inn	Animal Planet Zoo	Saturday
+Pace	Trunk Inn	World's Fair	Sunday
+Hull	Mammoth Motel	World's Fair	Friday
+Hull	Mammoth Motel	World's Fair	Saturday
+Hull	Mammoth Motel	Trunk Water Park	Sunday
+Leblanc	Mouse Resort	Jumbo Golf Course	Friday
+Leblanc	Mouse Resort	Jumbo Studios	Saturday
+Leblanc	Mouse Resort	Jumbo Studios	Sunday
+Browning	Mammoth Motel	World's Fair	Friday
+Browning	Mammoth Motel	Trunk Water Park	Saturday
+Browning	Mammoth Motel	Animal Planet Zoo	Sunday
+Velasquez	Tusk Hotel	Jumbo Kingdom	Friday
+Velasquez	Tusk Hotel	Jumbo Kingdom	Saturday
+Velasquez	Tusk Hotel	Jumbo Kingdom	Sunday
+Leach	Elephant Lodge	Jumbo Kingdom	Friday
+Leach	Elephant Lodge	Jumbo Kingdom	Saturday
+Leach	Elephant Lodge	Trunk Water Park	Sunday
+Chang	Tusk Hotel	Jumbo Kingdom	Friday
+Chang	Tusk Hotel	Jumbo Studios	Saturday
+Chang	Tusk Hotel	Animal Planet Zoo	Sunday
+House	Oliphant Camp	World's Fair	Friday
+House	Oliphant Camp	Jumbo Golf Course	Saturday
+House	Oliphant Camp	Jumbo Golf Course	Sunday
+Sellers	Tusk Hotel	World's Fair	Friday
+Sellers	Tusk Hotel	Jumbo Kingdom	Saturday
+Sellers	Tusk Hotel	Animal Planet Zoo	Sunday
+Herring	Tusk Hotel	Jumbo Studios	Friday
+Herring	Tusk Hotel	Jumbo Kingdom	Saturday
+Herring	Tusk Hotel	World's Fair	Sunday
+Noble	Tusk Hotel	Jumbo Kingdom	Friday
+Noble	Tusk Hotel	Trunk Water Park	Saturday
+Noble	Tusk Hotel	Animal Planet Zoo	Sunday
+Foley	Trunk Inn	Trunk Water Park	Friday
+Foley	Trunk Inn	Trunk Water Park	Saturday
+Foley	Trunk Inn	Trunk Water Park	Sunday
+Bartlett	Trunk Inn	Jumbo Studios	Friday
+Bartlett	Trunk Inn	Jumbo Kingdom	Saturday
+Bartlett	Trunk Inn	Animal Planet Zoo	Sunday
+Mercado	Loxodon Lodge	World's Fair	Friday
+Mercado	Loxodon Lodge	World's Fair	Saturday
+Mercado	Loxodon Lodge	Trunk Water Park	Sunday
+Landry	Loxodon Lodge	Jumbo Studios	Friday
+Landry	Loxodon Lodge	Jumbo Kingdom	Saturday
+Landry	Loxodon Lodge	Jumbo Kingdom	Sunday
+Durham	Pachyderm Suites	Jumbo Kingdom	Friday
+Durham	Pachyderm Suites	Jumbo Kingdom	Saturday
+Durham	Pachyderm Suites	Jumbo Studios	Sunday
+Walls	Elephant Lodge	Animal Planet Zoo	Friday
+Walls	Elephant Lodge	Jumbo Kingdom	Saturday
+Walls	Elephant Lodge	Trunk Water Park	Sunday
+Barr	Loxodon Lodge	Trunk Water Park	Friday
+Barr	Loxodon Lodge	Jumbo Kingdom	Saturday
+Barr	Loxodon Lodge	Jumbo Studios	Sunday
+Mckee	Mouse Resort	Jumbo Kingdom	Friday
+Mckee	Mouse Resort	Jumbo Golf Course	Saturday
+Mckee	Mouse Resort	Trunk Water Park	Sunday
+Bauer	Trunk Inn	Trunk Water Park	Friday
+Bauer	Trunk Inn	Trunk Water Park	Saturday
+Bauer	Trunk Inn	Trunk Water Park	Sunday
+Rivers	Mammoth Motel	Jumbo Studios	Friday
+Rivers	Mammoth Motel	Trunk Water Park	Saturday
+Rivers	Mammoth Motel	Jumbo Kingdom	Sunday
+Everett	Trunk Inn	Jumbo Kingdom	Friday
+Everett	Trunk Inn	Jumbo Studios	Saturday
+Everett	Trunk Inn	Jumbo Studios	Sunday
+Bradshaw	Pachyderm Suites	Animal Planet Zoo	Friday
+Bradshaw	Pachyderm Suites	Animal Planet Zoo	Saturday
+Bradshaw	Pachyderm Suites	Animal Planet Zoo	Sunday
+Pugh	Oliphant Camp	Jumbo Kingdom	Friday
+Pugh	Oliphant Camp	Jumbo Kingdom	Saturday
+Pugh	Oliphant Camp	Animal Planet Zoo	Sunday
+Velez	Mouse Resort	Jumbo Golf Course	Friday
+Velez	Mouse Resort	Jumbo Golf Course	Saturday
+Velez	Mouse Resort	Jumbo Studios	Sunday
+Rush	Elephant Lodge	Trunk Water Park	Friday
+Rush	Elephant Lodge	Jumbo Studios	Saturday
+Rush	Elephant Lodge	Animal Planet Zoo	Sunday
+Estes	Elephant Lodge	Animal Planet Zoo	Friday
+Estes	Elephant Lodge	Jumbo Kingdom	Saturday
+Estes	Elephant Lodge	Jumbo Studios	Sunday
+Dodson	Loxodon Lodge	World's Fair	Friday
+Dodson	Loxodon Lodge	Jumbo Studios	Saturday
+Dodson	Loxodon Lodge	Animal Planet Zoo	Sunday
+Morse	Mammoth Motel	Jumbo Studios	Friday
+Morse	Mammoth Motel	World's Fair	Saturday
+Morse	Mammoth Motel	World's Fair	Sunday
+Sheppard	Oliphant Camp	Animal Planet Zoo	Friday
+Sheppard	Oliphant Camp	Jumbo Studios	Saturday
+Sheppard	Oliphant Camp	Jumbo Kingdom	Sunday
+Weeks	Loxodon Lodge	World's Fair	Friday
+Weeks	Loxodon Lodge	Jumbo Studios	Saturday
+Weeks	Loxodon Lodge	Trunk Water Park	Sunday
+Camacho	Trunk Inn	Jumbo Kingdom	Friday
+Camacho	Trunk Inn	Jumbo Studios	Saturday
+Camacho	Trunk Inn	Jumbo Golf Course	Sunday
+Bean	Oliphant Camp	Jumbo Golf Course	Friday
+Bean	Oliphant Camp	Jumbo Kingdom	Saturday
+Bean	Oliphant Camp	Animal Planet Zoo	Sunday
+Barron	Mammoth Motel	Jumbo Studios	Friday
+Barron	Mammoth Motel	Trunk Water Park	Saturday
+Barron	Mammoth Motel	World's Fair	Sunday
+Livingston	Pachyderm Suites	World's Fair	Friday
+Livingston	Pachyderm Suites	World's Fair	Saturday
+Livingston	Pachyderm Suites	Jumbo Studios	Sunday
+Middleton	Mammoth Motel	World's Fair	Friday
+Middleton	Mammoth Motel	Jumbo Studios	Saturday
+Middleton	Mammoth Motel	Animal Planet Zoo	Sunday
+Spears	Oliphant Camp	Jumbo Kingdom	Friday
+Spears	Oliphant Camp	Jumbo Golf Course	Saturday
+Spears	Oliphant Camp	World's Fair	Sunday
+Branch	Loxodon Lodge	World's Fair	Friday
+Branch	Loxodon Lodge	Jumbo Kingdom	Saturday
+Branch	Loxodon Lodge	Jumbo Studios	Sunday
+Blevins	Mammoth Motel	Jumbo Studios	Friday
+Blevins	Mammoth Motel	Jumbo Studios	Saturday
+Blevins	Mammoth Motel	Jumbo Studios	Sunday
+Chen	Loxodon Lodge	Jumbo Studios	Friday
+Chen	Loxodon Lodge	Jumbo Kingdom	Saturday
+Chen	Loxodon Lodge	Trunk Water Park	Sunday
+Kerr	Pachyderm Suites	Animal Planet Zoo	Friday
+Kerr	Pachyderm Suites	Jumbo Studios	Saturday
+Kerr	Pachyderm Suites	Jumbo Kingdom	Sunday
+Mcconnell	Oliphant Camp	World's Fair	Friday
+Mcconnell	Oliphant Camp	Jumbo Studios	Saturday
+Mcconnell	Oliphant Camp	Jumbo Kingdom	Sunday
+Hatfield	Mouse Resort	Jumbo Kingdom	Friday
+Hatfield	Mouse Resort	Jumbo Studios	Saturday
+Hatfield	Mouse Resort	World's Fair	Sunday
+Harding	Tusk Hotel	Jumbo Kingdom	Friday
+Harding	Tusk Hotel	Jumbo Studios	Saturday
+Harding	Tusk Hotel	Animal Planet Zoo	Sunday
+Ashley	Trunk Inn	Jumbo Kingdom	Friday
+Ashley	Trunk Inn	Jumbo Studios	Saturday
+Ashley	Trunk Inn	Animal Planet Zoo	Sunday
+Solis	Mouse Resort	Trunk Water Park	Friday
+Solis	Mouse Resort	Jumbo Studios	Saturday
+Solis	Mouse Resort	Jumbo Studios	Sunday
+Herman	Mammoth Motel	World's Fair	Friday
+Herman	Mammoth Motel	Jumbo Studios	Saturday
+Herman	Mammoth Motel	Animal Planet Zoo	Sunday
+Frost	Oliphant Camp	Jumbo Kingdom	Friday
+Frost	Oliphant Camp	World's Fair	Saturday
+Frost	Oliphant Camp	World's Fair	Sunday
+Giles	Pachyderm Suites	World's Fair	Friday
+Giles	Pachyderm Suites	Jumbo Studios	Saturday
+Giles	Pachyderm Suites	Jumbo Kingdom	Sunday
+Blackburn	Loxodon Lodge	Jumbo Studios	Friday
+Blackburn	Loxodon Lodge	World's Fair	Saturday
+Blackburn	Loxodon Lodge	Jumbo Kingdom	Sunday
+William	Trunk Inn	Jumbo Kingdom	Friday
+William	Trunk Inn	World's Fair	Saturday
+William	Trunk Inn	World's Fair	Sunday
+Pennington	Loxodon Lodge	Trunk Water Park	Friday
+Pennington	Loxodon Lodge	Jumbo Studios	Saturday
+Pennington	Loxodon Lodge	World's Fair	Sunday
+Woodward	Mammoth Motel	Animal Planet Zoo	Friday
+Woodward	Mammoth Motel	Jumbo Studios	Saturday
+Woodward	Mammoth Motel	Jumbo Kingdom	Sunday
+Finley	Pachyderm Suites	World's Fair	Friday
+Finley	Pachyderm Suites	Jumbo Kingdom	Saturday
+Finley	Pachyderm Suites	Animal Planet Zoo	Sunday
+Mcintosh	Pachyderm Suites	World's Fair	Friday
+Mcintosh	Pachyderm Suites	Jumbo Studios	Saturday
+Mcintosh	Pachyderm Suites	Jumbo Kingdom	Sunday
+Koch	Trunk Inn	Jumbo Kingdom	Friday
+Koch	Trunk Inn	Jumbo Kingdom	Saturday
+Koch	Trunk Inn	Trunk Water Park	Sunday
+Best	Pachyderm Suites	World's Fair	Friday
+Best	Pachyderm Suites	Jumbo Studios	Saturday
+Best	Pachyderm Suites	Animal Planet Zoo	Sunday
+Solomon	Mouse Resort	World's Fair	Friday
+Solomon	Mouse Resort	Jumbo Studios	Saturday
+Solomon	Mouse Resort	Jumbo Kingdom	Sunday
+Mccullough	Mouse Resort	World's Fair	Friday
+Mccullough	Mouse Resort	Trunk Water Park	Saturday
+Mccullough	Mouse Resort	Jumbo Golf Course	Sunday
+Dudley	Mammoth Motel	Jumbo Studios	Friday
+Dudley	Mammoth Motel	Jumbo Kingdom	Saturday
+Dudley	Mammoth Motel	Trunk Water Park	Sunday
+Nolan	Tusk Hotel	Jumbo Kingdom	Friday
+Nolan	Tusk Hotel	Jumbo Studios	Saturday
+Nolan	Tusk Hotel	World's Fair	Sunday
+Blanchard	Trunk Inn	Jumbo Kingdom	Friday
+Blanchard	Trunk Inn	Animal Planet Zoo	Saturday
+Blanchard	Trunk Inn	Jumbo Studios	Sunday
+Rivas	Loxodon Lodge	Jumbo Studios	Friday
+Rivas	Loxodon Lodge	World's Fair	Saturday
+Rivas	Loxodon Lodge	World's Fair	Sunday
+Brennan	Elephant Lodge	Trunk Water Park	Friday
+Brennan	Elephant Lodge	World's Fair	Saturday
+Brennan	Elephant Lodge	Jumbo Kingdom	Sunday
+Mejia	Mammoth Motel	World's Fair	Friday
+Mejia	Mammoth Motel	Jumbo Kingdom	Saturday
+Mejia	Mammoth Motel	Trunk Water Park	Sunday
+Kane	Pachyderm Suites	Animal Planet Zoo	Friday
+Kane	Pachyderm Suites	World's Fair	Saturday
+Kane	Pachyderm Suites	Jumbo Golf Course	Sunday
+Benton	Loxodon Lodge	Jumbo Studios	Friday
+Benton	Loxodon Lodge	World's Fair	Saturday
+Benton	Loxodon Lodge	Jumbo Kingdom	Sunday
+Joyce	Elephant Lodge	Jumbo Studios	Friday
+Joyce	Elephant Lodge	Animal Planet Zoo	Saturday
+Joyce	Elephant Lodge	World's Fair	Sunday
+Buckley	Tusk Hotel	Jumbo Kingdom	Friday
+Buckley	Tusk Hotel	Jumbo Studios	Saturday
+Buckley	Tusk Hotel	Trunk Water Park	Sunday
+Haley	Tusk Hotel	Jumbo Kingdom	Friday
+Haley	Tusk Hotel	Animal Planet Zoo	Saturday
+Haley	Tusk Hotel	Jumbo Studios	Sunday
+Valentine	Loxodon Lodge	World's Fair	Friday
+Valentine	Loxodon Lodge	World's Fair	Saturday
+Valentine	Loxodon Lodge	World's Fair	Sunday
+Maddox	Loxodon Lodge	Jumbo Studios	Friday
+Maddox	Loxodon Lodge	Trunk Water Park	Saturday
+Maddox	Loxodon Lodge	World's Fair	Sunday
+Russo	Trunk Inn	World's Fair	Friday
+Russo	Trunk Inn	Jumbo Kingdom	Saturday
+Russo	Trunk Inn	Jumbo Studios	Sunday
+Mcknight	Mouse Resort	World's Fair	Friday
+Mcknight	Mouse Resort	World's Fair	Saturday
+Mcknight	Mouse Resort	Jumbo Golf Course	Sunday
+Buck	Tusk Hotel	Jumbo Kingdom	Friday
+Buck	Tusk Hotel	Jumbo Kingdom	Saturday
+Buck	Tusk Hotel	World's Fair	Sunday
+Moon	Elephant Lodge	Trunk Water Park	Friday
+Moon	Elephant Lodge	World's Fair	Saturday
+Moon	Elephant Lodge	Animal Planet Zoo	Sunday
+Mcmillan	Mouse Resort	Jumbo Kingdom	Friday
+Mcmillan	Mouse Resort	Trunk Water Park	Saturday
+Mcmillan	Mouse Resort	Trunk Water Park	Sunday
+Crosby	Mammoth Motel	World's Fair	Friday
+Crosby	Mammoth Motel	Jumbo Golf Course	Saturday
+Crosby	Mammoth Motel	Jumbo Studios	Sunday
+Berg	Tusk Hotel	Jumbo Kingdom	Friday
+Berg	Tusk Hotel	Trunk Water Park	Saturday
+Berg	Tusk Hotel	Trunk Water Park	Sunday
+Dotson	Loxodon Lodge	Jumbo Studios	Friday
+Dotson	Loxodon Lodge	Jumbo Kingdom	Saturday
+Dotson	Loxodon Lodge	Trunk Water Park	Sunday
+Mays	Mammoth Motel	Jumbo Studios	Friday
+Mays	Mammoth Motel	Jumbo Kingdom	Saturday
+Mays	Mammoth Motel	World's Fair	Sunday
+Roach	Loxodon Lodge	Jumbo Studios	Friday
+Roach	Loxodon Lodge	World's Fair	Saturday
+Roach	Loxodon Lodge	Trunk Water Park	Sunday
+Church	Mammoth Motel	Animal Planet Zoo	Friday
+Church	Mammoth Motel	Trunk Water Park	Saturday
+Church	Mammoth Motel	Jumbo Studios	Sunday
+Chan	Elephant Lodge	World's Fair	Friday
+Chan	Elephant Lodge	Trunk Water Park	Saturday
+Chan	Elephant Lodge	Jumbo Kingdom	Sunday
+Richmond	Loxodon Lodge	Animal Planet Zoo	Friday
+Richmond	Loxodon Lodge	World's Fair	Saturday
+Richmond	Loxodon Lodge	Trunk Water Park	Sunday
+Meadows	Mouse Resort	Jumbo Golf Course	Friday
+Meadows	Mouse Resort	World's Fair	Saturday
+Meadows	Mouse Resort	Jumbo Studios	Sunday
+Faulkner	Mammoth Motel	World's Fair	Friday
+Faulkner	Mammoth Motel	Trunk Water Park	Saturday
+Faulkner	Mammoth Motel	Jumbo Kingdom	Sunday
+Oneill	Tusk Hotel	Jumbo Kingdom	Friday
+Oneill	Tusk Hotel	Jumbo Studios	Saturday
+Oneill	Tusk Hotel	Animal Planet Zoo	Sunday
+Knapp	Tusk Hotel	Jumbo Kingdom	Friday
+Knapp	Tusk Hotel	Trunk Water Park	Saturday
+Knapp	Tusk Hotel	Jumbo Studios	Sunday
+Kline	Trunk Inn	World's Fair	Friday
+Kline	Trunk Inn	Jumbo Studios	Saturday
+Kline	Trunk Inn	Jumbo Studios	Sunday
+Barry	Tusk Hotel	Jumbo Kingdom	Friday
+Barry	Tusk Hotel	Jumbo Studios	Saturday
+Barry	Tusk Hotel	Animal Planet Zoo	Sunday
+Ochoa	Tusk Hotel	Trunk Water Park	Friday
+Ochoa	Tusk Hotel	Jumbo Kingdom	Saturday
+Ochoa	Tusk Hotel	Jumbo Kingdom	Sunday
+Jacobson	Oliphant Camp	Jumbo Studios	Friday
+Jacobson	Oliphant Camp	Jumbo Kingdom	Saturday
+Jacobson	Oliphant Camp	Animal Planet Zoo	Sunday
+Gay	Mammoth Motel	Jumbo Kingdom	Friday
+Gay	Mammoth Motel	World's Fair	Saturday
+Gay	Mammoth Motel	Jumbo Studios	Sunday
+Avery	Loxodon Lodge	Jumbo Studios	Friday
+Avery	Loxodon Lodge	World's Fair	Saturday
+Avery	Loxodon Lodge	Jumbo Kingdom	Sunday
+Hendricks	Trunk Inn	Jumbo Kingdom	Friday
+Hendricks	Trunk Inn	Animal Planet Zoo	Saturday
+Hendricks	Trunk Inn	Animal Planet Zoo	Sunday
+Horne	Pachyderm Suites	World's Fair	Friday
+Horne	Pachyderm Suites	Jumbo Studios	Saturday
+Horne	Pachyderm Suites	Trunk Water Park	Sunday
+Shepard	Trunk Inn	Jumbo Studios	Friday
+Shepard	Trunk Inn	Jumbo Kingdom	Saturday
+Shepard	Trunk Inn	Jumbo Kingdom	Sunday
+Hebert	Loxodon Lodge	Jumbo Studios	Friday
+Hebert	Loxodon Lodge	World's Fair	Saturday
+Hebert	Loxodon Lodge	Animal Planet Zoo	Sunday
+Cherry	Loxodon Lodge	World's Fair	Friday
+Cherry	Loxodon Lodge	World's Fair	Saturday
+Cherry	Loxodon Lodge	Jumbo Studios	Sunday
+Cardenas	Pachyderm Suites	Jumbo Kingdom	Friday
+Cardenas	Pachyderm Suites	Trunk Water Park	Saturday
+Cardenas	Pachyderm Suites	World's Fair	Sunday
+Mcintyre	Trunk Inn	Jumbo Kingdom	Friday
+Mcintyre	Trunk Inn	Animal Planet Zoo	Saturday
+Mcintyre	Trunk Inn	Jumbo Studios	Sunday
+Whitney	Loxodon Lodge	World's Fair	Friday
+Whitney	Loxodon Lodge	Trunk Water Park	Saturday
+Whitney	Loxodon Lodge	Trunk Water Park	Sunday
+Waller	Tusk Hotel	Jumbo Golf Course	Friday
+Waller	Tusk Hotel	Jumbo Kingdom	Saturday
+Waller	Tusk Hotel	Jumbo Studios	Sunday
+Holman	Loxodon Lodge	Jumbo Studios	Friday
+Holman	Loxodon Lodge	World's Fair	Saturday
+Holman	Loxodon Lodge	Jumbo Kingdom	Sunday
+Donaldson	Trunk Inn	Jumbo Kingdom	Friday
+Donaldson	Trunk Inn	Jumbo Golf Course	Saturday
+Donaldson	Trunk Inn	Jumbo Golf Course	Sunday
+Cantu	Loxodon Lodge	Jumbo Studios	Friday
+Cantu	Loxodon Lodge	Jumbo Studios	Saturday
+Cantu	Loxodon Lodge	Jumbo Kingdom	Sunday
+Terrell	Oliphant Camp	Jumbo Studios	Friday
+Terrell	Oliphant Camp	Jumbo Kingdom	Saturday
+Terrell	Oliphant Camp	World's Fair	Sunday
+Morin	Oliphant Camp	Jumbo Kingdom	Friday
+Morin	Oliphant Camp	Jumbo Kingdom	Saturday
+Morin	Oliphant Camp	Jumbo Kingdom	Sunday
+Gillespie	Tusk Hotel	Jumbo Kingdom	Friday
+Gillespie	Tusk Hotel	Trunk Water Park	Saturday
+Gillespie	Tusk Hotel	Jumbo Golf Course	Sunday
+Fuentes	Trunk Inn	Jumbo Kingdom	Friday
+Fuentes	Trunk Inn	Jumbo Kingdom	Saturday
+Fuentes	Trunk Inn	Trunk Water Park	Sunday
+Tillman	Mouse Resort	Jumbo Golf Course	Friday
+Tillman	Mouse Resort	Jumbo Golf Course	Saturday
+Tillman	Mouse Resort	World's Fair	Sunday
+Sanford	Trunk Inn	Animal Planet Zoo	Friday
+Sanford	Trunk Inn	Jumbo Kingdom	Saturday
+Sanford	Trunk Inn	World's Fair	Sunday
+Bentley	Pachyderm Suites	World's Fair	Friday
+Bentley	Pachyderm Suites	Jumbo Kingdom	Saturday
+Bentley	Pachyderm Suites	Jumbo Studios	Sunday
+Peck	Loxodon Lodge	Jumbo Golf Course	Friday
+Peck	Loxodon Lodge	Jumbo Studios	Saturday
+Peck	Loxodon Lodge	Jumbo Kingdom	Sunday
+Key	Oliphant Camp	Jumbo Golf Course	Friday
+Key	Oliphant Camp	World's Fair	Saturday
+Key	Oliphant Camp	World's Fair	Sunday
+Salas	Loxodon Lodge	Jumbo Studios	Friday
+Salas	Loxodon Lodge	World's Fair	Saturday
+Salas	Loxodon Lodge	World's Fair	Sunday
+Rollins	Elephant Lodge	Jumbo Kingdom	Friday
+Rollins	Elephant Lodge	Animal Planet Zoo	Saturday
+Rollins	Elephant Lodge	Animal Planet Zoo	Sunday
+Gamble	Pachyderm Suites	Jumbo Studios	Friday
+Gamble	Pachyderm Suites	Jumbo Studios	Saturday
+Gamble	Pachyderm Suites	Jumbo Kingdom	Sunday
+Dickson	Tusk Hotel	World's Fair	Friday
+Dickson	Tusk Hotel	Jumbo Studios	Saturday
+Dickson	Tusk Hotel	Jumbo Kingdom	Sunday
+Battle	Pachyderm Suites	Animal Planet Zoo	Friday
+Battle	Pachyderm Suites	World's Fair	Saturday
+Battle	Pachyderm Suites	Jumbo Kingdom	Sunday
+Santana	Trunk Inn	Jumbo Kingdom	Friday
+Santana	Trunk Inn	Jumbo Kingdom	Saturday
+Santana	Trunk Inn	Jumbo Studios	Sunday
+Cabrera	Loxodon Lodge	Jumbo Kingdom	Friday
+Cabrera	Loxodon Lodge	Jumbo Studios	Saturday
+Cabrera	Loxodon Lodge	World's Fair	Sunday
+Cervantes	Tusk Hotel	Jumbo Kingdom	Friday
+Cervantes	Tusk Hotel	Trunk Water Park	Saturday
+Cervantes	Tusk Hotel	World's Fair	Sunday
+Howe	Mammoth Motel	Jumbo Studios	Friday
+Howe	Mammoth Motel	Jumbo Kingdom	Saturday
+Howe	Mammoth Motel	World's Fair	Sunday
+Hinton	Loxodon Lodge	Jumbo Kingdom	Friday
+Hinton	Loxodon Lodge	World's Fair	Saturday
+Hinton	Loxodon Lodge	Jumbo Golf Course	Sunday
+Hurley	Mouse Resort	Jumbo Studios	Friday
+Hurley	Mouse Resort	Jumbo Studios	Saturday
+Hurley	Mouse Resort	Animal Planet Zoo	Sunday
+Spence	Trunk Inn	World's Fair	Friday
+Spence	Trunk Inn	Jumbo Kingdom	Saturday
+Spence	Trunk Inn	Animal Planet Zoo	Sunday
+Zamora	Trunk Inn	Animal Planet Zoo	Friday
+Zamora	Trunk Inn	Jumbo Kingdom	Saturday
+Zamora	Trunk Inn	Trunk Water Park	Sunday
+Yang	Mammoth Motel	Animal Planet Zoo	Friday
+Yang	Mammoth Motel	World's Fair	Saturday
+Yang	Mammoth Motel	Trunk Water Park	Sunday
+Mcneil	Oliphant Camp	Jumbo Golf Course	Friday
+Mcneil	Oliphant Camp	Jumbo Kingdom	Saturday
+Mcneil	Oliphant Camp	Jumbo Studios	Sunday
+Suarez	Loxodon Lodge	Jumbo Studios	Friday
+Suarez	Loxodon Lodge	Jumbo Kingdom	Saturday
+Suarez	Loxodon Lodge	World's Fair	Sunday
+Case	Mammoth Motel	Jumbo Kingdom	Friday
+Case	Mammoth Motel	Jumbo Kingdom	Saturday
+Case	Mammoth Motel	Trunk Water Park	Sunday
+Petty	Elephant Lodge	Animal Planet Zoo	Friday
+Petty	Elephant Lodge	Jumbo Golf Course	Saturday
+Petty	Elephant Lodge	Trunk Water Park	Sunday
+Gould	Elephant Lodge	World's Fair	Friday
+Gould	Elephant Lodge	Jumbo Kingdom	Saturday
+Gould	Elephant Lodge	Trunk Water Park	Sunday
+Mcfarland	Tusk Hotel	Jumbo Kingdom	Friday
+Mcfarland	Tusk Hotel	Jumbo Golf Course	Saturday
+Mcfarland	Tusk Hotel	Jumbo Studios	Sunday
+Sampson	Loxodon Lodge	Jumbo Studios	Friday
+Sampson	Loxodon Lodge	Trunk Water Park	Saturday
+Sampson	Loxodon Lodge	Jumbo Kingdom	Sunday
+Carver	Tusk Hotel	Jumbo Kingdom	Friday
+Carver	Tusk Hotel	Jumbo Kingdom	Saturday
+Carver	Tusk Hotel	Jumbo Kingdom	Sunday
+Bray	Loxodon Lodge	World's Fair	Friday
+Bray	Loxodon Lodge	Jumbo Kingdom	Saturday
+Bray	Loxodon Lodge	Animal Planet Zoo	Sunday
+Rosario	Oliphant Camp	Animal Planet Zoo	Friday
+Rosario	Oliphant Camp	Jumbo Golf Course	Saturday
+Rosario	Oliphant Camp	World's Fair	Sunday
+Macdonald	Trunk Inn	Jumbo Studios	Friday
+Macdonald	Trunk Inn	World's Fair	Saturday
+Macdonald	Trunk Inn	Jumbo Kingdom	Sunday
+Stout	Elephant Lodge	Jumbo Kingdom	Friday
+Stout	Elephant Lodge	Animal Planet Zoo	Saturday
+Stout	Elephant Lodge	World's Fair	Sunday
+Hester	Pachyderm Suites	World's Fair	Friday
+Hester	Pachyderm Suites	Trunk Water Park	Saturday
+Hester	Pachyderm Suites	Jumbo Studios	Sunday
+Melendez	Loxodon Lodge	World's Fair	Friday
+Melendez	Loxodon Lodge	Jumbo Studios	Saturday
+Melendez	Loxodon Lodge	Jumbo Kingdom	Sunday
+Dillon	Tusk Hotel	World's Fair	Friday
+Dillon	Tusk Hotel	Jumbo Kingdom	Saturday
+Dillon	Tusk Hotel	Jumbo Studios	Sunday
+Farley	Loxodon Lodge	Trunk Water Park	Friday
+Farley	Loxodon Lodge	Trunk Water Park	Saturday
+Farley	Loxodon Lodge	Jumbo Studios	Sunday
+Hopper	Mammoth Motel	Animal Planet Zoo	Friday
+Hopper	Mammoth Motel	World's Fair	Saturday
+Hopper	Mammoth Motel	Jumbo Studios	Sunday
+Galloway	Tusk Hotel	Jumbo Studios	Friday
+Galloway	Tusk Hotel	Animal Planet Zoo	Saturday
+Galloway	Tusk Hotel	World's Fair	Sunday
+Potts	Tusk Hotel	Jumbo Kingdom	Friday
+Potts	Tusk Hotel	Jumbo Kingdom	Saturday
+Potts	Tusk Hotel	Jumbo Studios	Sunday
+Bernard	Pachyderm Suites	World's Fair	Friday
+Bernard	Pachyderm Suites	Jumbo Kingdom	Saturday
+Bernard	Pachyderm Suites	Animal Planet Zoo	Sunday
+Joyner	Loxodon Lodge	Jumbo Studios	Friday
+Joyner	Loxodon Lodge	World's Fair	Saturday
+Joyner	Loxodon Lodge	World's Fair	Sunday
+Stein	Tusk Hotel	Animal Planet Zoo	Friday
+Stein	Tusk Hotel	Jumbo Kingdom	Saturday
+Stein	Tusk Hotel	Jumbo Studios	Sunday
+Aguirre	Trunk Inn	Jumbo Kingdom	Friday
+Aguirre	Trunk Inn	Animal Planet Zoo	Saturday
+Aguirre	Trunk Inn	Trunk Water Park	Sunday
+Osborn	Oliphant Camp	Jumbo Studios	Friday
+Osborn	Oliphant Camp	Jumbo Golf Course	Saturday
+Osborn	Oliphant Camp	Jumbo Golf Course	Sunday
+Mercer	Loxodon Lodge	Jumbo Studios	Friday
+Mercer	Loxodon Lodge	Jumbo Studios	Saturday
+Mercer	Loxodon Lodge	Animal Planet Zoo	Sunday
+Bender	Oliphant Camp	World's Fair	Friday
+Bender	Oliphant Camp	Jumbo Kingdom	Saturday
+Bender	Oliphant Camp	Jumbo Golf Course	Sunday
+Franco	Oliphant Camp	Jumbo Golf Course	Friday
+Franco	Oliphant Camp	Jumbo Kingdom	Saturday
+Franco	Oliphant Camp	World's Fair	Sunday
+Rowland	Pachyderm Suites	World's Fair	Friday
+Rowland	Pachyderm Suites	Jumbo Studios	Saturday
+Rowland	Pachyderm Suites	Jumbo Studios	Sunday
+Sykes	Tusk Hotel	World's Fair	Friday
+Sykes	Tusk Hotel	Trunk Water Park	Saturday
+Sykes	Tusk Hotel	Jumbo Kingdom	Sunday
+Benjamin	Loxodon Lodge	Jumbo Studios	Friday
+Benjamin	Loxodon Lodge	World's Fair	Saturday
+Benjamin	Loxodon Lodge	Jumbo Kingdom	Sunday
+Travis	Oliphant Camp	Jumbo Studios	Friday
+Travis	Oliphant Camp	World's Fair	Saturday
+Travis	Oliphant Camp	Jumbo Golf Course	Sunday
+Pickett	Pachyderm Suites	Jumbo Studios	Friday
+Pickett	Pachyderm Suites	Jumbo Kingdom	Saturday
+Pickett	Pachyderm Suites	Animal Planet Zoo	Sunday
+Crane	Elephant Lodge	Trunk Water Park	Friday
+Crane	Elephant Lodge	Jumbo Kingdom	Saturday
+Crane	Elephant Lodge	World's Fair	Sunday
+Sears	Trunk Inn	Jumbo Kingdom	Friday
+Sears	Trunk Inn	Jumbo Studios	Saturday
+Sears	Trunk Inn	Trunk Water Park	Sunday
+Mayo	Tusk Hotel	Jumbo Golf Course	Friday
+Mayo	Tusk Hotel	World's Fair	Saturday
+Mayo	Tusk Hotel	World's Fair	Sunday
+Dunlap	Pachyderm Suites	Animal Planet Zoo	Friday
+Dunlap	Pachyderm Suites	Jumbo Studios	Saturday
+Dunlap	Pachyderm Suites	Jumbo Studios	Sunday
+Hayden	Trunk Inn	Jumbo Kingdom	Friday
+Hayden	Trunk Inn	World's Fair	Saturday
+Hayden	Trunk Inn	Jumbo Golf Course	Sunday
+Wilder	Mouse Resort	Jumbo Studios	Friday
+Wilder	Mouse Resort	Jumbo Studios	Saturday
+Wilder	Mouse Resort	Trunk Water Park	Sunday
+Mckay	Pachyderm Suites	Animal Planet Zoo	Friday
+Mckay	Pachyderm Suites	World's Fair	Saturday
+Mckay	Pachyderm Suites	World's Fair	Sunday
+Coffey	Mammoth Motel	Jumbo Studios	Friday
+Coffey	Mammoth Motel	Jumbo Studios	Saturday
+Coffey	Mammoth Motel	Jumbo Kingdom	Sunday
+Mccarty	Tusk Hotel	World's Fair	Friday
+Mccarty	Tusk Hotel	Jumbo Kingdom	Saturday
+Mccarty	Tusk Hotel	Animal Planet Zoo	Sunday
+Ewing	Trunk Inn	Jumbo Kingdom	Friday
+Ewing	Trunk Inn	World's Fair	Saturday
+Ewing	Trunk Inn	Jumbo Golf Course	Sunday
+Cooley	Mouse Resort	World's Fair	Friday
+Cooley	Mouse Resort	Jumbo Golf Course	Saturday
+Cooley	Mouse Resort	Jumbo Studios	Sunday
+Vaughan	Mammoth Motel	Jumbo Studios	Friday
+Vaughan	Mammoth Motel	Jumbo Studios	Saturday
+Vaughan	Mammoth Motel	World's Fair	Sunday
+Bonner	Trunk Inn	Jumbo Golf Course	Friday
+Bonner	Trunk Inn	Jumbo Kingdom	Saturday
+Bonner	Trunk Inn	Jumbo Kingdom	Sunday
+Cotton	Mammoth Motel	Jumbo Studios	Friday
+Cotton	Mammoth Motel	Animal Planet Zoo	Saturday
+Cotton	Mammoth Motel	Animal Planet Zoo	Sunday
+Holder	Trunk Inn	Jumbo Kingdom	Friday
+Holder	Trunk Inn	Animal Planet Zoo	Saturday
+Holder	Trunk Inn	Jumbo Studios	Sunday
+Stark	Mammoth Motel	Trunk Water Park	Friday
+Stark	Mammoth Motel	Jumbo Kingdom	Saturday
+Stark	Mammoth Motel	Animal Planet Zoo	Sunday
+Ferrell	Mammoth Motel	Animal Planet Zoo	Friday
+Ferrell	Mammoth Motel	Trunk Water Park	Saturday
+Ferrell	Mammoth Motel	Trunk Water Park	Sunday
+Cantrell	Trunk Inn	Jumbo Kingdom	Friday
+Cantrell	Trunk Inn	Jumbo Studios	Saturday
+Cantrell	Trunk Inn	Animal Planet Zoo	Sunday
+Fulton	Loxodon Lodge	Jumbo Studios	Friday
+Fulton	Loxodon Lodge	Trunk Water Park	Saturday
+Fulton	Loxodon Lodge	Trunk Water Park	Sunday
+Lynn	Elephant Lodge	Trunk Water Park	Friday
+Lynn	Elephant Lodge	Jumbo Studios	Saturday
+Lynn	Elephant Lodge	Jumbo Studios	Sunday
+Lott	Pachyderm Suites	Jumbo Kingdom	Friday
+Lott	Pachyderm Suites	Jumbo Kingdom	Saturday
+Lott	Pachyderm Suites	World's Fair	Sunday
+Calderon	Trunk Inn	Jumbo Kingdom	Friday
+Calderon	Trunk Inn	Jumbo Kingdom	Saturday
+Calderon	Trunk Inn	Animal Planet Zoo	Sunday
+Rosa	Mammoth Motel	Jumbo Studios	Friday
+Rosa	Mammoth Motel	World's Fair	Saturday
+Rosa	Mammoth Motel	Jumbo Kingdom	Sunday
+Pollard	Mouse Resort	Jumbo Golf Course	Friday
+Pollard	Mouse Resort	Animal Planet Zoo	Saturday
+Pollard	Mouse Resort	World's Fair	Sunday
+Hooper	Pachyderm Suites	Jumbo Kingdom	Friday
+Hooper	Pachyderm Suites	World's Fair	Saturday
+Hooper	Pachyderm Suites	Animal Planet Zoo	Sunday
+Burch	Pachyderm Suites	World's Fair	Friday
+Burch	Pachyderm Suites	Jumbo Kingdom	Saturday
+Burch	Pachyderm Suites	Trunk Water Park	Sunday
+Mullen	Mammoth Motel	Jumbo Kingdom	Friday
+Mullen	Mammoth Motel	World's Fair	Saturday
+Mullen	Mammoth Motel	Animal Planet Zoo	Sunday
+Fry	Pachyderm Suites	Jumbo Kingdom	Friday
+Fry	Pachyderm Suites	Jumbo Studios	Saturday
+Fry	Pachyderm Suites	Animal Planet Zoo	Sunday
+Riddle	Mouse Resort	Jumbo Kingdom	Friday
+Riddle	Mouse Resort	Jumbo Studios	Saturday
+Riddle	Mouse Resort	Animal Planet Zoo	Sunday
+Levy	Trunk Inn	Jumbo Kingdom	Friday
+Levy	Trunk Inn	Jumbo Studios	Saturday
+Levy	Trunk Inn	Trunk Water Park	Sunday
+David	Tusk Hotel	Jumbo Kingdom	Friday
+David	Tusk Hotel	Jumbo Golf Course	Saturday
+David	Tusk Hotel	Jumbo Golf Course	Sunday
+Duke	Tusk Hotel	Jumbo Kingdom	Friday
+Duke	Tusk Hotel	Jumbo Studios	Saturday
+Duke	Tusk Hotel	World's Fair	Sunday
+Odonnell	Pachyderm Suites	Jumbo Kingdom	Friday
+Odonnell	Pachyderm Suites	World's Fair	Saturday
+Odonnell	Pachyderm Suites	Animal Planet Zoo	Sunday
+Guy	Mouse Resort	Jumbo Golf Course	Friday
+Guy	Mouse Resort	Jumbo Studios	Saturday
+Guy	Mouse Resort	Jumbo Kingdom	Sunday
+Michael	Loxodon Lodge	World's Fair	Friday
+Michael	Loxodon Lodge	Jumbo Kingdom	Saturday
+Michael	Loxodon Lodge	Jumbo Kingdom	Sunday
+Britt	Oliphant Camp	Jumbo Studios	Friday
+Britt	Oliphant Camp	Jumbo Kingdom	Saturday
+Britt	Oliphant Camp	Trunk Water Park	Sunday
+Frederick	Mammoth Motel	Jumbo Studios	Friday
+Frederick	Mammoth Motel	World's Fair	Saturday
+Frederick	Mammoth Motel	Jumbo Kingdom	Sunday
+Daugherty	Pachyderm Suites	World's Fair	Friday
+Daugherty	Pachyderm Suites	Jumbo Kingdom	Saturday
+Daugherty	Pachyderm Suites	Jumbo Studios	Sunday
+Berger	Tusk Hotel	Jumbo Studios	Friday
+Berger	Tusk Hotel	Jumbo Kingdom	Saturday
+Berger	Tusk Hotel	World's Fair	Sunday
+Dillard	Trunk Inn	Jumbo Kingdom	Friday
+Dillard	Trunk Inn	Animal Planet Zoo	Saturday
+Dillard	Trunk Inn	World's Fair	Sunday
+Alston	Tusk Hotel	Jumbo Kingdom	Friday
+Alston	Tusk Hotel	Trunk Water Park	Saturday
+Alston	Tusk Hotel	World's Fair	Sunday
+Jarvis	Mammoth Motel	Jumbo Studios	Friday
+Jarvis	Mammoth Motel	Jumbo Studios	Saturday
+Jarvis	Mammoth Motel	World's Fair	Sunday
+Frye	Pachyderm Suites	Jumbo Kingdom	Friday
+Frye	Pachyderm Suites	World's Fair	Saturday
+Frye	Pachyderm Suites	Jumbo Studios	Sunday
+Riggs	Mouse Resort	World's Fair	Friday
+Riggs	Mouse Resort	World's Fair	Saturday
+Riggs	Mouse Resort	Jumbo Golf Course	Sunday
+Chaney	Trunk Inn	Jumbo Kingdom	Friday
+Chaney	Trunk Inn	Jumbo Kingdom	Saturday
+Chaney	Trunk Inn	Jumbo Kingdom	Sunday
+Odom	Oliphant Camp	Jumbo Kingdom	Friday
+Odom	Oliphant Camp	Jumbo Golf Course	Saturday
+Odom	Oliphant Camp	World's Fair	Sunday
+Duffy	Tusk Hotel	Jumbo Kingdom	Friday
+Duffy	Tusk Hotel	Animal Planet Zoo	Saturday
+Duffy	Tusk Hotel	Animal Planet Zoo	Sunday
+Fitzpatrick	Trunk Inn	Jumbo Kingdom	Friday
+Fitzpatrick	Trunk Inn	Jumbo Studios	Saturday
+Fitzpatrick	Trunk Inn	Animal Planet Zoo	Sunday
+Valenzuela	Loxodon Lodge	Trunk Water Park	Friday
+Valenzuela	Loxodon Lodge	Jumbo Studios	Saturday
+Valenzuela	Loxodon Lodge	Jumbo Studios	Sunday
+Merrill	Tusk Hotel	Animal Planet Zoo	Friday
+Merrill	Tusk Hotel	Jumbo Kingdom	Saturday
+Merrill	Tusk Hotel	Jumbo Studios	Sunday
+Mayer	Loxodon Lodge	Jumbo Studios	Friday
+Mayer	Loxodon Lodge	Jumbo Studios	Saturday
+Mayer	Loxodon Lodge	World's Fair	Sunday
+Alford	Trunk Inn	World's Fair	Friday
+Alford	Trunk Inn	Animal Planet Zoo	Saturday
+Alford	Trunk Inn	Jumbo Kingdom	Sunday
+Mcpherson	Tusk Hotel	Jumbo Golf Course	Friday
+Mcpherson	Tusk Hotel	Jumbo Kingdom	Saturday
+Mcpherson	Tusk Hotel	Trunk Water Park	Sunday
+Acevedo	Tusk Hotel	Jumbo Kingdom	Friday
+Acevedo	Tusk Hotel	Animal Planet Zoo	Saturday
+Acevedo	Tusk Hotel	Jumbo Studios	Sunday
+Donovan	Pachyderm Suites	World's Fair	Friday
+Donovan	Pachyderm Suites	Jumbo Kingdom	Saturday
+Donovan	Pachyderm Suites	Jumbo Studios	Sunday
+Barrera	Loxodon Lodge	Jumbo Studios	Friday
+Barrera	Loxodon Lodge	Jumbo Kingdom	Saturday
+Barrera	Loxodon Lodge	Trunk Water Park	Sunday
+Albert	Pachyderm Suites	Jumbo Kingdom	Friday
+Albert	Pachyderm Suites	Jumbo Kingdom	Saturday
+Albert	Pachyderm Suites	World's Fair	Sunday
+Cote	Mammoth Motel	World's Fair	Friday
+Cote	Mammoth Motel	Jumbo Kingdom	Saturday
+Cote	Mammoth Motel	Jumbo Kingdom	Sunday
+Reilly	Trunk Inn	Jumbo Kingdom	Friday
+Reilly	Trunk Inn	Jumbo Studios	Saturday
+Reilly	Trunk Inn	Animal Planet Zoo	Sunday
+Compton	Trunk Inn	Jumbo Kingdom	Friday
+Compton	Trunk Inn	Trunk Water Park	Saturday
+Compton	Trunk Inn	Jumbo Studios	Sunday
+Raymond	Elephant Lodge	Trunk Water Park	Friday
+Raymond	Elephant Lodge	World's Fair	Saturday
+Raymond	Elephant Lodge	Jumbo Studios	Sunday
+Mooney	Tusk Hotel	Jumbo Kingdom	Friday
+Mooney	Tusk Hotel	World's Fair	Saturday
+Mooney	Tusk Hotel	World's Fair	Sunday
+Mcgowan	Mouse Resort	World's Fair	Friday
+Mcgowan	Mouse Resort	Jumbo Studios	Saturday
+Mcgowan	Mouse Resort	Animal Planet Zoo	Sunday
+Craft	Mammoth Motel	Jumbo Kingdom	Friday
+Craft	Mammoth Motel	World's Fair	Saturday
+Craft	Mammoth Motel	Jumbo Studios	Sunday
+Cleveland	Tusk Hotel	Jumbo Kingdom	Friday
+Cleveland	Tusk Hotel	World's Fair	Saturday
+Cleveland	Tusk Hotel	Jumbo Golf Course	Sunday
+Clemons	Tusk Hotel	Jumbo Kingdom	Friday
+Clemons	Tusk Hotel	Jumbo Golf Course	Saturday
+Clemons	Tusk Hotel	Jumbo Studios	Sunday
+Wynn	Pachyderm Suites	Animal Planet Zoo	Friday
+Wynn	Pachyderm Suites	Jumbo Kingdom	Saturday
+Wynn	Pachyderm Suites	World's Fair	Sunday
+Nielsen	Trunk Inn	Jumbo Kingdom	Friday
+Nielsen	Trunk Inn	World's Fair	Saturday
+Nielsen	Trunk Inn	Animal Planet Zoo	Sunday
+Baird	Oliphant Camp	Jumbo Studios	Friday
+Baird	Oliphant Camp	World's Fair	Saturday
+Baird	Oliphant Camp	Trunk Water Park	Sunday
+Stanton	Pachyderm Suites	Jumbo Studios	Friday
+Stanton	Pachyderm Suites	Animal Planet Zoo	Saturday
+Stanton	Pachyderm Suites	Jumbo Kingdom	Sunday
+Snider	Oliphant Camp	World's Fair	Friday
+Snider	Oliphant Camp	World's Fair	Saturday
+Snider	Oliphant Camp	Jumbo Studios	Sunday
+Rosales	Pachyderm Suites	Animal Planet Zoo	Friday
+Rosales	Pachyderm Suites	World's Fair	Saturday
+Rosales	Pachyderm Suites	Jumbo Kingdom	Sunday
+Bright	Mammoth Motel	Jumbo Kingdom	Friday
+Bright	Mammoth Motel	Trunk Water Park	Saturday
+Bright	Mammoth Motel	World's Fair	Sunday
+Witt	Pachyderm Suites	World's Fair	Friday
+Witt	Pachyderm Suites	Jumbo Kingdom	Saturday
+Witt	Pachyderm Suites	Animal Planet Zoo	Sunday
+Stuart	Loxodon Lodge	Jumbo Studios	Friday
+Stuart	Loxodon Lodge	Jumbo Studios	Saturday
+Stuart	Loxodon Lodge	Jumbo Kingdom	Sunday
+Hays	Loxodon Lodge	World's Fair	Friday
+Hays	Loxodon Lodge	Animal Planet Zoo	Saturday
+Hays	Loxodon Lodge	Jumbo Studios	Sunday
+Holden	Oliphant Camp	Trunk Water Park	Friday
+Holden	Oliphant Camp	Jumbo Kingdom	Saturday
+Holden	Oliphant Camp	World's Fair	Sunday
+Rutledge	Trunk Inn	Jumbo Kingdom	Friday
+Rutledge	Trunk Inn	World's Fair	Saturday
+Rutledge	Trunk Inn	Animal Planet Zoo	Sunday
+Kinney	Loxodon Lodge	Trunk Water Park	Friday
+Kinney	Loxodon Lodge	Jumbo Studios	Saturday
+Kinney	Loxodon Lodge	World's Fair	Sunday
+Clements	Tusk Hotel	Animal Planet Zoo	Friday
+Clements	Tusk Hotel	Jumbo Kingdom	Saturday
+Clements	Tusk Hotel	Jumbo Kingdom	Sunday
+Castaneda	Loxodon Lodge	Jumbo Studios	Friday
+Castaneda	Loxodon Lodge	Trunk Water Park	Saturday
+Castaneda	Loxodon Lodge	World's Fair	Sunday
+Slater	Trunk Inn	Jumbo Kingdom	Friday
+Slater	Trunk Inn	Trunk Water Park	Saturday
+Slater	Trunk Inn	Animal Planet Zoo	Sunday
+Hahn	Loxodon Lodge	Jumbo Studios	Friday
+Hahn	Loxodon Lodge	Jumbo Kingdom	Saturday
+Hahn	Loxodon Lodge	Trunk Water Park	Sunday
+Emerson	Loxodon Lodge	Jumbo Kingdom	Friday
+Emerson	Loxodon Lodge	Animal Planet Zoo	Saturday
+Emerson	Loxodon Lodge	World's Fair	Sunday
+Conrad	Elephant Lodge	Trunk Water Park	Friday
+Conrad	Elephant Lodge	Jumbo Kingdom	Saturday
+Conrad	Elephant Lodge	Jumbo Studios	Sunday
+Burks	Loxodon Lodge	World's Fair	Friday
+Burks	Loxodon Lodge	Jumbo Studios	Saturday
+Burks	Loxodon Lodge	Jumbo Kingdom	Sunday
+Delaney	Mouse Resort	Jumbo Studios	Friday
+Delaney	Mouse Resort	Trunk Water Park	Saturday
+Delaney	Mouse Resort	Trunk Water Park	Sunday
+Pate	Mouse Resort	Jumbo Kingdom	Friday
+Pate	Mouse Resort	Jumbo Studios	Saturday
+Pate	Mouse Resort	Jumbo Studios	Sunday
+Lancaster	Trunk Inn	Jumbo Studios	Friday
+Lancaster	Trunk Inn	Jumbo Kingdom	Saturday
+Lancaster	Trunk Inn	Animal Planet Zoo	Sunday
+Sweet	Loxodon Lodge	World's Fair	Friday
+Sweet	Loxodon Lodge	World's Fair	Saturday
+Sweet	Loxodon Lodge	Trunk Water Park	Sunday
+Justice	Mammoth Motel	Jumbo Studios	Friday
+Justice	Mammoth Motel	Jumbo Studios	Saturday
+Justice	Mammoth Motel	Jumbo Studios	Sunday
+Tyson	Mammoth Motel	Animal Planet Zoo	Friday
+Tyson	Mammoth Motel	Jumbo Studios	Saturday
+Tyson	Mammoth Motel	Jumbo Kingdom	Sunday
+Sharpe	Tusk Hotel	Jumbo Kingdom	Friday
+Sharpe	Tusk Hotel	World's Fair	Saturday
+Sharpe	Tusk Hotel	World's Fair	Sunday
+Whitfield	Tusk Hotel	Jumbo Studios	Friday
+Whitfield	Tusk Hotel	Jumbo Kingdom	Saturday
+Whitfield	Tusk Hotel	Jumbo Kingdom	Sunday
+Talley	Trunk Inn	Jumbo Kingdom	Friday
+Talley	Trunk Inn	Jumbo Kingdom	Saturday
+Talley	Trunk Inn	Jumbo Kingdom	Sunday
+Macias	Mammoth Motel	Jumbo Studios	Friday
+Macias	Mammoth Motel	World's Fair	Saturday
+Macias	Mammoth Motel	Trunk Water Park	Sunday
+Irwin	Pachyderm Suites	Jumbo Kingdom	Friday
+Irwin	Pachyderm Suites	Jumbo Kingdom	Saturday
+Irwin	Pachyderm Suites	Jumbo Kingdom	Sunday
+Burris	Loxodon Lodge	Trunk Water Park	Friday
+Burris	Loxodon Lodge	Trunk Water Park	Saturday
+Burris	Loxodon Lodge	Animal Planet Zoo	Sunday
+Ratliff	Mammoth Motel	Jumbo Studios	Friday
+Ratliff	Mammoth Motel	Jumbo Kingdom	Saturday
+Ratliff	Mammoth Motel	World's Fair	Sunday
+Mccray	Elephant Lodge	Trunk Water Park	Friday
+Mccray	Elephant Lodge	Trunk Water Park	Saturday
+Mccray	Elephant Lodge	Trunk Water Park	Sunday
+Madden	Pachyderm Suites	World's Fair	Friday
+Madden	Pachyderm Suites	World's Fair	Saturday
+Madden	Pachyderm Suites	World's Fair	Sunday
+Kaufman	Trunk Inn	Jumbo Kingdom	Friday
+Kaufman	Trunk Inn	Jumbo Kingdom	Saturday
+Kaufman	Trunk Inn	Trunk Water Park	Sunday
+Beach	Loxodon Lodge	World's Fair	Friday
+Beach	Loxodon Lodge	World's Fair	Saturday
+Beach	Loxodon Lodge	Jumbo Kingdom	Sunday
+Goff	Oliphant Camp	World's Fair	Friday
+Goff	Oliphant Camp	World's Fair	Saturday
+Goff	Oliphant Camp	Jumbo Golf Course	Sunday
+Cash	Trunk Inn	World's Fair	Friday
+Cash	Trunk Inn	World's Fair	Saturday
+Cash	Trunk Inn	Jumbo Kingdom	Sunday
+Bolton	Mammoth Motel	World's Fair	Friday
+Bolton	Mammoth Motel	Jumbo Golf Course	Saturday
+Bolton	Mammoth Motel	Jumbo Studios	Sunday
+Mcfadden	Tusk Hotel	Jumbo Kingdom	Friday
+Mcfadden	Tusk Hotel	Jumbo Golf Course	Saturday
+Mcfadden	Tusk Hotel	Jumbo Golf Course	Sunday
+Levine	Tusk Hotel	World's Fair	Friday
+Levine	Tusk Hotel	Jumbo Kingdom	Saturday
+Levine	Tusk Hotel	Animal Planet Zoo	Sunday
+Good	Tusk Hotel	Jumbo Kingdom	Friday
+Good	Tusk Hotel	Animal Planet Zoo	Saturday
+Good	Tusk Hotel	Jumbo Studios	Sunday
+Byers	Tusk Hotel	Animal Planet Zoo	Friday
+Byers	Tusk Hotel	Jumbo Kingdom	Saturday
+Byers	Tusk Hotel	Jumbo Studios	Sunday
+Kirkland	Pachyderm Suites	World's Fair	Friday
+Kirkland	Pachyderm Suites	Trunk Water Park	Saturday
+Kirkland	Pachyderm Suites	Jumbo Kingdom	Sunday
+Kidd	Tusk Hotel	Jumbo Kingdom	Friday
+Kidd	Tusk Hotel	Jumbo Studios	Saturday
+Kidd	Tusk Hotel	World's Fair	Sunday
+Workman	Trunk Inn	Jumbo Kingdom	Friday
+Workman	Trunk Inn	Animal Planet Zoo	Saturday
+Workman	Trunk Inn	Trunk Water Park	Sunday
+Carney	Trunk Inn	Animal Planet Zoo	Friday
+Carney	Trunk Inn	Jumbo Kingdom	Saturday
+Carney	Trunk Inn	Jumbo Kingdom	Sunday
+Dale	Pachyderm Suites	Animal Planet Zoo	Friday
+Dale	Pachyderm Suites	Animal Planet Zoo	Saturday
+Dale	Pachyderm Suites	World's Fair	Sunday
+Mcleod	Trunk Inn	Trunk Water Park	Friday
+Mcleod	Trunk Inn	Jumbo Kingdom	Saturday
+Mcleod	Trunk Inn	Animal Planet Zoo	Sunday
+Holcomb	Trunk Inn	Jumbo Studios	Friday
+Holcomb	Trunk Inn	Animal Planet Zoo	Saturday
+Holcomb	Trunk Inn	Jumbo Kingdom	Sunday
+England	Pachyderm Suites	World's Fair	Friday
+England	Pachyderm Suites	Jumbo Kingdom	Saturday
+England	Pachyderm Suites	Animal Planet Zoo	Sunday
+Finch	Mouse Resort	Jumbo Studios	Friday
+Finch	Mouse Resort	Jumbo Studios	Saturday
+Finch	Mouse Resort	Jumbo Studios	Sunday
+Head	Tusk Hotel	Jumbo Kingdom	Friday
+Head	Tusk Hotel	Jumbo Studios	Saturday
+Head	Tusk Hotel	Animal Planet Zoo	Sunday
+Burt	Elephant Lodge	Trunk Water Park	Friday
+Burt	Elephant Lodge	Jumbo Kingdom	Saturday
+Burt	Elephant Lodge	Animal Planet Zoo	Sunday
+Hendrix	Elephant Lodge	World's Fair	Friday
+Hendrix	Elephant Lodge	Animal Planet Zoo	Saturday
+Hendrix	Elephant Lodge	Animal Planet Zoo	Sunday
+Sosa	Loxodon Lodge	World's Fair	Friday
+Sosa	Loxodon Lodge	Jumbo Studios	Saturday
+Sosa	Loxodon Lodge	Jumbo Kingdom	Sunday
+Haney	Oliphant Camp	Jumbo Studios	Friday
+Haney	Oliphant Camp	Animal Planet Zoo	Saturday
+Haney	Oliphant Camp	World's Fair	Sunday
+Franks	Loxodon Lodge	World's Fair	Friday
+Franks	Loxodon Lodge	Jumbo Studios	Saturday
+Franks	Loxodon Lodge	Animal Planet Zoo	Sunday
+Sargent	Trunk Inn	Trunk Water Park	Friday
+Sargent	Trunk Inn	Jumbo Kingdom	Saturday
+Sargent	Trunk Inn	Jumbo Kingdom	Sunday
+Nieves	Pachyderm Suites	World's Fair	Friday
+Nieves	Pachyderm Suites	Jumbo Kingdom	Saturday
+Nieves	Pachyderm Suites	Jumbo Kingdom	Sunday
+Downs	Mouse Resort	Jumbo Studios	Friday
+Downs	Mouse Resort	Jumbo Golf Course	Saturday
+Downs	Mouse Resort	World's Fair	Sunday
+Rasmussen	Loxodon Lodge	World's Fair	Friday
+Rasmussen	Loxodon Lodge	Animal Planet Zoo	Saturday
+Rasmussen	Loxodon Lodge	Animal Planet Zoo	Sunday
+Bird	Mouse Resort	World's Fair	Friday
+Bird	Mouse Resort	Jumbo Golf Course	Saturday
+Bird	Mouse Resort	Jumbo Studios	Sunday
+Hewitt	Pachyderm Suites	Jumbo Studios	Friday
+Hewitt	Pachyderm Suites	Trunk Water Park	Saturday
+Hewitt	Pachyderm Suites	Trunk Water Park	Sunday
+Lindsay	Oliphant Camp	Jumbo Golf Course	Friday
+Lindsay	Oliphant Camp	Jumbo Golf Course	Saturday
+Lindsay	Oliphant Camp	Jumbo Golf Course	Sunday
+Le	Trunk Inn	Jumbo Kingdom	Friday
+Le	Trunk Inn	Jumbo Kingdom	Saturday
+Le	Trunk Inn	Jumbo Golf Course	Sunday
+Foreman	Trunk Inn	Jumbo Kingdom	Friday
+Foreman	Trunk Inn	World's Fair	Saturday
+Foreman	Trunk Inn	World's Fair	Sunday
+Valencia	Trunk Inn	Jumbo Studios	Friday
+Valencia	Trunk Inn	Animal Planet Zoo	Saturday
+Valencia	Trunk Inn	World's Fair	Sunday
+Oneil	Tusk Hotel	Trunk Water Park	Friday
+Oneil	Tusk Hotel	World's Fair	Saturday
+Oneil	Tusk Hotel	World's Fair	Sunday
+Delacruz	Tusk Hotel	Animal Planet Zoo	Friday
+Delacruz	Tusk Hotel	Jumbo Studios	Saturday
+Delacruz	Tusk Hotel	Jumbo Kingdom	Sunday
+Vinson	Mammoth Motel	Animal Planet Zoo	Friday
+Vinson	Mammoth Motel	World's Fair	Saturday
+Vinson	Mammoth Motel	Jumbo Kingdom	Sunday
+Dejesus	Mammoth Motel	Jumbo Kingdom	Friday
+Dejesus	Mammoth Motel	Jumbo Studios	Saturday
+Dejesus	Mammoth Motel	World's Fair	Sunday
+Hyde	Mouse Resort	Jumbo Studios	Friday
+Hyde	Mouse Resort	Jumbo Golf Course	Saturday
+Hyde	Mouse Resort	Trunk Water Park	Sunday
+Forbes	Pachyderm Suites	Animal Planet Zoo	Friday
+Forbes	Pachyderm Suites	Animal Planet Zoo	Saturday
+Forbes	Pachyderm Suites	Jumbo Kingdom	Sunday
+Gilliam	Pachyderm Suites	Trunk Water Park	Friday
+Gilliam	Pachyderm Suites	Trunk Water Park	Saturday
+Gilliam	Pachyderm Suites	Trunk Water Park	Sunday
+Guthrie	Trunk Inn	Animal Planet Zoo	Friday
+Guthrie	Trunk Inn	Jumbo Kingdom	Saturday
+Guthrie	Trunk Inn	Jumbo Studios	Sunday
+Wooten	Mammoth Motel	Jumbo Kingdom	Friday
+Wooten	Mammoth Motel	Jumbo Kingdom	Saturday
+Wooten	Mammoth Motel	World's Fair	Sunday
+Huber	Trunk Inn	Jumbo Kingdom	Friday
+Huber	Trunk Inn	Jumbo Studios	Saturday
+Huber	Trunk Inn	World's Fair	Sunday
+Barlow	Tusk Hotel	Jumbo Kingdom	Friday
+Barlow	Tusk Hotel	Jumbo Studios	Saturday
+Barlow	Tusk Hotel	Trunk Water Park	Sunday
+Boyle	Loxodon Lodge	World's Fair	Friday
+Boyle	Loxodon Lodge	Jumbo Studios	Saturday
+Boyle	Loxodon Lodge	Jumbo Golf Course	Sunday
+Mcmahon	Mouse Resort	World's Fair	Friday
+Mcmahon	Mouse Resort	Jumbo Kingdom	Saturday
+Mcmahon	Mouse Resort	Jumbo Golf Course	Sunday
+Buckner	Tusk Hotel	Jumbo Kingdom	Friday
+Buckner	Tusk Hotel	Jumbo Kingdom	Saturday
+Buckner	Tusk Hotel	Jumbo Kingdom	Sunday
+Rocha	Pachyderm Suites	Jumbo Kingdom	Friday
+Rocha	Pachyderm Suites	Jumbo Kingdom	Saturday
+Rocha	Pachyderm Suites	World's Fair	Sunday
+Puckett	Tusk Hotel	Jumbo Kingdom	Friday
+Puckett	Tusk Hotel	Animal Planet Zoo	Saturday
+Puckett	Tusk Hotel	World's Fair	Sunday
+Langley	Tusk Hotel	World's Fair	Friday
+Langley	Tusk Hotel	Jumbo Kingdom	Saturday
+Langley	Tusk Hotel	Jumbo Studios	Sunday
+Knowles	Pachyderm Suites	World's Fair	Friday
+Knowles	Pachyderm Suites	World's Fair	Saturday
+Knowles	Pachyderm Suites	Jumbo Kingdom	Sunday
+Cooke	Pachyderm Suites	Jumbo Golf Course	Friday
+Cooke	Pachyderm Suites	World's Fair	Saturday
+Cooke	Pachyderm Suites	Jumbo Studios	Sunday
+Velazquez	Mouse Resort	Trunk Water Park	Friday
+Velazquez	Mouse Resort	Animal Planet Zoo	Saturday
+Velazquez	Mouse Resort	World's Fair	Sunday
+Whitley	Trunk Inn	Jumbo Kingdom	Friday
+Whitley	Trunk Inn	Jumbo Kingdom	Saturday
+Whitley	Trunk Inn	World's Fair	Sunday
+Noel	Elephant Lodge	Animal Planet Zoo	Friday
+Noel	Elephant Lodge	Animal Planet Zoo	Saturday
+Noel	Elephant Lodge	Jumbo Studios	Sunday
+Vang	Pachyderm Suites	Jumbo Studios	Friday
+Vang	Pachyderm Suites	World's Fair	Saturday
+Vang	Pachyderm Suites	Jumbo Golf Course	Sunday
