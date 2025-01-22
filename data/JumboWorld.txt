@@ -1,3 +1,4 @@
+
 Family	Hotel	Park	Day
 Smith	Tusk Hotel	Jumbo Kingdom	Friday
 Smith	Tusk Hotel	Jumbo Kingdom	Saturday
